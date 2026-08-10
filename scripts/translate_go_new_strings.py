@@ -100,6 +100,25 @@ FLAT = [
     "Adoption levels come from the US Census Bureau's Business Trends and Outlook Survey (BTOS), the authoritative measured series of firm AI use by industry over time. Each sector is anchored to its latest measured BTOS reading (current use and firms' six-month expectation), and the national BTOS series is used to fit the timing of a logistic diffusion curve.",
     "The curve is shown from five years ago to five years ahead. Values through the present are measured or anchored to BTOS; values after 2026 are a modelled projection (shown as a dashed line), and the pre-2023 segment is a back-cast, since firm AI use was negligible before generative AI. Figures are indicative, not forecasts.",
     "Two limitations: a few sectors not separately measured by BTOS (for example management of companies and public administration) use a proxy value; and BTOS covers the United States only, so other countries currently display the US trajectory as a benchmark until national data is available.",
+    # —— industry 页三段式 + 数据驱动 FAQ ——
+    "Occupations by AI exposure",
+    "which occupations are most exposed to AI?",
+    "The most AI-exposed occupations in this industry are",
+    "which occupations are most resilient to AI?",
+    "The most AI-resilient occupations in this industry are",
+    "what is the AI adoption rate?",
+    "Around",
+    "of firms in this sector currently use AI in a business function, projected to reach about",
+    "by 2031.",
+    "(US benchmark; national data pending.)",
+    "is it a high-risk industry for AI?",
+    "The median AI exposure across these occupations is",
+    "A higher score means more day-to-day tasks are exposed to AI — it does not mean the jobs disappear.",
+    "how many people work in these occupations?",
+    "About",
+    "people are employed across the tracked occupations in",
+    "Occupations can belong to several industries, so this sums occupation employment rather than industry totals.",
+    "low", "moderate", "high",
 ]
 
 
