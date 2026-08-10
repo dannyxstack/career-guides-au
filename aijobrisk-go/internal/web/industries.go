@@ -46,6 +46,7 @@ type IndustriesVM struct {
 	CountryName string
 	Cards       []indCard
 	CountryOpts []cOpt
+	Adoption    *adoptionChartVM
 }
 
 func resolveCC(country string) string {
@@ -141,6 +142,10 @@ func Industries(w http.ResponseWriter, ctx *Ctx, country string) {
 	}
 
 	vm := &IndustriesVM{Ctx: ctx, CC: cc, CountryName: data.CountryName(cc, CL), Cards: cards}
+	if data.AdoptionHas() {
+		vm.Adoption = buildAdoptionChart(ctx, data.AdoptionAll(cc),
+			data.Tr("AI adoption across all industries", CL), data.AdoptionUSOnly(cc), false)
+	}
 	for _, c := range data.COUNTRIES {
 		vm.CountryOpts = append(vm.CountryOpts, cOpt{Code: c, Name: data.CountryName(c, CL), Href: i18n.HrefIndustries(ctx.Loc, c), On: c == cc})
 	}

@@ -134,6 +134,7 @@ func Load(dir string) error {
 	if err := loadIndustries(); err != nil {
 		return err
 	}
+	loadAdoption() // best-effort：缺文件则采纳率图不显示
 	if err := loadDicts(); err != nil {
 		return err
 	}

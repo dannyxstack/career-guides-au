@@ -25,6 +25,8 @@
     <div><dt>{{ .Tr "Workforce" }}</dt><dd>{{ .Tr "Estimated number of people employed in the occupation nationally." }}</dd></div>
   </dl>
 
+  {{ with .Adoption }}{{ template "adoptionChart" . }}{{ end }}
+
   <section class="table-section card">
     <div class="table-wrapper">
       <table id="occ-table">

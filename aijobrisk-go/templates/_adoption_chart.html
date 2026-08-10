@@ -1,0 +1,60 @@
+{{ define "adoptionChart" -}}
+<div class="outlook-chart adopt-chart" data-ac>
+  <div class="oc-top">
+    <div class="oc-title">{{ .Title }} <span class="oc-range">2021–2031</span></div>
+  </div>
+  <svg class="oc-svg" viewBox="0 0 680 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="{{ .Title }}"></svg>
+  <div class="oc-legend">
+    <span class="oc-lg"><span class="oc-swatch solid"></span>{{ .Tr "Measured & to date" }}</span>
+    <span class="oc-lg"><span class="oc-swatch dashed"></span>{{ .Tr "Projected" }}</span>
+  </div>
+  <p class="oc-note muted">{{ .Tr "AI-adoption rate = share of firms using AI in any business function." }}
+    {{ .Tr "Source" }}: {{ .Source }}
+    {{- if .USOnly }} {{ .Tr "US trajectory shown as a benchmark; national data pending for this country." }}{{ end }}
+    {{- if .IsProxy }} {{ .Tr "This sector is a proxy (not separately measured by the source)." }}{{ end }}
+    {{ .Tr "Values after 2026 are a modelled projection." }}</p>
+  <script>
+    (function () {
+      var root = document.currentScript.closest('[data-ac]');
+      if (!root) return;
+      var D = {{ .DataJSON }}, svg = root.querySelector('.oc-svg');
+      var pts = D.pts.map(function (p) { return { y: p[0], v: p[1], proj: p[2] === 1 }; });
+      var baseY = D.base;
+      var W = 680, H = 300, L = 46, R = 14, T = 16, B = 34;
+      function fmt(x) { return Math.round(x) + '%'; }
+      var years = pts.map(function (p) { return p.y; });
+      var yMin = Math.min.apply(null, years), yMax = Math.max.apply(null, years);
+      function sx(y) { return L + (y - yMin) / (yMax - yMin) * (W - L - R); }
+      var vMax = Math.max.apply(null, pts.map(function (p) { return p.v; }));
+      var lo = 0, hi = vMax > 0 ? vMax * 1.12 : 1;
+      function sy(v) { return T + (1 - (v - lo) / (hi - lo)) * (H - T - B); }
+      var s = [], i;
+      for (i = 0; i <= 4; i++) {
+        var vv = lo + (hi - lo) * i / 4, yy = sy(vv);
+        s.push('<line x1="' + L + '" y1="' + yy + '" x2="' + (W - R) + '" y2="' + yy + '" class="oc-grid"/>');
+        s.push('<text x="' + (L - 8) + '" y="' + (yy + 4) + '" class="oc-ytick">' + fmt(vv) + '</text>');
+      }
+      s.push('<line x1="' + sx(baseY) + '" y1="' + T + '" x2="' + sx(baseY) + '" y2="' + (H - B) + '" class="oc-baseline"/>');
+      s.push('<text x="' + sx(baseY) + '" y="' + (T + 10) + '" class="oc-xtick" text-anchor="middle">' + baseY + '</text>');
+      for (i = 0; i < pts.length; i++) {
+        if (i % 2 !== 0 && i !== pts.length - 1) continue;
+        s.push('<text x="' + sx(pts[i].y) + '" y="' + (H - B + 20) + '" class="oc-xtick">' + pts[i].y + '</text>');
+      }
+      var hist = pts.filter(function (p) { return !p.proj; });
+      if (hist.length > 1) {
+        s.push('<polyline class="oc-line solid" points="' + hist.map(function (p) { return sx(p.y) + ',' + sy(p.v); }).join(' ') + '"/>');
+      }
+      var lastHist = hist.length ? hist[hist.length - 1] : null;
+      var proj = pts.filter(function (p) { return p.proj; });
+      var chain = lastHist ? [lastHist].concat(proj) : proj;
+      if (chain.length > 1) {
+        s.push('<polyline class="oc-line dashed" points="' + chain.map(function (p) { return sx(p.y) + ',' + sy(p.v); }).join(' ') + '"/>');
+      }
+      for (i = 0; i < pts.length; i++) {
+        s.push('<circle cx="' + sx(pts[i].y) + '" cy="' + sy(pts[i].v) + '" r="2.6" class="oc-dot' + (pts[i].proj ? ' proj' : '') + '"/>');
+      }
+      svg.innerHTML = s.join('');
+    })();
+  </script>
+</div>
+{{- end }}

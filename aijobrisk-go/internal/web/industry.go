@@ -33,6 +33,7 @@ type IndustryVM struct {
 	Rows             []indRow
 	CountryOpts      []cOpt
 	HrefIndustriesCC string
+	Adoption         *adoptionChartVM
 }
 
 // Industry /industry/{sector}[/{cc}]。
@@ -51,6 +52,10 @@ func Industry(w http.ResponseWriter, ctx *Ctx, sector, country string) {
 		Ctx: ctx, SecName: secName, SecIcon: data.SectorIcon(sec.ID), CC: cc,
 		CountryName: data.CountryName(cc, CL), RowsLen: data.Comma(len(occs)),
 		HrefIndustriesCC: i18n.HrefIndustries(ctx.Loc, cc),
+	}
+	if s, ok := data.AdoptionSector(cc, sec.ID); ok {
+		vm.Adoption = buildAdoptionChart(ctx, s,
+			data.Tr("AI adoption in", CL)+" "+secName, data.AdoptionUSOnly(cc), data.AdoptionIsProxy(sec.ID))
 	}
 	for _, o := range occs {
 		r := indRow{

@@ -5,6 +5,7 @@ import (
 	"html/template"
 	"io"
 	"path/filepath"
+	"strings"
 )
 
 var funcMap = template.FuncMap{
@@ -54,13 +55,22 @@ func InitTemplates(dir string) error {
 	if err != nil {
 		return err
 	}
+	// 共享 partial（_*.html，如 _adoption_chart.html）注入每个页面。
+	var partials []string
+	for _, fpath := range files {
+		if strings.HasPrefix(filepath.Base(fpath), "_") {
+			partials = append(partials, fpath)
+		}
+	}
 	for _, fpath := range files {
 		name := filepath.Base(fpath)
-		if name == "base.html" {
+		if name == "base.html" || strings.HasPrefix(name, "_") {
 			continue
 		}
 		t := template.New("").Funcs(funcMap)
-		if _, err := t.ParseFiles(base, fpath); err != nil {
+		parse := append([]string{base}, partials...)
+		parse = append(parse, fpath)
+		if _, err := t.ParseFiles(parse...); err != nil {
 			return fmt.Errorf("parse %s: %w", name, err)
 		}
 		pages[name] = t

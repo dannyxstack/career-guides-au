@@ -11,6 +11,8 @@
     </label>
   </header>
 
+  {{ with .Adoption }}{{ template "adoptionChart" . }}{{ end }}
+
   <div class="ind-grid">
     {{ range .Cards }}<a href="{{ .Href }}" class="ind-card">
       <div class="ic-head">
