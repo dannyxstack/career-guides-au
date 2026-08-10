@@ -27,6 +27,13 @@
     </div>
     <p>{{ .Tr "A wide human moat with low task exposure signals a resilient career; a narrow moat with high exposure signals a role to reshape early. Every occupation page reuses this same framework so scores are comparable across jobs and countries." }}</p>
   </section>
+  <section id="ai-adoption">
+    <h2>{{ .Tr "AI adoption rate by industry" }}</h2>
+    <p>{{ .Tr "The chart on each industry page tracks the AI adoption rate — the share of firms in a sector using AI in any of their business functions. This is different from AI exposure above: exposure measures how automatable the work is, while adoption measures how many firms have actually started using AI." }}</p>
+    <p>{{ .Tr "Adoption levels come from the US Census Bureau's Business Trends and Outlook Survey (BTOS), the authoritative measured series of firm AI use by industry over time. Each sector is anchored to its latest measured BTOS reading (current use and firms' six-month expectation), and the national BTOS series is used to fit the timing of a logistic diffusion curve." }}</p>
+    <p>{{ .Tr "The curve is shown from five years ago to five years ahead. Values through the present are measured or anchored to BTOS; values after 2026 are a modelled projection (shown as a dashed line), and the pre-2023 segment is a back-cast, since firm AI use was negligible before generative AI. Figures are indicative, not forecasts." }}</p>
+    <p class="muted">{{ .Tr "Two limitations: a few sectors not separately measured by BTOS (for example management of companies and public administration) use a proxy value; and BTOS covers the United States only, so other countries currently display the US trajectory as a benchmark until national data is available." }}</p>
+  </section>
   <section>
     <h2>Occupation ↔ industry mapping</h2>
     <p>An occupation can belong to several industries — a many-to-many relationship. Membership comes from the BLS National Employment Matrix (threshold ≥1% of the occupation's employment), bridged for non-US countries via the O*NET ESCO/ISCO→SOC crosswalk. Exposure scores reflect the occupation overall, not any single industry.</p>
