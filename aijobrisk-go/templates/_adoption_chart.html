@@ -1,18 +1,22 @@
 {{ define "adoptionChart" -}}
 <div class="outlook-chart adopt-chart" data-ac>
-  <div class="oc-top">
-    <div class="oc-title">{{ .Title }} <span class="oc-range">2021–2031</span></div>
+  <div class="oc-title">{{ .Title }} <span class="oc-range">2021–2031</span></div>
+  <div class="ac-row">
+    <div class="ac-chart">
+      <svg class="oc-svg" viewBox="0 0 680 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="{{ .Title }}"></svg>
+      <div class="oc-legend">
+        <span class="oc-lg"><span class="oc-swatch solid"></span>{{ .Tr "Measured & to date" }}</span>
+        <span class="oc-lg"><span class="oc-swatch dashed"></span>{{ .Tr "Projected" }}</span>
+      </div>
+    </div>
+    <div class="ac-side">
+      <p class="oc-note muted">{{ .Tr "AI-adoption rate = share of firms using AI in any business function." }}
+        {{ .Tr "Source" }}: {{ .Source }}
+        {{- if .USOnly }} {{ .Tr "US trajectory shown as a benchmark; national data pending for this country." }}{{ end }}
+        {{- if .IsProxy }} {{ .Tr "This sector is a proxy (not separately measured by the source)." }}{{ end }}
+        {{ .Tr "Values after 2026 are a modelled projection." }}</p>
+    </div>
   </div>
-  <svg class="oc-svg" viewBox="0 0 680 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="{{ .Title }}"></svg>
-  <div class="oc-legend">
-    <span class="oc-lg"><span class="oc-swatch solid"></span>{{ .Tr "Measured & to date" }}</span>
-    <span class="oc-lg"><span class="oc-swatch dashed"></span>{{ .Tr "Projected" }}</span>
-  </div>
-  <p class="oc-note muted">{{ .Tr "AI-adoption rate = share of firms using AI in any business function." }}
-    {{ .Tr "Source" }}: {{ .Source }}
-    {{- if .USOnly }} {{ .Tr "US trajectory shown as a benchmark; national data pending for this country." }}{{ end }}
-    {{- if .IsProxy }} {{ .Tr "This sector is a proxy (not separately measured by the source)." }}{{ end }}
-    {{ .Tr "Values after 2026 are a modelled projection." }}</p>
   <script>
     (function () {
       var root = document.currentScript.closest('[data-ac]');

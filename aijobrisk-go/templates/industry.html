@@ -18,14 +18,15 @@
     </label>
   </section>
 
+  {{ with .Adoption }}<section class="ind-sec ind-chart">{{ template "adoptionChart" . }}</section>{{ end }}
+
+  <h2 class="ind-h">{{ .Tr "Occupations by AI exposure" }}</h2>
   <dl class="col-legend">
     <div><dt>{{ .Tr "AI exposure" }}</dt><dd>{{ .Tr "Generative-AI task-exposure percentile (0–100); higher = more exposed." }} <a href="{{ .HrefMethodology }}">{{ .Tr "Methodology" }} →</a></dd></div>
     <div><dt>{{ .Tr "Industry share" }}</dt><dd>{{ .Tr "Share of this occupation's employment that sits within this industry (many-to-many mapping)." }}</dd></div>
     <div><dt>{{ .Tr "Avg salary" }}</dt><dd>{{ .Tr "Average annual salary (local currency), from official labour statistics." }} · {{ .CountryName }}</dd></div>
     <div><dt>{{ .Tr "Workforce" }}</dt><dd>{{ .Tr "Estimated number of people employed in the occupation nationally." }}</dd></div>
   </dl>
-
-  {{ with .Adoption }}{{ template "adoptionChart" . }}{{ end }}
 
   <section class="table-section card">
     <div class="table-wrapper">
@@ -55,6 +56,13 @@
   <div class="footnote card">
     <strong>{{ .Tr "About the data:" }}</strong> {{ .Tr "Occupation–industry mapping from the BLS National Employment Matrix. AI-exposure scores based on ILO Working Paper 140 and Eloundou et al. (OpenAI). An occupation may appear in several industries — exposure reflects the occupation overall, not industry-specific. Industry share = the occupation's employment share within this industry." }}
   </div>
+
+  {{ if .FAQ }}<section class="ind-faq">
+    <h2 class="ind-h"><i class="fas fa-circle-question"></i> {{ .Tr "FAQ" }} · {{ .SecName }}</h2>
+    {{ range .FAQ }}<details class="faq-item"{{ if .Open }} open{{ end }}><summary>{{ .Q }}<i class="fas fa-chevron-down"></i></summary>
+      <div class="faq-answer"><p>{{ .A }}</p></div></details>
+    {{ end }}
+  </section>{{ end }}
 </div>
 
 <script>
@@ -117,6 +125,17 @@
   .risk-cell { display: inline-flex; align-items: center; gap: 8px; justify-content: flex-end; }
   .footnote { font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 20px; }
   .footnote strong { color: var(--text-strong); }
+  .ind-sec { margin: 4px 0 18px; }
+  .ind-h { font-size: 1.15rem; margin: 22px 0 10px; color: var(--text-strong); }
+  .ind-h i { color: var(--brand); margin-right: 6px; }
+  .ind-faq { margin-top: 8px; }
+  .ind-faq .faq-item { border: 1px solid var(--line); border-radius: 10px; margin-bottom: 8px; background: var(--surface); }
+  .ind-faq summary { list-style: none; cursor: pointer; padding: 12px 15px; font-weight: 600; color: var(--text-strong); display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+  .ind-faq summary::-webkit-details-marker { display: none; }
+  .ind-faq summary i { color: var(--text-muted); font-size: 0.8rem; transition: transform .2s; }
+  .ind-faq details[open] summary i { transform: rotate(180deg); }
+  .ind-faq .faq-answer { padding: 0 15px 13px; color: var(--text-body); line-height: 1.7; }
+  .ind-faq .faq-answer p { margin: 0; }
   @media (max-width: 680px) {
     .table-wrapper { overflow-x: auto; }
     table { min-width: 620px; }

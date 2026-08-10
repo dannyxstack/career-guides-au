@@ -111,3 +111,29 @@ h1, h2, h3 { color: var(--text-strong); }
 .breadcrumb { margin: 20px 0 8px; font-size: 0.85rem; color: var(--text-muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
 .breadcrumb a { color: var(--text-muted); }
 .breadcrumb a:hover { color: var(--brand); }
+
+/* —— Industry AI-adoption chart (industries / industry pages) —— */
+/* 尺寸/配色自成一套，作用域限定 .adopt-chart，避免影响职业页的 outlook 图。*/
+.adopt-chart { margin: 6px 0 22px; }
+.adopt-chart .oc-title { font-weight: 700; font-size: 0.98rem; margin: 0 0 8px; }
+.adopt-chart .oc-range { color: var(--text-muted); font-weight: 500; }
+.adopt-chart .ac-row { display: flex; gap: 24px; align-items: center; flex-wrap: wrap; }
+.adopt-chart .ac-chart { flex: 1 1 360px; min-width: 280px; max-width: 520px; }
+.adopt-chart .ac-side { flex: 1 1 220px; min-width: 200px; }
+.adopt-chart .oc-svg { width: 100%; height: auto; display: block; }
+.adopt-chart .oc-grid { stroke: var(--line); stroke-width: 1; }
+.adopt-chart .oc-baseline { stroke: var(--text-muted); stroke-dasharray: 3 3; stroke-width: 1; opacity: .6; }
+.adopt-chart .oc-ytick { fill: var(--text-muted); font-size: 11px; text-anchor: end; }
+.adopt-chart .oc-xtick { fill: var(--text-muted); font-size: 11px; text-anchor: middle; }
+.adopt-chart .oc-line { fill: none; stroke-width: 2.6; stroke-linejoin: round; stroke-linecap: round; }
+.adopt-chart .oc-line.solid { stroke: var(--teal); }
+.adopt-chart .oc-line.dashed { stroke: var(--brand); stroke-dasharray: 5 4; }
+.adopt-chart .oc-dot { fill: var(--teal); stroke: var(--surface); stroke-width: 1.3; }
+.adopt-chart .oc-dot.proj { fill: var(--surface); stroke: var(--brand); stroke-width: 1.8; }
+.adopt-chart .oc-legend { display: flex; gap: 14px; margin-top: 6px; font-size: 0.76rem; color: var(--text-muted); }
+.adopt-chart .oc-swatch { display: inline-block; width: 16px; height: 0; border-top: 3px solid var(--teal); vertical-align: middle; margin-right: 5px; }
+.adopt-chart .oc-swatch.dashed { border-top-style: dashed; border-color: var(--brand); }
+.adopt-chart .ac-side .oc-note { font-size: 0.82rem; line-height: 1.65; color: var(--text-body); margin: 0; }
+@media (max-width: 640px) {
+  .adopt-chart .ac-chart, .adopt-chart .ac-side { flex-basis: 100%; max-width: none; }
+}
