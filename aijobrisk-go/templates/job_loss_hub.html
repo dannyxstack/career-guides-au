@@ -19,6 +19,12 @@
   <p class="muted note">Global total across {{ .NCountries }} countries &middot; ~{{ comma .Agg.Jobs }} workers covered.
   The mid scenario is calibrated to ~{{ .MidTargetPct }}% of the workforce, in line with Goldman Sachs and WEF estimates (below).</p>
 
+  <p class="jl-links">See also:
+    <a href="{{ .WithL "/rankings/most-exposed" }}">jobs that AI will replace</a> ·
+    <a href="{{ .WithL "/rankings/deepest-moat" }}">jobs AI can&rsquo;t replace</a> ·
+    <a href="{{ .WithL "/rankings/ai-proof-high-paying" }}">high-paying AI-proof jobs</a> ·
+    <a href="{{ .WithL "/data" }}">AI job replacement statistics</a></p>
+
   <div class="jl-toggle" role="group" aria-label="metric">
     <button type="button" data-m="count" class="on">Number of jobs</button>
     <button type="button" data-m="rate">Loss rate %</button>

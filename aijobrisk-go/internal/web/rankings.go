@@ -14,10 +14,45 @@ import (
 var rkBoardIcon = map[string]string{
 	"most-exposed": "fa-circle-exclamation", "least-exposed": "fa-shield-halved", "highest-paying": "fa-star",
 	"largest-workforce": "fa-users", "strongest-demand": "fa-arrow-trend-up", "deepest-moat": "fa-chess-rook",
+	"ai-proof-high-paying": "fa-sack-dollar",
 }
 var rkBoardTone = map[string]string{
 	"most-exposed": "high", "least-exposed": "low", "highest-paying": "gold",
 	"largest-workforce": "slate", "strongest-demand": "brand", "deepest-moat": "moat",
+	"ai-proof-high-paying": "gold",
+}
+
+// rkBoardSEO 用户搜索措辞的 H1/<title>（覆盖内部术语标题，命中大白话关键词簇）。
+var rkBoardSEO = map[string]string{
+	"most-exposed":         "Jobs That AI Will Replace",
+	"least-exposed":        "Jobs Least Likely to Be Replaced by AI",
+	"deepest-moat":         "Jobs AI Can't Replace",
+	"ai-proof-high-paying": "High-Paying AI-Proof Jobs",
+}
+
+// rkBoardFAQExtra 每个榜单追加的答案优先问答（问句直接命中关键词,并进 FAQPage schema）。
+func rkBoardFAQExtra(board, CL string) []qaVM {
+	switch board {
+	case "most-exposed":
+		return []qaVM{{data.Tr("What jobs are most likely to be replaced by AI?", CL),
+			data.Tr("The occupations at the top of this list — where the largest share of day-to-day tasks can be automated or AI-assisted. Exposure reshapes the role and can shrink entry-level hiring; it is not a guarantee the job disappears.", CL)}}
+	case "least-exposed", "deepest-moat":
+		return []qaVM{{data.Tr("What jobs can AI not replace?", CL),
+			data.Tr("Roles that depend on physical presence, licensed accountability, complex judgement, care and face-to-face trust — the human moat AI struggles to cross. The occupations ranked here have the lowest AI exposure or the deepest moat.", CL)}}
+	case "ai-proof-high-paying":
+		return []qaVM{{data.Tr("What are the highest-paying AI-proof jobs?", CL),
+			data.Tr("Well-paid occupations with low generative-AI exposure — they combine strong salaries with a wide human moat, so a smaller share of their tasks is automatable. This board ranks them by average pay.", CL)}}
+	}
+	return nil
+}
+
+// qaToFAQ 把 []qaVM 适配成 faqPageLD 需要的 []faqRow。
+func qaToFAQ(qs []qaVM) []faqRow {
+	out := make([]faqRow, len(qs))
+	for i, q := range qs {
+		out[i] = faqRow{Q: q.Q, A: q.A}
+	}
+	return out
 }
 
 type rkHubItem struct{ N int; Name, Href, Primary, Secondary string }
@@ -330,14 +365,25 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 		}
 	}
 
-	vm.FAQ = []qaVM{
+	vm.FAQ = rkBoardFAQExtra(board, CL)
+	vm.FAQ = append(vm.FAQ, []qaVM{
 		{data.Tr("How is the AI exposure percentile calculated?", CL), data.Tr(`It comes from two open studies — the ILO Working Paper 140 and Eloundou et al. "GPTs are GPTs" (OpenAI) — mapped onto official occupation classifications. It is a percentile (0–100): higher means more exposed to generative AI.`, CL)},
 		{data.Tr("Does high exposure mean the job disappears?", CL), data.Tr("No. High exposure means a larger share of the tasks can be done or assisted by AI — the task mix is reshaped, entry-level roles may shrink, and AI-fluent workers gain leverage. It is not a prediction of unemployment.", CL)},
 		{data.Tr("What is the human moat?", CL), data.Tr("The capabilities AI struggles to replace: complex judgement, on-site work, licensed accountability, empathy and care, and face-to-face trust. A deeper moat makes an occupation more resilient.", CL)},
 		{data.Tr("How is this ranking produced?", CL), data.Tr("Rankings are computed automatically by transparent rules from official labour statistics and the exposure scores — not hand-picked. Figures are estimates, updated periodically, and indicative only.", CL)},
+	}...)
+
+	// SEO：用搜索措辞覆盖 H1/<title>（命中 “jobs AI will replace / can't replace / AI-proof” 等大词）。
+	headline := b.Title
+	if h := rkBoardSEO[board]; h != "" {
+		headline = data.Tr(h, CL)
+		vm.BoardTitle = headline
 	}
-	ctx.Title = b.Title + " — " + data.Tr("full ranking", CL) + " (" + vm.CountryName + ") | AI Job Risk"
-	ctx.Description = b.Title + ": " + b.Desc + " · " + vm.CountryName
+	ctx.Title = headline + " — " + vm.CountryName + " (2026) | AI Job Risk"
+	ctx.Description = headline + " · " + b.Desc + " · " + vm.CountryName + ". " +
+		data.Tr("Ranked by generative-AI exposure from ILO research; figures are indicative estimates.", CL)
+	// 结构化数据：FAQPage（问句命中关键词）+ 面包屑。
+	ctx.JSONLD = jsonLD(faqPageLD(qaToFAQ(vm.FAQ)), breadcrumbLD(ctx, cc, headline))
 	renderPage(w, "rankings.html", vm)
 }
 

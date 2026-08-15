@@ -75,6 +75,8 @@ func BuildBoards(country string, top int, loc string) []Board {
 	}
 	withExp := filter(all, func(i RankItem) bool { return i.Aioe != nil })
 	withPay := filter(all, func(i RankItem) bool { return i.Salary != nil })
+	// AI-proof 高薪：有薪资且 AI 暴露分低（< 40，即“低”暴露带），按薪资降序。
+	aiProof := filter(withPay, func(i RankItem) bool { return i.Aioe != nil && *i.Aioe < 40 })
 	withWork := filter(all, func(i RankItem) bool { return i.Workforce != nil && *i.Workforce > 0 })
 	withDemand := filter(all, func(i RankItem) bool { return i.Demand != nil })
 	withMoat := filter(all, func(i RankItem) bool { return i.Moat != nil })
@@ -93,6 +95,8 @@ func BuildBoards(country string, top int, loc string) []Board {
 			Items: topN(withDemand, func(i RankItem) *float64 { return i.Demand }, true, top)},
 		{ID: "deepest-moat", Title: Tr("Deepest human moat", loc), Desc: Tr("Hardest for AI to replace (1–10 scale)", loc), Metric: "moat",
 			Items: topN(withMoat, func(i RankItem) *float64 { return i.Moat }, true, top)},
+		{ID: "ai-proof-high-paying", Title: Tr("High-paying AI-proof jobs", loc), Desc: Tr("Best-paid occupations with low AI exposure", loc), Metric: "salary",
+			Items: topN(aiProof, func(i RankItem) *float64 { return i.Salary }, true, top)},
 	}
 }
 

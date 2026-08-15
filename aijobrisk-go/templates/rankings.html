@@ -131,6 +131,13 @@
       <div class="a">{{ .A }}</div>
     </div>{{ end }}
   </div>
+
+  {{ if .IsBoard }}<p class="rk-links">{{ .Tr "See also" }}:
+    <a href="{{ .WithL "/rankings/most-exposed" }}">{{ .Tr "Jobs that AI will replace" }}</a> ·
+    <a href="{{ .WithL "/rankings/deepest-moat" }}">{{ .Tr "Jobs AI can't replace" }}</a> ·
+    <a href="{{ .WithL "/rankings/ai-proof-high-paying" }}">{{ .Tr "High-paying AI-proof jobs" }}</a> ·
+    <a href="{{ .WithL "/ai-job-loss-2030" }}">{{ .Tr "How many jobs will AI replace by 2030?" }}</a> ·
+    <a href="{{ .WithL "/data" }}">{{ .Tr "AI job replacement statistics" }}</a></p>{{ end }}
 </div>
 {{ end }}
 

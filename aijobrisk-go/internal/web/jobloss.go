@@ -2,6 +2,7 @@ package web
 
 import (
 	"encoding/json"
+	"fmt"
 	"html/template"
 	"net/http"
 	"sort"
@@ -98,6 +99,12 @@ func topOccRows(occs []*model.Occ, n int) []jlOccRow {
 }
 
 func datasetLD(site, url, name, desc string) template.JS {
+	b, _ := json.Marshal(datasetLDObj(site, url, name, desc))
+	return template.JS(b)
+}
+
+// datasetLDObj 返回 Dataset schema.org 对象（供 jsonLD 与其它类型合并成数组）。
+func datasetLDObj(site, url, name, desc string) map[string]any {
 	ld := map[string]any{
 		"@context":    "https://schema.org",
 		"@type":       "Dataset",
@@ -116,8 +123,7 @@ func datasetLD(site, url, name, desc string) template.JS {
 				"url":  "https://arxiv.org/abs/2303.10130"},
 		},
 	}
-	b, _ := json.Marshal(ld)
-	return template.JS(b)
+	return ld
 }
 
 // JobLossHub /ai-job-loss-2030：全球总量 + 国家排行 + 全球 Top 职业。
@@ -170,9 +176,20 @@ func JobLossHub(w http.ResponseWriter, ctx *Ctx) {
 	ctx.Title = "How many jobs will AI replace by 2030? — country estimates | " + SiteName
 	ctx.Description = "A transparent scenario estimate of AI-driven job loss by 2030 across " +
 		data.Comma(len(rows)) + " countries: low/mid/high ranges by country and occupation, built on ILO GenAI exposure research."
-	ctx.JSONLD = datasetLD(ctx.Site, ctx.CanonicalURL(),
-		"AI job loss by 2030 by country", ctx.Description)
 	midTarget := data.LossMidTarget * 100
+	// FAQPage：问句直接命中 “how many jobs will AI replace by 2030 / 2050” 等关键词簇。
+	hubFAQ := []faqRow{
+		{Q: "How many jobs will AI replace by 2030?",
+			A: fmt.Sprintf("On our mid scenario, generative AI could displace roughly %d%% of tasks across the occupations we track by 2030 — a reshaping of work rather than one-for-one job loss. We publish low/mid/high ranges for %s countries and the most-exposed occupations.", int(g.RateMid*100+0.5), data.Comma(len(rows)))},
+		{Q: "How many jobs will AI replace by 2050?",
+			A: "2050 is beyond the horizon of the underlying ILO exposure research, so we do not publish a 2050 figure. Our estimates run to 2030, where the task-exposure evidence is strongest; treat anything further out as speculative."},
+		{Q: "Which jobs will AI replace first?",
+			A: "The occupations with the highest generative-AI task exposure — clerical, routine writing and data roles top the list. See the most-exposed ranking and each country page for the specific occupations."},
+	}
+	ctx.JSONLD = jsonLD(
+		datasetLDObj(ctx.Site, ctx.CanonicalURL(), "AI job loss by 2030 by country", ctx.Description),
+		faqPageLD(hubFAQ),
+	)
 	renderPage(w, "job_loss_hub.html", &JobLossHubVM{
 		Ctx: ctx, Agg: g, MidTargetPct: int(midTarget + 0.5),
 		NCountries: len(rows), Countries: rows, TopOccs: top,

@@ -398,6 +398,22 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	vm.SalaryChart = buildSalaryChart(active.SalaryHistory, active.Country)
 	vm.Loss = buildJobLossOcc(active, ctx)
 
+	// "Can AI replace {职业}?" 答案优先（命中 "can ai replace X" 长尾 + 喂 GEO/FAQPage）。
+	if hasHeadline {
+		var canSent string
+		switch {
+		case headlinePct >= 70:
+			canSent = data.Tr("A large share of its day-to-day tasks can already be automated or AI-assisted, so parts of the role are at risk and entry-level hiring may shrink — but full replacement is unlikely in the near term, and the human moat still matters.", CL)
+		case headlinePct >= 40:
+			canSent = data.Tr("AI can handle a meaningful share of its tasks, so the role is being reshaped rather than removed; workers who use AI well gain the advantage.", CL)
+		default:
+			canSent = data.Tr("Most of its work relies on skills AI cannot easily replicate — physical presence, judgement, accountability or human trust — so it is relatively resilient to automation.", CL)
+		}
+		canA := fmt.Sprintf("%s — %d%% ", dispName, headlinePct) + data.Tr("AI exposure", CL) +
+			" (" + data.Tr(band.Label, CL) + "). " + canSent
+		vm.FAQ = append(vm.FAQ, faqRow{Q: data.Tr("Can AI replace", CL) + " " + dispName + "?", A: canA, Open: true})
+	}
+
 	// FAQ（2030 + active.faqs）
 	q2030, a2030 := data.Build2030(ctx.Loc, dispName, band.Cls, band.Label, aioe, exposure, moat)
 	vm.FAQ = append(vm.FAQ, faqRow{Q: q2030, A: a2030, Open: true})

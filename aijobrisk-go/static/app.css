@@ -137,3 +137,8 @@ h1, h2, h3 { color: var(--text-strong); }
 @media (max-width: 640px) {
   .adopt-chart .ac-chart, .adopt-chart .ac-side { flex-basis: 100%; max-width: none; }
 }
+
+/* 内链枢纽:榜单/2030 hub 的关键词锚文本"See also"行 */
+.rk-links, .jl-links { font-size: 0.9rem; color: var(--text-muted); margin: 6px 0 22px; line-height: 1.9; }
+.rk-links a, .jl-links a { color: var(--brand); }
+.rk-links a:hover, .jl-links a:hover { text-decoration: underline; }

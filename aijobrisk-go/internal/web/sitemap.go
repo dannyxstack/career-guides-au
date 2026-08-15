@@ -11,7 +11,7 @@ import (
 // DataUpdated sitemap lastmod（对齐 site-config DATA_UPDATED）。
 const DataUpdated = "2026-07-16"
 
-var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "largest-workforce", "strongest-demand", "deepest-moat"}
+var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "largest-workforce", "strongest-demand", "deepest-moat", "ai-proof-high-paying"}
 
 func pagePaths() []string {
 	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook", "/data"}

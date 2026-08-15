@@ -2,6 +2,7 @@ package web
 
 import (
 	"encoding/json"
+	"fmt"
 	"net/http"
 	"sort"
 	"sync"
@@ -55,6 +56,10 @@ type DataVM struct {
 	Risky, Safe []dataRow
 	Updated     string
 	Total       int
+	// 可引用统计（喂 GEO / 命中 “ai replacing jobs statistics”）。
+	HighPct, MidPct, LowPct int
+	HighN, LowN             int
+	Countries               int
 }
 
 // DataPage /data：Top 100 高危 / Top 100 安全职业（机器可爬 HTML 表 + JSON 链接）。
@@ -71,10 +76,32 @@ func DataPage(w http.ResponseWriter, ctx *Ctx) {
 	if len(safe) > n {
 		safe = safe[:n]
 	}
-	vm := &DataVM{Ctx: ctx, Risky: risky, Safe: safe, Updated: DataUpdated, Total: len(dataAll)}
+	// 全局暴露分布（可引用统计）。
+	high, mid, low := 0, 0, 0
+	for _, r := range dataAll {
+		switch {
+		case r.Pct >= 70:
+			high++
+		case r.Pct >= 40:
+			mid++
+		default:
+			low++
+		}
+	}
+	pct := func(n int) int {
+		if len(dataAll) == 0 {
+			return 0
+		}
+		return int(float64(n)/float64(len(dataAll))*100 + 0.5)
+	}
+	vm := &DataVM{Ctx: ctx, Risky: risky, Safe: safe, Updated: DataUpdated, Total: len(dataAll),
+		HighPct: pct(high), MidPct: pct(mid), LowPct: pct(low), HighN: high, LowN: low,
+		Countries: len(data.COUNTRIES)}
 	ctx.Active = ""
-	ctx.Title = "AI Job Risk Data — Top 100 most exposed & safest occupations | AI Job Risk"
-	ctx.Description = "Machine-readable ranking of occupations by generative-AI exposure: the 100 most-exposed and 100 safest jobs, plus a full open JSON dataset."
+	// 统计枢纽措辞：命中 “ai replacing jobs statistics / ai job replacement statistics”。
+	ctx.Title = "AI Job Replacement Statistics 2026 — exposure data for " + data.Comma(len(dataAll)) + " occupations | AI Job Risk"
+	ctx.Description = fmt.Sprintf("AI job statistics: %d%% of the %s occupations we track are highly exposed to generative AI, %d%% moderately, %d%% low. Machine-readable ranking of the most-exposed and safest jobs, plus an open JSON dataset.",
+		vm.HighPct, data.Comma(len(dataAll)), vm.MidPct, vm.LowPct)
 	ctx.JSONLD = datasetLD(ctx.Site, ctx.CanonicalURL(), "AI Job Risk — occupation exposure dataset", ctx.Description)
 	renderPage(w, "data.html", vm)
 }

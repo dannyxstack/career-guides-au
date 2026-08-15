@@ -1,10 +1,23 @@
 {{ define "content" -}}
 <div class="container dp-wrap">
-  <h1>{{ .Tr "AI Job Risk data" }}</h1>
+  <h1>{{ .Tr "AI job replacement statistics" }}</h1>
   <p class="dp-lead">{{ .Tr "An open ranking of occupations by generative-AI task exposure. Below are the 100 most-exposed and 100 safest jobs across all countries we cover; the full dataset is available as JSON." }}</p>
-  <p class="muted dp-meta">{{ .Tr "Covering" }} {{ comma .Total }} {{ .Tr "occupations" }} · {{ .Tr "Last updated" }}: {{ .Updated }} ·
+  <p class="muted dp-meta">{{ .Tr "Covering" }} {{ comma .Total }} {{ .Tr "occupations" }} · {{ .Countries }} {{ .Tr "countries" }} · {{ .Tr "Last updated" }}: {{ .Updated }} ·
     <a href="{{ .WithL "/data/occupations.json" }}">occupations.json</a> ·
     <a href="{{ .HrefMethodology }}#human-moat">{{ .Tr "Methodology" }}</a></p>
+
+  <div class="dp-stats">
+    <div class="dp-stat high"><span class="dp-statn">{{ .HighPct }}%</span><span class="dp-statl">{{ .Tr "highly exposed to AI" }}</span></div>
+    <div class="dp-stat mid"><span class="dp-statn">{{ .MidPct }}%</span><span class="dp-statl">{{ .Tr "moderately exposed" }}</span></div>
+    <div class="dp-stat low"><span class="dp-statn">{{ .LowPct }}%</span><span class="dp-statl">{{ .Tr "low exposure (resilient)" }}</span></div>
+    <div class="dp-stat"><span class="dp-statn">{{ comma .Total }}</span><span class="dp-statl">{{ .Tr "occupations scored" }}</span></div>
+  </div>
+
+  <p class="dp-links">{{ .Tr "See also" }}:
+    <a href="{{ .WithL "/rankings/most-exposed" }}">{{ .Tr "Jobs that AI will replace" }}</a> ·
+    <a href="{{ .WithL "/rankings/deepest-moat" }}">{{ .Tr "Jobs AI can't replace" }}</a> ·
+    <a href="{{ .WithL "/rankings/ai-proof-high-paying" }}">{{ .Tr "High-paying AI-proof jobs" }}</a> ·
+    <a href="{{ .WithL "/ai-job-loss-2030" }}">{{ .Tr "How many jobs will AI replace by 2030?" }}</a></p>
 
   <div class="dp-cols">
     <section>
@@ -42,7 +55,16 @@
   .dp-wrap { max-width: 1100px; padding: 28px 0 44px; }
   .dp-wrap h1 { font-size: 2rem; margin: 0 0 10px; }
   .dp-lead { font-size: 1.05rem; color: var(--text-body); line-height: 1.7; margin: 0 0 6px; }
-  .dp-meta { font-size: 0.88rem; margin: 0 0 22px; }
+  .dp-meta { font-size: 0.88rem; margin: 0 0 18px; }
+  .dp-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 0 0 18px; }
+  .dp-stat { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; box-shadow: var(--shadow); }
+  .dp-stat.high { border-left: 4px solid var(--risk-high); }
+  .dp-stat.mid { border-left: 4px solid var(--risk-mid-fg); }
+  .dp-stat.low { border-left: 4px solid var(--risk-low); }
+  .dp-statn { display: block; font-size: 1.7rem; font-weight: 800; color: var(--text-strong); font-variant-numeric: tabular-nums; }
+  .dp-statl { display: block; font-size: 0.82rem; color: var(--text-muted); margin-top: 2px; }
+  .dp-links { font-size: 0.9rem; margin: 0 0 22px; color: var(--text-muted); }
+  .dp-links a { color: var(--brand); } .dp-links a:hover { text-decoration: underline; }
   .dp-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 30px; }
   .dp-h { font-size: 1.15rem; margin: 0 0 10px; }
   .dp-h.high { color: var(--risk-high-fg); }
