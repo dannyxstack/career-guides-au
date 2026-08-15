@@ -5,11 +5,27 @@
 后端优先级沿用：百度大模型 -> Azure -> DeepSeek。
 运行：python -m scripts.translate_v2 [--locales de,fr,it] [--batch 50] [--limit N] [--dry] [--all]
 """
-import sys, os, argparse, json
+import sys, os, argparse, json, time, threading
+from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+import requests
 from db.connection import get_cursor
 from scripts import _deepseek_rest
+from video_pipeline import azure_translate as _azure
 from video_pipeline import config
+
+# 网络类错误（DNS 解析失败、连接中断、超时）应重试而非跳过；
+# 内容类错误（返回长度不匹配等）交由上层逐条隔离。
+_NET_ERRORS = (requests.exceptions.ConnectionError, requests.exceptions.Timeout)
+
+
+def _is_net_error(e):
+    """真·网络类错误：DNS/连接/超时/429/5xx——可长时间退避重试（扛断网窗口）。"""
+    if isinstance(e, _NET_ERRORS):
+        return True
+    if isinstance(e, requests.exceptions.HTTPError):
+        return getattr(getattr(e, "response", None), "status_code", 0) in (429, 500, 502, 503, 504)
+    return False
 
 # en 是母本，不在目标语内
 LOCALES = ["es", "pt", "vi", "th", "ms", "id", "zh-Hant", "zh-CN", "ja", "de", "it", "nl", "fr"]
@@ -38,24 +54,104 @@ def system_prompt(lang):
     )
 
 
-def translate_batch(texts, loc):
-    """英文母本翻译：直连 DeepSeek（正确 from-English，覆盖全部目标语）。
-    旧的 baidu/azure 后端源语言固定中文、目标映射窄，不适配英文母本，故 v2 不用。"""
+# Azure 字符预算：累计送 Azure 翻译的字符数达阈值后自动切 DeepSeek（0=不限）。
+AZURE_CHAR_BUDGET = 0
+_azure_chars = 0
+_azure_lock = threading.Lock()
+
+
+def _azure_over_budget():
+    if not AZURE_CHAR_BUDGET:
+        return False
+    with _azure_lock:
+        return _azure_chars >= AZURE_CHAR_BUDGET
+
+
+def _add_azure_chars(n):
+    global _azure_chars
+    with _azure_lock:
+        _azure_chars += n
+        over = AZURE_CHAR_BUDGET and _azure_chars >= AZURE_CHAR_BUDGET
+    if over:
+        print(f"  [Azure 预算已达 {_azure_chars:,}/{AZURE_CHAR_BUDGET:,} 字符，后续切 DeepSeek]")
+
+
+def translate_batch(texts, loc, backend="deepseek", max_net_retries=20, max_content_retries=2):
+    """英文母本翻译（from-English）。backend=azure 走 Azure Translator（直译文本、等长返回，
+    无 JSON 空体/截断问题，自带 4 次重试）；否则直连 DeepSeek（json_object 模式）。
+    backend=azure 且已达字符预算或配额耗尽（403）时，自动改用 DeepSeek。"""
+    if backend == "azure" and not _azure_over_budget():
+        try:
+            res = _azure.translate(texts, loc, src_lang="en")
+            _add_azure_chars(sum(len(t) for t in texts))
+            return res
+        except _azure.AzureQuotaExhausted:
+            print("  [Azure 配额耗尽，切 DeepSeek]")
+        # 落到下方 DeepSeek 路径
     lang = LANG_NAME[loc]
     prompt = "Translate these strings (JSON array) and return {\"t\": [...]} with the same length:\n" + \
         json.dumps(texts, ensure_ascii=False)
-    out = _deepseek_rest.complete_json(system_prompt(lang), prompt)
-    res = out.get("t") or []
-    if len(res) != len(texts):
-        raise ValueError(f"长度不匹配 expect {len(texts)} got {len(res)}")
-    return res
+    net_tries = content_tries = 0
+    while True:
+        try:
+            out = _deepseek_rest.complete_json(system_prompt(lang), prompt)
+            res = out.get("t") or []
+            if len(res) != len(texts):
+                raise ValueError(f"长度不匹配 expect {len(texts)} got {len(res)}")
+            return res
+        except Exception as e:
+            if _is_net_error(e):
+                # 断网可能持续数分钟：长退避、大重试预算，绝不跳过。
+                net_tries += 1
+                if net_tries > max_net_retries:
+                    raise
+                wait = min(60, 2 ** net_tries)
+                print(f"    网络失败，{wait}s 后重试 ({net_tries}/{max_net_retries}): {e}")
+                time.sleep(wait)
+            else:
+                # 空体/截断（JSONDecodeError）或长度不匹配：少量软重试即可清掉瞬时空体；
+                # 确定性截断则快速抛出，交由上层拆成更小/逐条重试，不空耗网络预算。
+                content_tries += 1
+                if content_tries > max_content_retries:
+                    raise
+                time.sleep(1)
 
 
 MODEL = f"deepseek:{config.DEEPSEEK_MODEL}"
 
 
-def run(locales, batch, limit, dry, include_unreferenced=False):
-    model = MODEL
+def _translate_chunk(chunk, loc, backend="deepseek"):
+    """翻译一个 chunk：整批失败则逐条重试隔离（截断/坏串）。返回可写入的 (src_hash, text) 列表。"""
+    texts = [r["src_text"] for r in chunk]
+    try:
+        res = translate_batch(texts, loc, backend)
+    except Exception as e:
+        print(f"  整批失败({e})，逐条重试")
+        res = []
+        for tx in texts:
+            try:
+                res.append(translate_batch([tx], loc, backend)[0])
+            except Exception as e2:
+                print(f"    单条失败，跳过: {e2}")
+                res.append(None)
+    return [(r["src_hash"], t) for r, t in zip(chunk, res) if t]
+
+
+def _write_chunk(pairs, loc, model):
+    if not pairs:
+        return 0
+    rows = [(h, loc, t, model) for (h, t) in pairs]
+    with get_cursor() as cur:
+        cur.executemany("INSERT INTO translations_v2 (src_hash,locale,text,gen_model) VALUES (%s,%s,%s,%s) "
+                        "ON DUPLICATE KEY UPDATE text=VALUES(text),gen_model=VALUES(gen_model)", rows)
+    return len(rows)
+
+
+def run(locales, batch, limit, dry, include_unreferenced=False, workers=1, backend="deepseek"):
+    model = _azure.MODEL_LABEL if backend == "azure" else MODEL
+    if backend == "azure":
+        # 补 Azure 目标语映射（模块默认缺 fr）。
+        _azure.LOCALE_TO_AZURE.update({"fr": "fr", "es": "es", "zh-CN": "zh-Hans"})
     # 默认只翻 aijobrisk 站实际引用的串（in_aijobrisk=1）；--all 时翻全部。
     ref_clause = "" if include_unreferenced else " AND s.in_aijobrisk=1"
     for loc in locales:
@@ -66,30 +162,29 @@ def run(locales, batch, limit, dry, include_unreferenced=False):
             cur.execute(sql + (" LIMIT %s" % int(limit) if limit else ""), (loc,))
             todo = cur.fetchall()
         scope = "全部源串" if include_unreferenced else "仅 aijobrisk 引用串"
-        print(f"[{loc}] 待翻译 {len(todo)} 串 ({scope}, model={model})")
+        print(f"[{loc}] 待翻译 {len(todo)} 串 ({scope}, model={model}, workers={workers})")
         if dry:
             continue
+        chunks = [todo[i:i + batch] for i in range(0, len(todo), batch)]
+        total = len(todo)
         done = 0
-        for i in range(0, len(todo), batch):
-            chunk = todo[i:i + batch]
-            texts = [r["src_text"] for r in chunk]
-            try:
-                res = translate_batch(texts, loc)
-            except Exception as e:
-                print(f"  批 {i}-{i+len(chunk)} 整批失败({e})，逐条重试")
-                res = []
-                for tx in texts:
-                    try:
-                        res.append(translate_batch([tx], loc)[0])
-                    except Exception as e2:
-                        print(f"    单条失败，跳过: {e2}")
-                        res.append(None)
-            rows = [(r["src_hash"], loc, t, model) for r, t in zip(chunk, res) if t]
-            with get_cursor() as cur:
-                cur.executemany("INSERT INTO translations_v2 (src_hash,locale,text,gen_model) VALUES (%s,%s,%s,%s) "
-                                "ON DUPLICATE KEY UPDATE text=VALUES(text),gen_model=VALUES(gen_model)", rows)
-            done += len(rows)
-            print(f"  [{loc}] {done}/{len(todo)}")
+        if workers <= 1:
+            for chunk in chunks:
+                done += _write_chunk(_translate_chunk(chunk, loc, backend), loc, model)
+                print(f"  [{loc}] {done}/{total}")
+        else:
+            # 网络 I/O 密集，多线程可并发发批（每线程各自的 DB 连接，天然安全）。
+            lock = threading.Lock()
+
+            def work(chunk):
+                nonlocal done
+                n = _write_chunk(_translate_chunk(chunk, loc, backend), loc, model)
+                with lock:
+                    done += n
+                    print(f"  [{loc}] {done}/{total}")
+
+            with ThreadPoolExecutor(max_workers=workers) as ex:
+                list(ex.map(work, chunks))
         print(f"[{loc}] 完成，写入 {done}")
 
 
@@ -101,5 +196,12 @@ if __name__ == "__main__":
     ap.add_argument("--dry", action="store_true")
     ap.add_argument("--all", dest="include_unreferenced", action="store_true",
                     help="翻译全部源串（含 aijobrisk 未引用的）；默认只翻 in_aijobrisk=1")
+    ap.add_argument("--workers", type=int, default=1, help="并发 worker 数（网络 I/O，>1 提速）")
+    ap.add_argument("--backend", choices=["deepseek", "azure"], default="deepseek",
+                    help="翻译后端；azure 达字符预算或配额耗尽后自动切 deepseek")
+    ap.add_argument("--azure-char-budget", type=int, default=0,
+                    help="Azure 累计字符预算，达到后切 DeepSeek（0=不限）")
     a = ap.parse_args()
-    run([x.strip() for x in a.locales.split(",") if x.strip()], a.batch, a.limit, a.dry, a.include_unreferenced)
+    AZURE_CHAR_BUDGET = a.azure_char_budget
+    run([x.strip() for x in a.locales.split(",") if x.strip()], a.batch, a.limit, a.dry,
+        a.include_unreferenced, a.workers, a.backend)
