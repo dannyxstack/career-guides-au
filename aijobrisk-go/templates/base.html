@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ .Title }}</title>
     {{ if .Description }}<meta name="description" content="{{ .Description }}" />{{ end }}
-    {{ if .Noindex }}<meta name="robots" content="noindex,follow" />{{ end }}
+    {{ if .RobotsNoindex }}<meta name="robots" content="noindex,follow" />{{ end }}
     <link rel="canonical" href="{{ .CanonicalURL }}" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
     {{ range .Alternates }}<link rel="alternate" hreflang="{{ .Hreflang }}" href="{{ .Href }}" />

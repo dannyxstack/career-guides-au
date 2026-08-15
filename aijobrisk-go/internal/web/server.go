@@ -42,6 +42,12 @@ func Router(site string) http.Handler {
 			return
 		}
 		seg := strings.Split(strings.Trim(ctx.Bare, "/"), "/")
+		// 退役显示语言（de 等）：/xx[/...] 301 → 英文对应页，合并信号、消除半英文重复页。
+		if i18n.RetiredLocales[seg[0]] {
+			dest := "/" + strings.Join(seg[1:], "/")
+			http.Redirect(w, r, dest+ctx.Query, http.StatusMovedPermanently)
+			return
+		}
 		switch seg[0] {
 		case "jobs":
 			switch len(seg) {

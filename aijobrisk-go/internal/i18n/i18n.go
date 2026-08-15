@@ -16,7 +16,6 @@ var DisplayLocales = []DisplayInfo{
 	{"en", "English", "en", "en"},
 	{"es", "Español", "es", "es"},
 	{"fr", "Français", "fr", "fr"},
-	{"de", "Deutsch", "de", "de"},
 	{"pt", "Português", "pt", "pt"},
 	{"ja", "日本語", "ja", "ja"},
 	{"zh-Hans", "简体中文", "zh-CN", "zh-Hans"},
@@ -33,6 +32,16 @@ var codeSet = func() map[string]DisplayInfo {
 
 // IsDisplay 是否合法显示语言码。
 func IsDisplay(x string) bool { _, ok := codeSet[x]; return ok }
+
+// indexableDisplay 翻译已完整、允许被搜索引擎索引的显示语言；
+// 其余语言页整体 noindex（半英文兜底≈重复英文页），补齐后把该码加入即放开。
+var indexableDisplay = map[string]bool{"en": true, "es": true, "fr": true}
+
+// IsIndexable 该显示语言的页面是否允许索引（翻译已完整）。
+func IsIndexable(code string) bool { return indexableDisplay[code] }
+
+// RetiredLocales 已下线的旧显示语言：其 URL 前缀 301 回英文对应页。
+var RetiredLocales = map[string]bool{"de": true}
 
 // ContentLocale 显示语言 -> 数据层 locale（未知回退 en）。
 func ContentLocale(d string) string {

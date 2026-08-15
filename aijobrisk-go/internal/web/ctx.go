@@ -38,6 +38,9 @@ type Ctx struct {
 func (c *Ctx) Tr(s string) string  { return data.Tr(s, c.CL) }
 func (c *Ctx) WithL(p string) string { return i18n.WithL(c.Loc, p) }
 
+// RobotsNoindex 是否输出 noindex：n.e.c. 降权页（Noindex）或翻译未完整的显示语言。
+func (c *Ctx) RobotsNoindex() bool { return c.Noindex || !i18n.IsIndexable(c.Loc) }
+
 func (c *Ctx) HrefHome() string                 { return i18n.HrefHome(c.Loc) }
 func (c *Ctx) HrefJob(slug string) string        { return i18n.HrefJob(c.Loc, slug, "") }
 func (c *Ctx) HrefJobC(slug, cc string) string    { return i18n.HrefJob(c.Loc, slug, cc) }
