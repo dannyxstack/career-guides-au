@@ -119,6 +119,36 @@ FLAT = [
     "people are employed across the tracked occupations in",
     "Occupations can belong to several industries, so this sums occupation employment rather than industry totals.",
     "low", "moderate", "high",
+    # —— SEO 关键词对齐:榜单 SEO 标题 + 新榜 + 答案优先 FAQ + 内链锚点 + 统计枢纽 ——
+    "Jobs That AI Will Replace",
+    "Jobs Least Likely to Be Replaced by AI",
+    "Jobs AI Can't Replace",
+    "High-Paying AI-Proof Jobs",
+    "High-paying AI-proof jobs",
+    "Best-paid occupations with low AI exposure",
+    "Ranked by generative-AI exposure from ILO research; figures are indicative estimates.",
+    "What jobs are most likely to be replaced by AI?",
+    "The occupations at the top of this list — where the largest share of day-to-day tasks can be automated or AI-assisted. Exposure reshapes the role and can shrink entry-level hiring; it is not a guarantee the job disappears.",
+    "What jobs can AI not replace?",
+    "Roles that depend on physical presence, licensed accountability, complex judgement, care and face-to-face trust — the human moat AI struggles to cross. The occupations ranked here have the lowest AI exposure or the deepest moat.",
+    "What are the highest-paying AI-proof jobs?",
+    "Well-paid occupations with low generative-AI exposure — they combine strong salaries with a wide human moat, so a smaller share of their tasks is automatable. This board ranks them by average pay.",
+    # job 页 "Can AI replace {职业}?"
+    "Can AI replace",
+    "A large share of its day-to-day tasks can already be automated or AI-assisted, so parts of the role are at risk and entry-level hiring may shrink — but full replacement is unlikely in the near term, and the human moat still matters.",
+    "AI can handle a meaningful share of its tasks, so the role is being reshaped rather than removed; workers who use AI well gain the advantage.",
+    "Most of its work relies on skills AI cannot easily replicate — physical presence, judgement, accountability or human trust — so it is relatively resilient to automation.",
+    # /data 统计枢纽 + 内链锚点
+    "AI job replacement statistics",
+    "countries",
+    "highly exposed to AI",
+    "moderately exposed",
+    "low exposure (resilient)",
+    "occupations scored",
+    "See also",
+    "Jobs that AI will replace",
+    "Jobs AI can't replace",
+    "How many jobs will AI replace by 2030?",
 ]
 
 
