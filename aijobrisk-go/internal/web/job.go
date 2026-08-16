@@ -105,6 +105,7 @@ type JobVM struct {
 	FAQ                []faqRow
 	SourcesBody        string
 	Poll               PollWidget
+	RelatedNews        []*data.BlogPost // P1：命中该职业的最新资讯
 }
 
 func f1(v *float64) string {
@@ -449,6 +450,7 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 		faqPageLD(vm.FAQ),
 		breadcrumbLD(ctx, cc, dispName),
 	)
+	vm.RelatedNews = topNews(data.BlogForSlug(slug), 4)
 	renderPage(w, "job.html", vm)
 }
 

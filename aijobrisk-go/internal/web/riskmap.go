@@ -156,6 +156,7 @@ type RiskMapVM struct {
 	FootText     string
 	HeadingSub   string
 	FAQ          []faqEntry
+	RelatedNews  []*data.BlogPost // P1：命中该国的最新资讯（仅国家页）
 }
 
 // faqEntry 地图页 FAQ 条目。
@@ -286,6 +287,9 @@ func RiskMap(w http.ResponseWriter, ctx *Ctx, country string) {
 		vm.FootText = data.Tr("Area ∝ workforce. Colour ∝ AI automation exposure (1–10). Estimates only.", cl)
 		ctx.Title = data.Tr("AI Job Risk Map", cl) + " — " + cn + " | AI Job Risk"
 		ctx.Description = data.Tr("A treemap of the workforce coloured by AI automation exposure — area is workforce, colour is AI risk.", cl) + " · " + cn
+	}
+	if !global {
+		vm.RelatedNews = topNews(data.BlogForCountry(country), 4)
 	}
 	ctx.JSONLD = faqLD(vm.FAQ)
 	renderPage(w, "job_risk_map.html", vm)

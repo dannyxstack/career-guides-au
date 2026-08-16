@@ -36,6 +36,7 @@ type IndustryVM struct {
 	HrefIndustriesCC string
 	Adoption         *adoptionChartVM
 	FAQ              []faqRow
+	RelatedNews      []*data.BlogPost // P1：命中该行业的最新资讯
 }
 
 // Industry /industry/{sector}[/{cc}]。
@@ -95,6 +96,7 @@ func Industry(w http.ResponseWriter, ctx *Ctx, sector, country string) {
 	ctx.Active = "industries"
 	ctx.Title = secName + " — " + data.Tr("AI exposure by occupation", CL) + " | AI Job Risk"
 	ctx.Description = data.Tr("AI exposure, salary and workforce for occupations in this industry.", CL) + " " + secName + " · " + data.CountryName(cc, CL)
+	vm.RelatedNews = topNews(data.BlogForSector(sec.ID), 4)
 	renderPage(w, "industry.html", vm)
 }
 

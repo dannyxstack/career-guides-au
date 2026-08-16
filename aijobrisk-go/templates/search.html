@@ -21,6 +21,18 @@
       </a>{{ end }}
     </div>
   {{ end }}
+
+  {{ if .BlogHits }}
+  <section class="search-blog">
+    <h2>{{ .Tr "Articles" }}</h2>
+    <ul class="sb-list">
+      {{ range .BlogHits }}<li>
+        <a href="{{ .Href }}"><span class="rn-badge {{ .Type }}">{{ if eq .Type "news" }}News{{ else }}Analysis{{ end }}</span> <span class="sb-title">{{ .Title }}</span></a>
+        <p class="sb-dek">{{ .Dek }}</p>
+      </li>{{ end }}
+    </ul>
+  </section>
+  {{ end }}
 </div>
 
 <style>
@@ -40,5 +52,12 @@
   .rc-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
   .rc-flags { display: inline-flex; gap: 3px; }
   .rc-flags .flagsvg { width: 18px; height: 12px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); display: block; }
+  .search-blog { margin: 8px 0 30px; border-top: 1px solid var(--line); padding-top: 18px; }
+  .search-blog h2 { font-size: 1.15rem; margin: 0 0 12px; }
+  .sb-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; }
+  .sb-list a { display: inline-flex; align-items: center; gap: 8px; color: var(--text); }
+  .sb-list a:hover .sb-title { color: var(--brand); text-decoration: underline; }
+  .sb-title { font-weight: 600; }
+  .sb-dek { color: var(--text-muted); font-size: 0.88rem; margin: 4px 0 0; }
 </style>
 {{- end }}

@@ -87,6 +87,9 @@ func Suggest(w http.ResponseWriter, ctx *Ctx, q string) {
 	_ = json.NewEncoder(w).Encode(out)
 }
 
+// blogHit 搜索结果中的一篇文章。
+type blogHit struct{ Title, Href, Dek, Type, Date string }
+
 // SearchVM 搜索页。
 type SearchVM struct {
 	*Ctx
@@ -94,6 +97,26 @@ type SearchVM struct {
 	Count     int
 	CountPlus bool
 	Results   []resCard
+	BlogHits  []blogHit
+}
+
+// searchBlog 在标题/导语/标签里匹配文章（仅有查询时）。
+func searchBlog(ql string) []blogHit {
+	if ql == "" {
+		return nil
+	}
+	var out []blogHit
+	for _, p := range data.BlogPosts() {
+		hay := strings.ToLower(p.Title + " " + p.Dek + " " + strings.Join(p.Tags, " "))
+		if !strings.Contains(hay, ql) {
+			continue
+		}
+		out = append(out, blogHit{Title: p.Title, Href: "/blog/" + p.Slug, Dek: p.Dek, Type: p.Type, Date: p.PublishedAt})
+		if len(out) >= 6 {
+			break
+		}
+	}
+	return out
 }
 
 // Search /search?q=。
@@ -143,7 +166,7 @@ func Search(w http.ResponseWriter, ctx *Ctx, q string) {
 		gs = gs[:60]
 	}
 
-	vm := &SearchVM{Ctx: ctx, Q: q, Count: len(gs), CountPlus: len(gs) == 60}
+	vm := &SearchVM{Ctx: ctx, Q: q, Count: len(gs), CountPlus: len(gs) == 60, BlogHits: searchBlog(ql)}
 	for _, x := range gs {
 		rc := resCard{Name: x.name, CatIcon: data.CategoryIcon(x.cat), CatName: data.Tr(x.cat, CL), Href: ctx.HrefJob(x.slug)}
 		if x.aioe != nil {

@@ -1,0 +1,18 @@
+{{ define "blog_related" -}}
+{{ if .RelatedNews }}
+<section class="rel-news">
+  <h2>{{ .Tr "Related insights" }}</h2>
+  <ul class="rel-news-list">
+    {{ range .RelatedNews }}
+    <li>
+      <a href="/blog/{{ .Slug }}">
+        <span class="rn-badge {{ .Type }}">{{ if eq .Type "news" }}News{{ else }}Analysis{{ end }}</span>
+        <span class="rn-title">{{ .Title }}</span>
+      </a>
+      <span class="rn-date">{{ fmtdate .PublishedAt }}</span>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+{{- end }}
