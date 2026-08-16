@@ -1,0 +1,48 @@
+{{ define "content" -}}
+<div class="container bl-wrap">
+  <header class="bl-head">
+    <h1>AI &amp; Jobs Blog</h1>
+    <p class="bl-lead">Analysis and news on AI-driven job loss, layoffs and automation &mdash; cross-checked against our generative-AI exposure data.</p>
+  </header>
+
+  {{ if .Tags }}
+  <nav class="bl-tags" aria-label="Tags">
+    {{ range .Tags }}<a href="{{ $.HrefBlogTag . }}">#{{ . }}</a>{{ end }}
+  </nav>
+  {{ end }}
+
+  {{ if .Featured }}
+  <section class="bl-featured">
+    {{ range .Featured }}
+    <a class="bl-card feat" href="{{ $.HrefBlogPost .Slug }}">
+      {{ if .HeroImage }}<img class="bl-thumb" src="{{ .HeroImage }}" alt="{{ .HeroAlt }}" loading="lazy" />{{ end }}
+      <div class="bl-cbody">
+        <span class="bl-badge {{ .Type }}">{{ if eq .Type "news" }}News{{ else }}Analysis{{ end }}</span>
+        <h2>{{ .Title }}</h2>
+        <p class="bl-dek">{{ .Dek }}</p>
+        <div class="bl-meta">{{ fmtdate .PublishedAt }} &middot; {{ .ReadingMin }} min read</div>
+      </div>
+    </a>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{ if .Posts }}
+  <section class="bl-grid">
+    {{ range .Posts }}
+    <a class="bl-card" href="{{ $.HrefBlogPost .Slug }}">
+      {{ if .HeroImage }}<img class="bl-thumb" src="{{ .HeroImage }}" alt="{{ .HeroAlt }}" loading="lazy" />{{ end }}
+      <div class="bl-cbody">
+        <span class="bl-badge {{ .Type }}">{{ if eq .Type "news" }}News{{ else }}Analysis{{ end }}</span>
+        <h3>{{ .Title }}</h3>
+        <p class="bl-dek">{{ .Dek }}</p>
+        <div class="bl-meta">{{ fmtdate .PublishedAt }} &middot; {{ .ReadingMin }} min read</div>
+      </div>
+    </a>
+    {{ end }}
+  </section>
+  {{ else if not .Featured }}
+  <p class="bl-empty">No articles yet &mdash; check back soon.</p>
+  {{ end }}
+</div>
+{{- end }}

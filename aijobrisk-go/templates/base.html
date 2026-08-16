@@ -11,10 +11,11 @@
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
     {{ range .Alternates }}<link rel="alternate" hreflang="{{ .Hreflang }}" href="{{ .Href }}" />
     {{ end }}<link rel="alternate" hreflang="x-default" href="{{ .XDefault }}" />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="{{ .OGTypeOr }}" />
     <meta property="og:site_name" content="{{ .SiteName }}" />
     <meta property="og:title" content="{{ .Title }}" />
     {{ if .Description }}<meta property="og:description" content="{{ .Description }}" />{{ end }}
+    {{ if .OGImage }}<meta property="og:image" content="{{ .OGImage }}" />{{ end }}
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="stylesheet" href="/static/app.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />

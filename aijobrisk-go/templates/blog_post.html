@@ -1,0 +1,72 @@
+{{ define "head" -}}
+<meta property="article:published_time" content="{{ .Post.PublishedAt }}" />
+<meta property="article:modified_time" content="{{ .Post.UpdatedAt }}" />
+{{ range .Post.Tags }}<meta property="article:tag" content="{{ . }}" />
+{{ end }}{{- end }}
+{{ define "content" -}}
+<article class="container bl-post">
+  <nav class="bl-crumb" aria-label="Breadcrumb">
+    <a href="{{ .HrefHome }}">Home</a> &rsaquo; <a href="{{ .HrefBlog }}">Blog</a> &rsaquo; <span>{{ .Post.Title }}</span>
+  </nav>
+
+  <header class="bl-phead">
+    <span class="bl-badge {{ .Post.Type }}">{{ if eq .Post.Type "news" }}News{{ else }}Analysis{{ end }}</span>
+    <h1>{{ .Post.Title }}</h1>
+    <p class="bl-dek lead">{{ .Post.Dek }}</p>
+    <div class="bl-byline">
+      {{ if .HasAuthor }}<span class="bl-author">By {{ .Author.Name }}</span> &middot; {{ end }}
+      <span>{{ fmtdate .Post.PublishedAt }}</span>
+      {{ if ne .Post.UpdatedAt .Post.PublishedAt }} &middot; <span class="bl-upd">Updated {{ fmtdate .Post.UpdatedAt }}</span>{{ end }}
+      &middot; <span>{{ .Post.ReadingMin }} min read</span>
+    </div>
+  </header>
+
+  {{ if .Post.HeroImage }}
+  <figure class="bl-hero">
+    <img src="{{ .Post.HeroImage }}" alt="{{ .Post.HeroAlt }}" />
+    {{ if .Post.HeroCredit }}<figcaption>{{ .Post.HeroCredit }}</figcaption>{{ end }}
+  </figure>
+  {{ end }}
+
+  <div class="bl-layout">
+    <div class="bl-content">
+      {{ if .TOC }}<details class="bl-toc" open><summary>Contents</summary>{{ .TOC }}</details>{{ end }}
+      {{ .Body }}
+
+      {{ if eq .Post.Type "news" }}
+      <p class="bl-source">Source: <a href="{{ .Post.SourceURL }}" rel="nofollow noopener" target="_blank">{{ .Post.SourceName }}</a></p>
+      {{ end }}
+    </div>
+
+    {{ if or .RelJobs .RelSectors .RelCountries }}
+    <aside class="bl-related">
+      <h2>Related data</h2>
+      {{ if .RelJobs }}<div class="bl-rgroup"><span class="bl-rlab">Occupations</span>
+        <ul>{{ range .RelJobs }}<li><a href="{{ .Href }}">{{ .Name }}</a></li>{{ end }}</ul></div>{{ end }}
+      {{ if .RelSectors }}<div class="bl-rgroup"><span class="bl-rlab">Industries</span>
+        <ul>{{ range .RelSectors }}<li><a href="{{ .Href }}">{{ .Name }}</a></li>{{ end }}</ul></div>{{ end }}
+      {{ if .RelCountries }}<div class="bl-rgroup"><span class="bl-rlab">Countries</span>
+        <ul>{{ range .RelCountries }}<li><a href="{{ .Href }}">{{ .Name }}</a></li>{{ end }}</ul></div>{{ end }}
+    </aside>
+    {{ end }}
+  </div>
+
+  {{ if .Post.Tags }}
+  <div class="bl-ptags">{{ range .Post.Tags }}<a href="{{ $.HrefBlogTag . }}">#{{ . }}</a>{{ end }}</div>
+  {{ end }}
+
+  {{ if .HasAuthor }}
+  <div class="bl-authbox">
+    <strong>{{ .Author.Name }}</strong>
+    {{ if .Author.Bio }}<p>{{ .Author.Bio }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ if or .Newer .Older }}
+  <nav class="bl-pnav" aria-label="More posts">
+    {{ if .Older }}<a class="prev" href="{{ .HrefBlogPost .Older.Slug }}">&larr; {{ .Older.Title }}</a>{{ else }}<span></span>{{ end }}
+    {{ if .Newer }}<a class="next" href="{{ .HrefBlogPost .Newer.Slug }}">{{ .Newer.Title }} &rarr;</a>{{ end }}
+  </nav>
+  {{ end }}
+</article>
+{{- end }}

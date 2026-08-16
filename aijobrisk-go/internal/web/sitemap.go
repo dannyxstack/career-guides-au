@@ -94,7 +94,27 @@ func buildIndex(children []string, site string) string {
 	return b.String()
 }
 
-var sitemapChildren = []string{"/sitemap-pages.xml", "/sitemap-jobs.xml", "/sitemap-jobs-country.xml"}
+var sitemapChildren = []string{"/sitemap-pages.xml", "/sitemap-jobs.xml", "/sitemap-jobs-country.xml", "/sitemap-blog.xml"}
+
+// buildBlogSitemap blog 专属 sitemap：英文 only（无 hreflang），每篇用真实 updated_at 做 lastmod。
+func buildBlogSitemap(site string) string {
+	var b strings.Builder
+	b.WriteString(`<?xml version="1.0" encoding="UTF-8"?>` + "\n")
+	b.WriteString(`<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`)
+	last := DataUpdated
+	if posts := data.BlogPosts(); len(posts) > 0 {
+		last = posts[0].UpdatedAt // newest-first
+	}
+	b.WriteString("<url><loc>" + abs(site, "/blog") + "</loc><lastmod>" + last + "</lastmod></url>")
+	for _, t := range data.BlogTags() {
+		b.WriteString("<url><loc>" + abs(site, "/blog/tag/"+t) + "</loc><lastmod>" + last + "</lastmod></url>")
+	}
+	for _, p := range data.BlogPosts() {
+		b.WriteString("<url><loc>" + abs(site, "/blog/"+p.Slug) + "</loc><lastmod>" + p.UpdatedAt + "</lastmod></url>")
+	}
+	b.WriteString("</urlset>")
+	return b.String()
+}
 
 func writeXML(w http.ResponseWriter, s string) {
 	w.Header().Set("Content-Type", "application/xml; charset=utf-8")
@@ -107,6 +127,7 @@ func RegisterSitemap(mux *http.ServeMux, site string) {
 	mux.HandleFunc("/sitemap-pages.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(pagePaths(), site)) })
 	mux.HandleFunc("/sitemap-jobs.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(jobGlobalPaths(), site)) })
 	mux.HandleFunc("/sitemap-jobs-country.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(jobCountryPaths(), site)) })
+	mux.HandleFunc("/sitemap-blog.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildBlogSitemap(site)) })
 	mux.HandleFunc("/robots.txt", func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "text/plain; charset=utf-8")
 		w.Write([]byte("User-agent: *\nAllow: /\n\nSitemap: " + strings.TrimRight(site, "/") + "/sitemap.xml\n"))
