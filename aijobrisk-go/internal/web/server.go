@@ -140,6 +140,26 @@ func Router(site string) http.Handler {
 				Insights(w, ctx)
 				return
 			}
+		case "blog":
+			// blog 仅英文：带语言前缀（ctx.Loc != en）301 回英文对应页，避免半英文重复页。
+			if ctx.Loc != "en" {
+				http.Redirect(w, r, ctx.Bare+ctx.Query, http.StatusMovedPermanently)
+				return
+			}
+			switch {
+			case len(seg) == 1:
+				BlogIndex(w, ctx)
+				return
+			case len(seg) == 2 && seg[1] == "rss.xml":
+				BlogRSS(w, ctx)
+				return
+			case len(seg) == 3 && seg[1] == "tag":
+				BlogTag(w, ctx, seg[2])
+				return
+			case len(seg) == 2:
+				BlogPost(w, ctx, seg[1])
+				return
+			}
 		case "data":
 			if len(seg) == 1 {
 				DataPage(w, ctx)

@@ -135,6 +135,7 @@ func Load(dir string) error {
 		return err
 	}
 	loadAdoption() // best-effort：缺文件则采纳率图不显示
+	loadBlog()     // best-effort：缺文件则 blog 板块不显示
 	if err := loadDicts(); err != nil {
 		return err
 	}

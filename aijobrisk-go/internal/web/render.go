@@ -6,6 +6,7 @@ import (
 	"io"
 	"path/filepath"
 	"strings"
+	"time"
 )
 
 var funcMap = template.FuncMap{
@@ -15,6 +16,16 @@ var funcMap = template.FuncMap{
 	"attr":     func(s string) template.HTMLAttr { return template.HTMLAttr(s) },
 	"add":      func(a, b int) int { return a + b },
 	"pct":      func(f float64) string { return fmt.Sprintf("%.1f%%", f*100) },
+	"fmtdate":  fmtdate,
+}
+
+// fmtdate 把 ISO 日期 "2006-01-02" 显示为 "January 2, 2006"（解析失败原样返回）。
+func fmtdate(iso string) string {
+	t, err := time.Parse("2006-01-02", iso)
+	if err != nil {
+		return iso
+	}
+	return t.Format("January 2, 2006")
 }
 
 func commaAny(v any) string {

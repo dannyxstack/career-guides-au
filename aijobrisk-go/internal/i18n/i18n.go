@@ -132,6 +132,9 @@ func HrefMap(d, country string) string {
 	}
 	return WithL(d, "/job-risk-map")
 }
+func HrefBlog(d string) string        { return WithL(d, "/blog") }
+func HrefBlogPost(d, slug string) string { return WithL(d, "/blog/"+slug) }
+func HrefBlogTag(d, tag string) string   { return WithL(d, "/blog/tag/"+tag) }
 func HrefSearch(d string) string      { return WithL(d, "/search") }
 func HrefAbout(d string) string       { return WithL(d, "/about") }
 func HrefMethodology(d string) string { return WithL(d, "/methodology") }

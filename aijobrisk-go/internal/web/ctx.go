@@ -33,6 +33,17 @@ type Ctx struct {
 	Query       string // 原始 query（含 ? 或空）
 	JSONLD      template.JS
 	Noindex     bool // 方案 C3：n.e.c. 兜底桶页面 noindex,follow
+	EnglishOnly bool // blog 等仅英文板块：不发多语 hreflang（其余语言前缀 301 回英文）
+	OGType      string // og:type（默认 website；文章页设 article）
+	OGImage     string // og:image 绝对 URL（空则不发）
+}
+
+// OGTypeOr og:type，默认 website。
+func (c *Ctx) OGTypeOr() string {
+	if c.OGType != "" {
+		return c.OGType
+	}
+	return "website"
 }
 
 func (c *Ctx) Tr(s string) string  { return data.Tr(s, c.CL) }
@@ -50,6 +61,9 @@ func (c *Ctx) HrefCompare() string                { return i18n.HrefCompare(c.Lo
 func (c *Ctx) HrefSearch() string                 { return i18n.HrefSearch(c.Loc) }
 func (c *Ctx) HrefMethodology() string            { return i18n.HrefMethodology(c.Loc) }
 func (c *Ctx) HrefAbout() string                  { return i18n.HrefAbout(c.Loc) }
+func (c *Ctx) HrefBlog() string                   { return i18n.HrefBlog(c.Loc) }
+func (c *Ctx) HrefBlogPost(slug string) string    { return i18n.HrefBlogPost(c.Loc, slug) }
+func (c *Ctx) HrefBlogTag(tag string) string      { return i18n.HrefBlogTag(c.Loc, tag) }
 
 // SiteName 供模板使用。
 func (c *Ctx) SiteName() string { return SiteName }
@@ -67,6 +81,7 @@ func (c *Ctx) Nav() []NavItem {
 		{"industries", "Industries", "/industries"},
 		{"map", "Risk map", "/job-risk-map"},
 		{"insights", "Insights", "/insights"},
+		{"blog", "Blog", "/blog"},
 		{"compare", "Compare", "/compare"},
 		{"about", "About", "/about"},
 	}
@@ -90,8 +105,11 @@ func (c *Ctx) LangOptions() []LocaleURL {
 	return out
 }
 
-// Alternates hreflang 备用链接（全部 8 语言 + x-default）。
+// Alternates hreflang 备用链接（全部 8 语言 + x-default）；仅英文板块不发。
 func (c *Ctx) Alternates() []LocaleURL {
+	if c.EnglishOnly {
+		return nil
+	}
 	var out []LocaleURL
 	for _, d := range i18n.DisplayLocales {
 		out = append(out, LocaleURL{Code: d.Code, Hreflang: d.Hreflang,
