@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "slug": "jobs-safe-from-ai-what-they-share",
+      "title": "Which Jobs Are Safest From AI? What They Share",
+      "dek": "The occupations with the lowest generative-AI exposure have three things in common — physical presence, human trust, and unscripted judgement.",
+      "type": "post",
+      "published_at": "2026-08-10",
+      "updated_at": "2026-08-15",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/ai-safe-jobs.webp",
+      "hero_alt": "Tradespeople and healthcare workers at work",
+      "hero_credit": "Illustration: aijobrisk",
+      "tags": [
+        "research",
+        "ai-tools"
+      ],
+      "related_slugs": [
+        "registered-nurse",
+        "electrician",
+        "plumber",
+        "physiotherapist",
+        "early-childhood-educator"
+      ],
+      "related_sectors": [
+        "health",
+        "construction",
+        "education"
+      ],
+      "related_countries": [
+        "AU",
+        "US",
+        "UK"
+      ],
+      "reading_min": 2,
+      "word_count": 302,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#1-physical-presence-in-the-real-world\">1. Physical presence in the real world</a></li>\n<li><a href=\"#2-human-trust-as-the-product\">2. Human trust as the product</a></li>\n<li><a href=\"#3-unscripted-judgement-under-messy-conditions\">3. Unscripted judgement under messy conditions</a></li>\n<li><a href=\"#exposure-is-not-destiny\">Exposure is not destiny</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "tech-layoffs-2026-h1-ai-link",
+      "title": "Tech Layoffs in H1 2026: How Much Is Really AI?",
+      "dek": "We cross-check 2026 layoff announcements against our generative-AI exposure data to separate AI-driven cuts from ordinary restructuring.",
+      "type": "post",
+      "published_at": "2026-08-01",
+      "updated_at": "2026-08-16",
+      "featured": true,
+      "author": "editorial",
+      "hero_image": "/static/blog/tech-layoffs-2026.webp",
+      "hero_alt": "Chart of 2026 tech layoffs by job function",
+      "hero_credit": "Illustration: aijobrisk",
+      "tags": [
+        "layoffs",
+        "research"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "technical-writer",
+        "data-entry-clerk"
+      ],
+      "related_sectors": [
+        "information",
+        "professional"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE"
+      ],
+      "reading_min": 1,
+      "word_count": 173,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#what-the-announcements-say\">What the announcements say</a></li>\n<li><a href=\"#cross-checking-against-exposure\">Cross-checking against exposure</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    }
+  ],
+  "authors": {
+    "editorial": {
+      "name": "aijobrisk Editorial",
+      "bio": "The aijobrisk research team analyses generative-AI exposure across occupations, industries and countries.",
+      "url": "/about",
+      "same_as": []
+    }
+  }
+}

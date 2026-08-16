@@ -6,7 +6,11 @@
 /cmd/pollsapi/pollsapi
 
 # 运行时数据：约 358MB 派生 JSON，由主仓库导出、经 rsync 单独部署（见 deployment.md）
-/data/
+# 用 /data/* 逐项忽略（而非整目录），以便对 blog 内容开例外——git 无法在整目录被
+# 排除后再 re-include 子目录。
+/data/*
+# blog 内容进 git（由 scripts/build_blog.py 从 content/blog/*.md 烘焙；有版本、无需 rsync）
+!/data/blog/
 # 数据部署打包（由 data/ 现打，随 upload-data.sh rsync；勿入库）
 /data.zip
 
