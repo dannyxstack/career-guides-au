@@ -1,0 +1,31 @@
+# aijobrisk 新闻雷达源配置（scripts/ingest_news.py 读取）。
+# 只作内部选题发现用；产出清单不进 git、不发布。编辑可随时增删。
+
+# —— Google News RSS 查询（骨架：主题精准 + 自带跨源聚合）——
+# 每条是一个搜索词；脚本会拼成 news.google.com/rss/search?q=...
+google_news:
+  - AI layoffs
+  - AI jobs automation
+  - AI hiring workforce
+  - artificial intelligence "future of work"
+  - AI replace jobs
+  - AI skills reskilling
+
+# —— 直采垂直源（补深度 / 原创解读）——
+# tier: deep（一手研究/深度） > media（主流媒体）
+direct:
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    tier: media
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    tier: media
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    tier: media
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    tier: deep
+  - name: The Guardian AI
+    url: https://www.theguardian.com/technology/artificialintelligenceai/rss
+    tier: media
