@@ -392,6 +392,7 @@ body.embed .site-footer { display: none; }
     <div class="cm-seg">
       <button type="button" class="cm-btn active" data-mode="risk">Risk</button>
       <button type="button" class="cm-btn" data-mode="salary">Salary</button>
+      <button type="button" class="cm-btn" data-mode="outlook">Outlook</button>
     </div>
   </div>
 
@@ -460,20 +461,26 @@ function exposureColor(score) {
 }
 function exposureColorCSS(score, alpha) { const [r,g,b] = exposureColor(score); return `rgba(${r},${g},${b},${alpha})`; }
 
-// ── Color mode: 'risk' (AI exposure) or 'salary' (median pay). ───────────
-// Salary reuses the exposure palette inverted: higher pay → lower score → greener.
+// ── Color mode: 'risk' (AI exposure), 'salary' (median pay) or 'outlook'. ─
+// Salary & outlook reuse the exposure palette inverted: higher pay / higher
+// employment growth → lower score → greener (so "green = good" throughout).
 let colorMode = 'risk';
 let salarySorted = [];   // ascending medians of the current country (percentile basis)
+let outlookSorted = [];  // ascending employment-growth % of the current country
 function computeSalaryRank() { salarySorted = data.filter(d => d.median != null).map(d => d.median).sort((a, b) => a - b); }
-function salaryScore(median) {
-  if (median == null || salarySorted.length < 2) return null;
-  let lo = 0, hi = salarySorted.length;                 // count of medians strictly below → percentile
-  while (lo < hi) { const mid = (lo + hi) >> 1; if (salarySorted[mid] < median) lo = mid + 1; else hi = mid; }
-  const p = Math.max(0, Math.min(1, lo / (salarySorted.length - 1)));
-  return 10 * (1 - p);                                  // high pay → 0 → green
+function computeOutlookRank() { outlookSorted = data.filter(d => d.outlook && d.outlook.g != null).map(d => d.outlook.g).sort((a, b) => a - b); }
+function pctScore(v, sorted) {
+  if (v == null || sorted.length < 2) return null;
+  let lo = 0, hi = sorted.length;                       // count strictly below → percentile
+  while (lo < hi) { const mid = (lo + hi) >> 1; if (sorted[mid] < v) lo = mid + 1; else hi = mid; }
+  const p = Math.max(0, Math.min(1, lo / (sorted.length - 1)));
+  return 10 * (1 - p);                                  // top of range → 0 → green
 }
+function salaryScore(median) { return pctScore(median, salarySorted); }
+function outlookScore(g) { return pctScore(g, outlookSorted); }
 function cellColorCSS(r, alpha) {
   if (colorMode === 'salary') { const s = salaryScore(r.median); return s == null ? `rgba(128,128,128,${alpha})` : exposureColorCSS(s, alpha); }
+  if (colorMode === 'outlook') { const s = outlookScore(r.outlook ? r.outlook.g : null); return s == null ? `rgba(128,128,128,${alpha})` : exposureColorCSS(s, alpha); }
   return exposureColorCSS(r.exposure, alpha);
 }
 function formatNumber(n) {
@@ -597,9 +604,12 @@ function draw() {
       ctx.textBaseline = "top";
       ctx.fillText(r.title, rx + 5, ry + 4);
       if (rh > 34 && rw > 60) {
+        const jobsSuffix = r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : "";
         const info = colorMode === 'salary'
-          ? ((r.median != null ? formatPay(r.median) : "—") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : ""))
-          : ((r.exposure != null ? r.exposure + "/10" : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : ""));
+          ? ((r.median != null ? formatPay(r.median) : "—") + jobsSuffix)
+          : colorMode === 'outlook'
+          ? (((r.outlook && r.outlook.g != null) ? (r.outlook.g > 0 ? "+" : "") + r.outlook.g + "%" : "—") + jobsSuffix)
+          : ((r.exposure != null ? r.exposure + "/10" : "") + jobsSuffix);
         ctx.font = `400 ${Math.max(8, fontSize - 2)}px -apple-system, system-ui, sans-serif`;
         ctx.fillStyle = "rgba(255,255,255,0.5)";
         ctx.fillText(info, rx + 5, ry + 4 + fontSize + 2);
@@ -829,16 +839,24 @@ function computeStats() {
   const wagesSec = document.getElementById("wagesSection");
   if (paySec) paySec.style.display = hasPay ? "" : "none";
   if (wagesSec) wagesSec.style.display = hasPay ? "" : "none";
-  // 薪资配色需中位数数据；无则隐藏切换控件并回退到风险配色
+  // 薪资/前景配色各需对应数据；按国分别显隐按钮，缺则回退风险配色。
   computeSalaryRank();
-  const cmCtl = document.getElementById("colorMode");
+  computeOutlookRank();
   const hasSalary = salarySorted.length >= 2;
-  if (cmCtl) cmCtl.style.display = hasSalary ? "" : "none";
-  if (!hasSalary && colorMode === "salary") colorMode = "risk";
+  const hasOutlook = outlookSorted.length >= 2;
+  const cmCtl = document.getElementById("colorMode");
+  if (cmCtl) cmCtl.style.display = (hasSalary || hasOutlook) ? "" : "none";
+  const salBtn = cmCtl && cmCtl.querySelector('.cm-btn[data-mode="salary"]');
+  const outBtn = cmCtl && cmCtl.querySelector('.cm-btn[data-mode="outlook"]');
+  if (salBtn) salBtn.style.display = hasSalary ? "" : "none";
+  if (outBtn) outBtn.style.display = hasOutlook ? "" : "none";
+  if (colorMode === "salary" && !hasSalary) colorMode = "risk";
+  if (colorMode === "outlook" && !hasOutlook) colorMode = "risk";
+  if (cmCtl) cmCtl.querySelectorAll(".cm-btn").forEach(x => x.classList.toggle("active", x.dataset.mode === colorMode));
   const totalJobs = data.reduce((s, d) => s + (d.jobs || 0), 0);
   const scoredCount = data.filter(d => d.exposure != null).length;
   document.getElementById("subtitleInfo").innerHTML =
-    `${data.length} occupations &middot; area = employment &middot; color = ${colorMode === 'salary' ? 'median pay' : 'AI exposure'}<br>${scoredCount} occupations scored`;
+    `${data.length} occupations &middot; area = employment &middot; color = ${colorMode === 'salary' ? 'median pay' : colorMode === 'outlook' ? 'employment outlook' : 'AI exposure'}<br>${scoredCount} occupations scored`;
   let weightedSum = 0, weightedCount = 0;
   for (const d of data) { if (d.exposure != null && d.jobs) { weightedSum += d.exposure * d.jobs; weightedCount += d.jobs; } }
   const weightedAvg = weightedCount > 0 ? weightedSum / weightedCount : 0;
@@ -896,13 +914,17 @@ function computeStats() {
 function drawGradientLegend() {
   const c = document.getElementById("gradientLegend");
   const gctx = c.getContext("2d");
-  // salary: left=low pay (red) → right=high pay (green); risk: left=low exposure (green) → right=high (red)
+  // salary/outlook: left=low (red) → right=high (green); risk: left=low exposure (green) → right=high (red)
+  const inverted = colorMode === 'salary' || colorMode === 'outlook';
   for (let x = 0; x < 80; x++) {
-    const score = colorMode === 'salary' ? 10 - (x / 79) * 10 : (x / 79) * 10;
+    const score = inverted ? 10 - (x / 79) * 10 : (x / 79) * 10;
     gctx.fillStyle = exposureColorCSS(score, 1); gctx.fillRect(x, 0, 1, 8);
   }
   const lo = document.getElementById("legendLow"), hi = document.getElementById("legendHigh");
-  if (lo && hi) { lo.textContent = colorMode === 'salary' ? "Low pay" : "Low"; hi.textContent = colorMode === 'salary' ? "High pay" : "High"; }
+  if (lo && hi) {
+    lo.textContent = colorMode === 'salary' ? "Low pay" : colorMode === 'outlook' ? "Declining" : "Low";
+    hi.textContent = colorMode === 'salary' ? "High pay" : colorMode === 'outlook' ? "Growing" : "High";
+  }
 }
 
 function applyCountryChrome() {
