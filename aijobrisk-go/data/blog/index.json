@@ -1,6 +1,118 @@
 {
   "posts": [
     {
+      "slug": "radiologists-and-ai-why-humans-stay-in-charge",
+      "title": "Radiologists and AI: Why Humans Stay in Charge",
+      "dek": "AI is transforming radiology, but it augments the radiologist's judgment rather than replacing it.",
+      "type": "post",
+      "published_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/radiologists-and-ai-why-humans-stay-in-charge.svg",
+      "hero_alt": "Radiologists and AI: Why Humans Stay in Charge",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "new-roles",
+        "reskilling",
+        "task-exposure"
+      ],
+      "related_slugs": [
+        "radiologist",
+        "radiologic-technologist",
+        "health-information-manager"
+      ],
+      "related_sectors": [
+        "health",
+        "information"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "FR",
+        "JP",
+        "IN"
+      ],
+      "reading_min": 5,
+      "word_count": 942,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-shift-from-task-automation-to-clinical-partnership\">The shift from task automation to clinical partnership</a></li>\n<li><a href=\"#what-ai-actually-handles-in-imaging\">What AI actually handles in imaging</a></li>\n<li><a href=\"#ai-task-exposure-a-mixed-picture\">AI task-exposure: a mixed picture</a></li>\n<li><a href=\"#new-roles-and-rising-demand\">New roles and rising demand</a></li>\n<li><a href=\"#reskilling-what-radiologists-and-techs-need-next\">Reskilling: what radiologists and techs need next</a></li>\n<li><a href=\"#takeaway-the-human-stays-in-charge\">Takeaway: the human stays in charge</a></li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "how-ai-copilots-are-reshaping-the-accountant-s-workday",
+      "title": "How AI Copilots Are Reshaping the Accountant's Workday",
+      "dek": "AI copilots aren't replacing accountants—they're automating routine tasks and freeing up time for advisory work, with measurable shifts in task exposure.",
+      "type": "post",
+      "published_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/how-ai-copilots-are-reshaping-the-accountant-s-workday.svg",
+      "hero_alt": "How AI Copilots Are Reshaping the Accountant's Workday",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "new-roles",
+        "hiring",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "accountant",
+        "bookkeeper",
+        "auditor",
+        "financial-analyst"
+      ],
+      "related_sectors": [
+        "finance",
+        "professional",
+        "manufacturing"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "AU"
+      ],
+      "reading_min": 5,
+      "word_count": 852,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#from-data-entry-to-data-judgment\">From data entry to data judgment</a></li>\n<li><a href=\"#where-ai-copilots-help-most\">Where AI copilots help most</a></li>\n<li><a href=\"#new-roles-not-just-adjusted-ones\">New roles, not just adjusted ones</a></li>\n<li><a href=\"#which-industries-are-hiring-more\">Which industries are hiring more?</a></li>\n<li><a href=\"#the-task-exposure-view\">The task-exposure view</a></li>\n<li><a href=\"#what-needs-to-change\">What needs to change?</a></li>\n<li><a href=\"#the-takeaway\">The takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "ai-as-a-co-worker-professions-where-exposure-means-help",
+      "title": "AI as a Co-Worker: Professions Where Exposure Means Help",
+      "dek": "High AI task exposure doesn't have to mean replacement; for many occupations, it means a new digital colleague that frees humans for higher-value work.",
+      "type": "post",
+      "published_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/ai-as-a-co-worker-professions-where-exposure-means-help.svg",
+      "hero_alt": "AI as a Co-Worker: Professions Where Exposure Means Help",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "new-roles",
+        "hiring",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "registered-nurse",
+        "financial-analyst"
+      ],
+      "related_sectors": [
+        "health",
+        "education",
+        "professional",
+        "information"
+      ],
+      "related_countries": [],
+      "reading_min": 4,
+      "word_count": 761,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#introduction\">Introduction</a></li>\n<li><a href=\"#how-ai-augments-rather-than-replaces\">How AI Augments Rather Than Replaces</a><ul>\n<li><a href=\"#example-occupations-with-a-digital-co-worker\">Example Occupations with a Digital Co-Worker</a></li>\n</ul>\n</li>\n<li><a href=\"#the-rise-of-new-roles\">The Rise of New Roles</a></li>\n<li><a href=\"#industries-hiring-more-because-of-ai\">Industries Hiring More Because of AI</a></li>\n<li><a href=\"#reskilling-for-an-ai-sidekick-world\">Reskilling for an AI-Sidekick World</a></li>\n<li><a href=\"#what-ai-task-exposure-really-tells-us\">What AI Task Exposure Really Tells Us</a></li>\n<li><a href=\"#the-takeaway\">The Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "is-ai-really-behind-2026-layoffs",
       "title": "Is AI Really Behind the 2026 Layoffs?",
       "dek": "Employers increasingly cite AI when they cut staff — but the exposure data says the 'AI layoff' label is doing more work than the technology.",
