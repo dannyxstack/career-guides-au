@@ -40,3 +40,4 @@ aijobrisk/
 # 内部新闻雷达产出（选题清单，不入库）
 news-radar/
 scripts/.news_seen.json
+scripts/.blog_topics_used.json

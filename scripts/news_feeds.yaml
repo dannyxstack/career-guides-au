@@ -4,12 +4,15 @@
 # —— Google News RSS 查询（骨架：主题精准 + 自带跨源聚合）——
 # 每条是一个搜索词；脚本会拼成 news.google.com/rss/search?q=...
 google_news:
-  - AI layoffs
-  - AI jobs automation
-  - AI hiring workforce
+  # 正向为主：赋能 / 新岗位 / 加大招聘 / 转型再培训
+  - AI augmenting workers productivity
+  - AI new jobs created
+  - AI hiring boom skills demand
+  - reskilling upskilling AI workforce
+  - AI job creation industries
   - artificial intelligence "future of work"
-  - AI replace jobs
-  - AI skills reskilling
+  # 保留少量趋势向（裁员/自动化）作对照，勿过量
+  - AI jobs automation
 
 # —— 直采垂直源（补深度 / 原创解读）——
 # tier: deep（一手研究/深度） > media（主流媒体）

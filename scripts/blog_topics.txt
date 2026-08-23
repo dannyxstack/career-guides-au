@@ -1,0 +1,34 @@
+# aijobrisk 正能量选题池（draft_blog.py --from-topics 读取，按"最久未用"轮换）。
+# 格式：  tag | Topic sentence
+# tag ∈ augmentation(赋能已有职业) / new-roles(AI催生新岗位) /
+#       hiring(因AI加大招聘) / reskilling(因AI需转型)
+# 编辑可随时增删；一行一个主题。
+
+# —— augmentation：AI 赋能 / 增强已有职业 ——
+augmentation | How AI copilots are changing what accountants actually do all day
+augmentation | Radiologists and AI: the jobs where the human stays in charge
+augmentation | AI as a co-worker: professions where exposure means help, not replacement
+augmentation | How teachers are using AI to do more of the human part of teaching
+augmentation | The lawyers who got faster: AI drafting and where judgement still wins
+augmentation | Nurses, AI and paperwork: automating the parts nobody became a nurse to do
+
+# —— new-roles：AI 催生的新岗位 ——
+new-roles | The jobs that did not exist before generative AI — and who is hiring for them
+new-roles | What an "AI implementation lead" actually does, and how to become one
+new-roles | Prompt engineering grew up: the durable new roles around AI systems
+new-roles | AI auditing and safety: the compliance jobs the AI boom is creating
+new-roles | From model to product: the new roles bridging AI and the business
+
+# —— hiring：因 AI 加大招聘的行业 / 岗位 ——
+hiring | Which industries are hiring MORE because of AI, not less
+hiring | The AI skills employers are paying up for right now
+hiring | Why demand for data and AI-adjacent roles keeps outrunning supply
+hiring | Healthcare and the trades: where AI is fuelling hiring, not cutting it
+hiring | Small businesses and AI: the quiet hiring countercurrent
+
+# —— reskilling：因 AI 需转型的职位 ——
+reskilling | From data entry to data steward: a realistic AI-era reskilling path
+reskilling | The mid-career pivot: moving from an exposed desk job to an AI-adjacent one
+reskilling | What to learn if your role is highly AI-exposed — a practical map
+reskilling | Customer support in the AI era: from ticket-closer to escalation expert
+reskilling | Designers and AI: shifting from production to direction and judgement

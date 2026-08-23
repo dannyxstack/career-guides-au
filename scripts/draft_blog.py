@@ -1,26 +1,31 @@
 # -*- coding: utf-8 -*-
-"""Draft a blog post with DeepSeek, for HUMAN review (半自动工作流的起草端).
+"""Draft blog post(s) with DeepSeek, for HUMAN review (半自动工作流的起草端).
 
-Produces a Markdown file with YAML front-matter and `status: draft` in
-aijobrisk-go/content/blog/. A human then reviews/edits, adds a hero image,
-verifies facts, byline & the related_* links, flips status to `published`, and
-runs `python scripts/build_blog.py` to bake it.
+Two modes:
+  1) Single topic:   --topic "..."  [--type news --source-name .. --source-url ..]
+  2) Batch/rotation: --from-topics scripts/blog_topics.txt --count 2
+       picks the least-recently-used topics (state in .blog_topics_used.json),
+       honours --exclude-tags, and drafts each as --type (default post).
 
-This never publishes: drafts are excluded by build_blog until status=published.
-Related keys suggested by the model are validated against the live Go data and
-invalid ones are dropped (kept in a review comment), so the draft is buildable.
+Each run writes markdown into aijobrisk-go/content/blog/. Default status is
+`published` (generate-then-review: a human reviews live and retracts if needed);
+pass `--status draft` for a review-before-publish gate instead. Either way a
+human should verify facts & byline; a hero image is optional (build
+auto-generates an SVG). Model-suggested related keys are validated against live
+Go data; invalid ones are dropped (kept in a REVIEW comment).
+
+Topics file format (one per line; blank / #-comment lines ignored):
+    tag | Topic sentence
+e.g.  augmentation | How AI copilots are reshaping what accountants do
 
 Usage:
-  python scripts/draft_blog.py --topic "2026 H1 tech layoffs vs AI exposure"
-  python scripts/draft_blog.py --type news --topic "..." \
-      --source-name "Reuters" --source-url "https://…"
-Options: --slug, --notes "extra guidance", --force (overwrite existing draft).
-
-Copyright note (news): we NEVER reproduce the source. The model is instructed
-to write a short original summary + our own data angle + attribution only.
+  python -m scripts.draft_blog --topic "..." --type post
+  python -m scripts.draft_blog --from-topics scripts/blog_topics.txt --count 3 \
+         --type post --exclude-tags layoffs --notes "constructive, upbeat"
 """
 import argparse
 import datetime
+import json
 import os
 import re
 import sys
@@ -29,6 +34,9 @@ import yaml
 
 from scripts import build_blog
 from scripts import _deepseek_rest
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+TOPIC_STATE = os.path.join(HERE, ".blog_topics_used.json")
 
 
 def slugify(s):
@@ -48,22 +56,22 @@ SYSTEM = (
 )
 
 
-def build_prompt(a, sectors, countries):
-    kind = "news" if a.type == "news" else "analysis"
-    length = "300-450 words" if a.type == "news" else "650-950 words"
+def build_prompt(topic, typ, source_name, source_url, notes, sectors, countries):
+    kind = "news" if typ == "news" else "analysis"
+    length = "300-450 words" if typ == "news" else "650-950 words"
     src = ""
-    if a.type == "news":
+    if typ == "news":
         src = (
             f"\nThis is a NEWS piece reacting to an external report from "
-            f"'{a.source_name}' ({a.source_url}). Do NOT reproduce or quote the "
+            f"'{source_name}' ({source_url}). Do NOT reproduce or quote the "
             "source at length. Write a SHORT original summary in your own words, "
             "then add our data angle and a takeaway. Attribution is handled "
             "separately, so do not paste the article text."
         )
-    notes = f"\nExtra editor guidance: {a.notes}" if a.notes else ""
+    extra = f"\nExtra editor guidance: {notes}" if notes else ""
     return (
-        f"Write a {kind} blog post ({length}) on this topic:\n\"{a.topic}\"\n"
-        f"{src}{notes}\n\n"
+        f"Write a {kind} blog post ({length}) on this topic:\n\"{topic}\"\n"
+        f"{src}{extra}\n\n"
         "Body must be Markdown using ## / ### headings (no H1 — the title is "
         "separate), short paragraphs, and at least one section connecting the "
         "topic to AI task-exposure of specific occupations. End with a clear "
@@ -73,38 +81,34 @@ def build_prompt(a, sectors, countries):
         f"- related_sectors: choose from {sorted(sectors)}\n"
         f"- related_countries: ISO-like codes, choose from {sorted(countries)}\n"
         "- related_slugs: 2-5 occupation slugs in kebab-case (e.g. "
-        "'software-developer', 'data-entry-clerk', 'customer-service-representative'); "
-        "we validate these, so use natural occupation names.\n\n"
+        "'software-developer', 'registered-nurse', 'financial-analyst'); we "
+        "validate these, so use natural occupation names.\n\n"
         "Return STRICT JSON with keys: title (string, <=65 chars), dek (string, "
         "1 sentence), body_markdown (string), tags (array of 2-4 kebab-case, e.g. "
-        "layoffs/ai-tools/policy/research), related_slugs (array), "
-        "related_sectors (array), related_countries (array)."
+        "augmentation/new-roles/hiring/reskilling/research), related_slugs "
+        "(array), related_sectors (array), related_countries (array)."
     )
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--topic", required=True)
-    ap.add_argument("--type", choices=["post", "news"], default="post")
-    ap.add_argument("--source-name", default="")
-    ap.add_argument("--source-url", default="")
-    ap.add_argument("--slug", default="")
-    ap.add_argument("--notes", default="")
-    ap.add_argument("--force", action="store_true", help="overwrite existing draft")
-    a = ap.parse_args()
+def draft_one(topic, typ, notes, keys, authors, source_name="", source_url="",
+              slug_override="", force=False, extra_tags=None, status="published"):
+    """Generate one draft. Returns path written, or None if skipped/failed."""
+    slugs, countries, sectors = keys
+    try:
+        d = _deepseek_rest.complete_json(SYSTEM, build_prompt(topic, typ, source_name, source_url, notes, sectors, countries))
+    except Exception as e:
+        print("  ERROR DeepSeek for %r: %s" % (topic[:50], str(e)[:80]))
+        return None
 
-    if a.type == "news" and not (a.source_name and a.source_url):
-        ap.error("--type news requires --source-name and --source-url")
-
-    slugs, countries, sectors = build_blog.load_valid_keys()
-
-    print("Drafting with DeepSeek …")
-    d = _deepseek_rest.complete_json(SYSTEM, build_prompt(a, sectors, countries))
-
-    title = (d.get("title") or a.topic).strip()
-    slug = a.slug.strip() or slugify(d.get("slug") or title)
+    title = (d.get("title") or topic).strip()
+    slug = slug_override.strip() or slugify(d.get("slug") or title)
     if not build_blog.SLUG_RE.match(slug):
         slug = slugify(slug)
+
+    path = os.path.join(build_blog.CONTENT_DIR, slug + ".md")
+    if os.path.exists(path) and not force:
+        print("  skip (exists): %s" % slug)
+        return None
 
     def keep(vals, valid):
         got, bad = [], []
@@ -117,57 +121,134 @@ def main():
     rel_sect, bad_sect = keep(d.get("related_sectors"), sectors)
     rel_cc, bad_cc = keep(d.get("related_countries"), countries)
 
+    tags = [str(t).strip() for t in (d.get("tags") or []) if str(t).strip()]
+    for t in (extra_tags or []):
+        if t not in tags:
+            tags.append(t)
+
     today = datetime.date.today().isoformat()
     fm = {
-        "slug": slug,
-        "title": title,
-        "dek": (d.get("dek") or "").strip(),
-        "type": a.type,
-        "status": "draft",
-        "published_at": today,
-        "updated_at": today,
-        "featured": False,
-        "author": "editorial",
-        "hero_image": "",
-        "hero_alt": "",
-        "hero_credit": "",
-        "tags": [str(t).strip() for t in (d.get("tags") or []) if str(t).strip()],
-        "related_slugs": rel_slugs,
-        "related_sectors": rel_sect,
-        "related_countries": rel_cc,
+        "slug": slug, "title": title, "dek": (d.get("dek") or "").strip(),
+        "type": typ, "status": status, "published_at": today, "updated_at": today,
+        "featured": False, "author": "editorial",
+        "hero_image": "", "hero_alt": "", "hero_credit": "",
+        "tags": tags, "related_slugs": rel_slugs,
+        "related_sectors": rel_sect, "related_countries": rel_cc,
     }
-    if a.type == "news":
-        fm["source_name"] = a.source_name
-        fm["source_url"] = a.source_url
+    if typ == "news":
+        fm["source_name"] = source_name
+        fm["source_url"] = source_url
 
     front = yaml.safe_dump(fm, sort_keys=False, allow_unicode=True, width=100).strip()
     review = []
     for label, bad in (("related_slugs", bad_slugs), ("related_sectors", bad_sect), ("related_countries", bad_cc)):
         if bad:
-            review.append(f"dropped invalid {label}: {', '.join(bad)}")
-    review_block = ""
-    if review:
-        review_block = "<!-- REVIEW: " + " | ".join(review) + " -->\n"
-
+            review.append("dropped invalid %s: %s" % (label, ", ".join(bad)))
+    review_block = ("<!-- REVIEW: " + " | ".join(review) + " -->\n") if review else ""
     body = (d.get("body_markdown") or "").strip()
-    doc = f"---\n{front}\n---\n\n{review_block}{body}\n"
 
     os.makedirs(build_blog.CONTENT_DIR, exist_ok=True)
-    path = os.path.join(build_blog.CONTENT_DIR, slug + ".md")
-    if os.path.exists(path) and not a.force:
-        print("Refusing to overwrite existing %s (use --force)." % path)
-        return 1
     with open(path, "w", encoding="utf-8") as f:
-        f.write(doc)
+        f.write("---\n%s\n---\n\n%s%s\n" % (front, review_block, body))
 
-    print("\nDraft written: %s" % path)
-    print("  title: %s" % title)
-    print("  related: slugs=%d sectors=%d countries=%d" % (len(rel_slugs), len(rel_sect), len(rel_cc)))
+    print("  draft: %s  (related slugs=%d sectors=%d cc=%d)" % (slug, len(rel_slugs), len(rel_sect), len(rel_cc)))
     for r in review:
-        print("  NOTE " + r)
-    print("\nNext: review facts & byline, add a hero image, set status: published,")
-    print("      then run:  python scripts/build_blog.py")
-    return 0
+        print("    NOTE " + r)
+    return path
+
+
+def load_topics(path):
+    out = []
+    for ln in open(path, encoding="utf-8"):
+        ln = ln.strip()
+        if not ln or ln.startswith("#"):
+            continue
+        if "|" in ln:
+            tag, topic = ln.split("|", 1)
+            out.append((tag.strip(), topic.strip()))
+        else:
+            out.append(("general", ln))
+    return out
+
+
+def load_topic_state():
+    if os.path.exists(TOPIC_STATE):
+        try:
+            return json.load(open(TOPIC_STATE, encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
+def pick_topics(topics, count, exclude_tags, state):
+    """Least-recently-used first (never-used = ''); honour exclude_tags."""
+    pool = [(tag, t) for tag, t in topics if tag not in exclude_tags]
+    pool.sort(key=lambda x: state.get(x[1], ""))   # oldest / unused first
+    return pool[:count]
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--topic", default="")
+    ap.add_argument("--from-topics", dest="from_topics", default="")
+    ap.add_argument("--count", type=int, default=1)
+    ap.add_argument("--exclude-tags", dest="exclude_tags", default="")
+    ap.add_argument("--type", choices=["post", "news"], default="post")
+    ap.add_argument("--status", choices=["draft", "published"], default="published",
+                    help="生成即 published（默认）；后续人工审核撤稿。传 draft 则需人工放行")
+    ap.add_argument("--source-name", default="")
+    ap.add_argument("--source-url", default="")
+    ap.add_argument("--slug", default="")
+    ap.add_argument("--notes", default="")
+    ap.add_argument("--force", action="store_true")
+    a = ap.parse_args()
+
+    if not a.topic and not a.from_topics:
+        ap.error("provide --topic or --from-topics")
+    if a.type == "news" and a.topic and not (a.source_name and a.source_url):
+        ap.error("--type news requires --source-name and --source-url")
+
+    keys = build_blog.load_valid_keys()
+    authors = build_blog.load_authors()
+
+    # single-topic mode
+    if a.topic:
+        print("Drafting 1 post with DeepSeek …")
+        p = draft_one(a.topic, a.type, a.notes, keys, authors,
+                      source_name=a.source_name, source_url=a.source_url,
+                      slug_override=a.slug, force=a.force, status=a.status)
+        _finish(1 if p else 0)
+        return 0 if p else 1
+
+    # batch/rotation mode
+    exclude = {t.strip() for t in a.exclude_tags.split(",") if t.strip()}
+    topics = load_topics(a.from_topics)
+    state = load_topic_state()
+    picks = pick_topics(topics, a.count, exclude, state)
+    if not picks:
+        print("No eligible topics (after exclude-tags).")
+        return 1
+    print("Drafting %d post(s) with DeepSeek (from %d topics, excluding %s) …"
+          % (len(picks), len(topics), sorted(exclude) or "none"))
+
+    today = datetime.date.today().isoformat()
+    made = 0
+    for tag, topic in picks:
+        print("- [%s] %s" % (tag, topic))
+        p = draft_one(topic, a.type, a.notes, keys, authors, extra_tags=[tag], status=a.status)
+        if p:
+            made += 1
+            state[topic] = today          # mark used only on success
+    json.dump(state, open(TOPIC_STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    _finish(made)
+    return 0 if made else 1
+
+
+def _finish(n):
+    print("\nWrote %d draft(s) to %s" % (n, build_blog.CONTENT_DIR))
+    if n:
+        print("Next: review facts & byline, set status: published, then run:")
+        print("      python scripts/build_blog.py")
 
 
 if __name__ == "__main__":
