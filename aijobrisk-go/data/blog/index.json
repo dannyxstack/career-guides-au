@@ -1,6 +1,111 @@
 {
   "posts": [
     {
+      "slug": "is-ai-really-behind-2026-layoffs",
+      "title": "Is AI Really Behind the 2026 Layoffs?",
+      "dek": "Employers increasingly cite AI when they cut staff — but the exposure data says the 'AI layoff' label is doing more work than the technology.",
+      "type": "post",
+      "published_at": "2026-08-18",
+      "updated_at": "2026-08-18",
+      "featured": true,
+      "author": "editorial",
+      "hero_image": "/static/blog/ai-layoffs-signal.webp",
+      "hero_alt": "Rows of empty office desks",
+      "hero_credit": "Illustration: aijobrisk",
+      "tags": [
+        "layoffs",
+        "research"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "data-entry-clerk",
+        "customer-service-representative",
+        "cashier"
+      ],
+      "related_sectors": [
+        "information",
+        "retail",
+        "professional"
+      ],
+      "related_countries": [
+        "US",
+        "UK"
+      ],
+      "reading_min": 2,
+      "word_count": 338,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#why-ai-is-a-convenient-reason\">Why \"AI\" is a convenient reason</a></li>\n<li><a href=\"#what-the-exposure-data-actually-says\">What the exposure data actually says</a></li>\n<li><a href=\"#why-the-distinction-matters\">Why the distinction matters</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "why-entry-level-jobs-take-first-ai-hit",
+      "title": "Why Entry-Level Jobs Take the First AI Hit",
+      "dek": "Reports from Korea to the UK point to the same worry: AI is thinning the junior rungs — the tasks new workers used to learn on.",
+      "type": "post",
+      "published_at": "2026-08-17",
+      "updated_at": "2026-08-17",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/entry-level-ai.webp",
+      "hero_alt": "A junior worker at a laptop in an open office",
+      "hero_credit": "Illustration: aijobrisk",
+      "tags": [
+        "research",
+        "layoffs"
+      ],
+      "related_slugs": [
+        "technical-writer",
+        "graphic-designer",
+        "data-entry-clerk",
+        "bookkeeper"
+      ],
+      "related_sectors": [
+        "information",
+        "professional",
+        "arts"
+      ],
+      "related_countries": [
+        "US",
+        "KR",
+        "UK"
+      ],
+      "reading_min": 2,
+      "word_count": 329,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#junior-work-is-the-most-exposed-work\">Junior work is the most exposed work</a></li>\n<li><a href=\"#the-hidden-cost-the-training-pipeline\">The hidden cost: the training pipeline</a></li>\n<li><a href=\"#what-it-means-if-you-are-early-career\">What it means if you are early-career</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "where-displaced-workers-are-landing",
+      "title": "Where AI-Displaced Workers Are Landing",
+      "dek": "As big employers cite AI for cuts, smaller firms are hiring those same workers — often into the low-exposure, hands-on roles AI can't touch.",
+      "type": "post",
+      "published_at": "2026-08-16",
+      "updated_at": "2026-08-16",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/where-workers-land.webp",
+      "hero_alt": "A small business team at work",
+      "hero_credit": "Illustration: aijobrisk",
+      "tags": [
+        "hiring",
+        "research"
+      ],
+      "related_slugs": [
+        "electrician",
+        "plumber",
+        "registered-nurse",
+        "customer-service-representative"
+      ],
+      "related_sectors": [
+        "construction",
+        "health",
+        "retail"
+      ],
+      "related_countries": [
+        "US"
+      ],
+      "reading_min": 2,
+      "word_count": 305,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-reshuffle-follows-exposure\">The reshuffle follows exposure</a></li>\n<li><a href=\"#exposure-cuts-both-ways\">Exposure cuts both ways</a></li>\n<li><a href=\"#a-caution\">A caution</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "jobs-safe-from-ai-what-they-share",
       "title": "Which Jobs Are Safest From AI? What They Share",
       "dek": "The occupations with the lowest generative-AI exposure have three things in common — physical presence, human trust, and unscripted judgement.",
