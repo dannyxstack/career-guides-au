@@ -46,6 +46,72 @@ SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?(.*)$", re.S)
 WORDS_PER_MIN = 200
 
+STATIC_BLOG = os.path.join(GO, "static", "blog")
+# 自动头图配色（主标签 -> 渐变起止色），对齐全站风险色语义。
+HERO_ACCENTS = {
+    "layoffs": ("#dc2626", "#7f1d1d"), "hiring": ("#16a34a", "#14532d"),
+    "wages": ("#d97706", "#78350f"), "policy": ("#7c3aed", "#4c1d95"),
+    "research": ("#2563eb", "#1e3a8a"), "tools": ("#0891b2", "#0e4f5f"),
+    "ai-tools": ("#0891b2", "#0e4f5f"),
+}
+HERO_DEFAULT = ("#2563eb", "#1e3a8a")
+
+
+def _xml_esc(s):
+    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+
+
+def _wrap_title(title, width=22, max_lines=3):
+    lines, cur = [], ""
+    for w in title.split():
+        if cur and len(cur) + 1 + len(w) > width:
+            lines.append(cur)
+            cur = w
+        else:
+            cur = (cur + " " + w).strip()
+    if cur:
+        lines.append(cur)
+    if len(lines) > max_lines:
+        lines = lines[:max_lines]
+        lines[-1] = lines[-1].rstrip(".,;: ") + "…"
+    return lines
+
+
+def _hero_svg(title, tag):
+    c1, c2 = HERO_ACCENTS.get(tag, HERO_DEFAULT)
+    lines = _wrap_title(title)
+    y0 = 300 - (len(lines) - 1) * 38
+    tspans = "".join(
+        '<text x="80" y="%d" font-size="66" font-weight="800" fill="#ffffff">%s</text>'
+        % (y0 + i * 78, _xml_esc(ln)) for i, ln in enumerate(lines))
+    badge = _xml_esc(tag.upper())
+    return (
+        '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" '
+        'font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">'
+        '<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">'
+        '<stop offset="0" stop-color="%s"/><stop offset="1" stop-color="%s"/></linearGradient></defs>'
+        '<rect width="1200" height="630" fill="url(#g)"/>'
+        '<rect x="80" y="86" rx="8" ry="8" width="%d" height="46" fill="#ffffff" fill-opacity="0.18"/>'
+        '<text x="102" y="117" font-size="24" font-weight="700" letter-spacing="2" fill="#ffffff">%s</text>'
+        '%s'
+        '<text x="80" y="560" font-size="28" font-weight="700" fill="#ffffff" fill-opacity="0.85">aijobrisk.com</text>'
+        '</svg>'
+    ) % (c1, c2, 44 + len(badge) * 15, badge, tspans)
+
+
+def resolve_hero(meta):
+    """D 方案：hero_image 指向真实存在的文件则用之，否则自动生成品牌 SVG 头图。"""
+    hero = (meta.get("hero_image") or "").strip()
+    if hero and os.path.exists(os.path.join(GO, hero.lstrip("/").replace("/", os.sep))):
+        return  # 真实图存在，优先使用
+    os.makedirs(STATIC_BLOG, exist_ok=True)
+    tag = meta["tags"][0] if meta.get("tags") else "general"
+    with open(os.path.join(STATIC_BLOG, meta["slug"] + ".svg"), "w", encoding="utf-8") as f:
+        f.write(_hero_svg(meta["title"], tag))
+    meta["hero_image"] = "/static/blog/" + meta["slug"] + ".svg"
+    if not meta.get("hero_alt"):
+        meta["hero_alt"] = meta["title"]
+
 
 # ── validation key sets (data-driven) ────────────────────────────────────────
 def _load_json(name):
@@ -216,6 +282,7 @@ def main():
         if r is None:
             continue
         meta, body_html = r
+        resolve_hero(meta)  # D：真实图优先，否则自动生成品牌 SVG 头图
         with open(os.path.join(OUT_DIR, meta["slug"] + ".html"), "w", encoding="utf-8") as f:
             f.write(body_html)
         posts.append(meta)

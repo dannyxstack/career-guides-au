@@ -9,7 +9,7 @@
       "updated_at": "2026-08-18",
       "featured": true,
       "author": "editorial",
-      "hero_image": "/static/blog/ai-layoffs-signal.webp",
+      "hero_image": "/static/blog/is-ai-really-behind-2026-layoffs.svg",
       "hero_alt": "Rows of empty office desks",
       "hero_credit": "Illustration: aijobrisk",
       "tags": [
@@ -44,7 +44,7 @@
       "updated_at": "2026-08-17",
       "featured": false,
       "author": "editorial",
-      "hero_image": "/static/blog/entry-level-ai.webp",
+      "hero_image": "/static/blog/why-entry-level-jobs-take-first-ai-hit.svg",
       "hero_alt": "A junior worker at a laptop in an open office",
       "hero_credit": "Illustration: aijobrisk",
       "tags": [
@@ -80,7 +80,7 @@
       "updated_at": "2026-08-16",
       "featured": false,
       "author": "editorial",
-      "hero_image": "/static/blog/where-workers-land.webp",
+      "hero_image": "/static/blog/where-displaced-workers-are-landing.svg",
       "hero_alt": "A small business team at work",
       "hero_credit": "Illustration: aijobrisk",
       "tags": [
@@ -114,7 +114,7 @@
       "updated_at": "2026-08-15",
       "featured": false,
       "author": "editorial",
-      "hero_image": "/static/blog/ai-safe-jobs.webp",
+      "hero_image": "/static/blog/jobs-safe-from-ai-what-they-share.svg",
       "hero_alt": "Tradespeople and healthcare workers at work",
       "hero_credit": "Illustration: aijobrisk",
       "tags": [
@@ -151,7 +151,7 @@
       "updated_at": "2026-08-16",
       "featured": true,
       "author": "editorial",
-      "hero_image": "/static/blog/tech-layoffs-2026.webp",
+      "hero_image": "/static/blog/tech-layoffs-2026-h1-ai-link.svg",
       "hero_alt": "Chart of 2026 tech layoffs by job function",
       "hero_credit": "Illustration: aijobrisk",
       "tags": [
