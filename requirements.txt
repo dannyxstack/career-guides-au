@@ -1,2 +1,17 @@
+# 数据库 / 环境变量（全仓库脚本通用）
 PyMySQL==1.1.1
 python-dotenv==1.0.1
+
+# 内容构建（blog Markdown -> HTML 烘焙：build_blog.py / draft_blog.py）
+Markdown==3.10.3
+PyYAML==6.0.3
+
+# HTTP / 翻译与抓取（Azure/DeepSeek/百度翻译、Pexels、RSS 采集等）
+requests==2.33.1
+feedparser==6.0.14
+
+# 数据处理 / 官方源解析（薪资·就业微数据、Excel/PDF/R 数据集）
+numpy==2.2.1
+openpyxl==3.1.5
+pdfplumber==0.11.10
+rdata==1.1.0
