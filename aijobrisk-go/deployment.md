@@ -188,6 +188,83 @@ TLS 证书用 certbot：`sudo certbot --nginx -d aijobrisk.com -d www.aijobrisk.
 - **更新代码**：服务器上 `git pull` → 重新 `go build` → `systemctl restart`。构建产物可先输出到临时名，验证后原子替换（`mv`）再重启，便于回滚。
 - **验证**：`curl -sI https://aijobrisk.com/` 看 200；`/job-risk-map` 看风险图；`/api/health` 看投票健康。
 
+## 八、Blog 定时更新任务
+
+> Blog 内容采「半自动」工作流:DeepSeek 起草 → 人工审校 → 烘焙 → 部署。
+> **本仓库不提交 cron/timer 本体**(与机器/账号绑定),下面给出规范配置,按此挂载即可。
+> 节奏遵循 `docs/blog-plan.md` §8.3:**低频重质(建议每周 1 篇)**,停更比不做更伤全站信任。
+
+### 8.1 三段式管线
+
+| 段 | 命令 | 依赖 | 产物 |
+|---|---|---|---|
+| ① 起草 | `python -m scripts.draft_blog --from-topics scripts/blog_topics.txt --count 1` | 网络 + **DeepSeek API key**(env);轮换状态 `scripts/.blog_topics_used.json` | `aijobrisk-go/content/blog/*.md`(默认 `status: published`) |
+| ② 烘焙 | `python scripts/build_blog.py` | **离线**;`markdown` / `pyyaml`;读 `data/occupations_v2.json` 校验内链 | `aijobrisk-go/data/blog/index.json` + `{slug}.html` |
+| ③ 部署 | `aijobrisk-go/upload-data.sh`(rsync `data/`)→ 服务器 `systemctl restart aijobrisk-go` | ssh | 线上生效(重载入内存 ~2s) |
+
+要点:
+- **起草默认即 `published`**(generate-then-review:先发后审,发现问题人工撤稿);要「先审后发」改传 `--status draft`,审校后把 front-matter 的 `status` 改成 `published` 再烘焙。
+- **烘焙会跳过 draft 与未来日期(scheduled)文章**,所以定时发布可用「未来 `published_at` + 每日烘焙」实现。
+- 内链 key(`related_slugs/sectors/countries`)对 `data/` 现网数据校验,非法项自动丢弃并留 `<!-- REVIEW -->` 注释。
+- 起草出的 `.md` 与烘焙出的 `data/blog/` **建议一并 `git commit`**(blog 内容进 git,见 blog-plan §8.11),再部署。
+
+### 8.2 Linux cron(在有仓库 + Python + DeepSeek key 的机器上)
+
+`DEEPSEEK_API_KEY` 放在被 cron 加载的 env 文件里(**勿写进 crontab 明文**)。包一层脚本便于加锁/日志:
+
+```bash
+#!/usr/bin/env bash
+# /opt/career-guides-au/blog-weekly.sh  —— 每周起草+烘焙+部署
+set -euo pipefail
+cd /opt/career-guides-au
+source .env.blog                       # 内含 DEEPSEEK_API_KEY，chmod 600
+python -m scripts.draft_blog --from-topics scripts/blog_topics.txt --count 1
+python scripts/build_blog.py
+git add aijobrisk-go/content/blog aijobrisk-go/data/blog && \
+  git commit -m "content(blog): scheduled weekly draft" || true
+bash aijobrisk-go/upload-data.sh       # rsync data/ 到线上
+ssh -p 62828 root@<server> 'systemctl restart aijobrisk-go'
+```
+
+crontab(每周一 09:00,`flock` 防重入,日志留档):
+
+```cron
+0 9 * * 1  /usr/bin/flock -n /tmp/blog-weekly.lock /opt/career-guides-au/blog-weekly.sh >> /var/log/blog-weekly.log 2>&1
+```
+
+若起草/部署分离(起草在服务器、部署也在本机),把 ③ 换成本机 `restart.sh` 即可。
+
+### 8.3 Windows 计划任务(起草端在开发机)
+
+开发机为 Windows(见 §一 构建坑)。用「任务计划程序」新建触发器 = 每周,操作调用一个 `.ps1`:
+
+```powershell
+# blog-weekly.ps1
+Set-Location E:\work\career-guides-au
+$env:DEEPSEEK_API_KEY = (Get-Content .\.env.blog.key -Raw).Trim()  # 不入库
+python -m scripts.draft_blog --from-topics scripts\blog_topics.txt --count 1
+python scripts\build_blog.py
+# 审校后再手动 git commit + upload-data.sh 部署（Windows 下建议保留人工放行）
+```
+
+注册(每周一 09:00):
+
+```powershell
+$act = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -File E:\work\career-guides-au\blog-weekly.ps1"
+$trg = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At 9am
+Register-ScheduledTask -TaskName "aijobrisk-blog-weekly" -Action $act -Trigger $trg
+```
+
+### 8.4 定时发布(可选,无需每周起草)
+
+一次性起草多篇、给不同的未来 `published_at`,再挂**每日**烘焙+部署 cron。`build_blog.py` 会自动跳过未来日期,到点当天才纳入 `index.json`,实现「排期发布」:
+
+```cron
+0 8 * * *  /usr/bin/flock -n /tmp/blog-pub.lock /opt/career-guides-au/blog-publish.sh >> /var/log/blog-pub.log 2>&1
+```
+
+（`blog-publish.sh` 去掉起草步、只做 `build_blog.py` + 部署即可。）
+
 ## 资源小结
 
 | 项 | 值 |
