@@ -1,6 +1,42 @@
 {
   "posts": [
     {
+      "slug": "how-teachers-are-using-ai-for-the-human-side-of-teaching",
+      "title": "How Teachers Are Using AI for the Human Side of Teaching",
+      "dek": "AI tools are taking over routine classroom chores so teachers can focus on mentoring, connection, and judgment.",
+      "type": "post",
+      "published_at": "2026-08-30",
+      "updated_at": "2026-08-30",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/how-teachers-are-using-ai-for-the-human-side-of-teaching.svg",
+      "hero_alt": "How Teachers Are Using AI for the Human Side of Teaching",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "new-roles",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "secondary-school-teacher",
+        "special-education-teacher"
+      ],
+      "related_sectors": [
+        "education",
+        "government",
+        "professional"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "AU",
+        "CA"
+      ],
+      "reading_min": 4,
+      "word_count": 678,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-real-bottleneck-time-not-skill\">The Real Bottleneck: Time, Not Skill</a></li>\n<li><a href=\"#what-teachers-actually-offload\">What Teachers Actually Offload</a></li>\n<li><a href=\"#the-human-work-that-stays\">The Human Work That Stays</a></li>\n<li><a href=\"#connecting-to-ai-task-exposure\">Connecting to AI Task-Exposure</a></li>\n<li><a href=\"#the-task-exposure-lens-in-practice\">The Task-Exposure Lens in Practice</a></li>\n<li><a href=\"#the-future-of-teaching-work\">The Future of Teaching Work</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "radiologists-and-ai-why-humans-stay-in-charge",
       "title": "Radiologists and AI: Why Humans Stay in Charge",
       "dek": "AI is transforming radiology, but it augments the radiologist's judgment rather than replacing it.",
