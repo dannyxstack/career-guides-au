@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """把本会话 aijobrisk-go 新增英文文案（口径 B 全量：EU Blue Card 18 国各一条）
-翻译到 5 语言（es/pt/ja/fr/zh-CN），用 Azure Translator（en 为源），
+翻译到多语言（es/ja/fr/zh-CN），用 Azure Translator（en 为源），
 写入 aijobrisk-go/data/translations-v2/{loc}.{md5(src)%8}.json（幂等合并）。
 
 Blue Card 段落在 Go 运行时是 Tr(replaceCountry(tmpl, CountryName(cc,L)), L)，
@@ -13,9 +13,9 @@ from video_pipeline import azure_translate as az
 GO = os.path.join(os.path.dirname(__file__), "..", "aijobrisk-go", "data")
 TR_DIR = os.path.join(GO, "translations-v2")
 N_SHARDS = 8
-LOCALES = ["es", "pt", "ja", "fr", "zh-CN", "de"]
+LOCALES = ["es", "ja", "fr", "zh-CN", "de"]
 # 站点 locale -> Azure 目标语言码（补 fr / zh-CN / de，不动共享模块）
-AZ_TO = {"es": "es", "pt": "pt", "ja": "ja", "fr": "fr", "zh-CN": "zh-Hans", "de": "de"}
+AZ_TO = {"es": "es", "ja": "ja", "fr": "fr", "zh-CN": "zh-Hans", "de": "de"}
 
 # ---- EU Blue Card 模板 + 18 国（对齐 migration.go） ----
 BLUE_TMPL = ("As an EU member state, {C} admits skilled foreign professionals mainly through "

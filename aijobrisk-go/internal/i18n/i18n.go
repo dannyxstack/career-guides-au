@@ -16,10 +16,8 @@ var DisplayLocales = []DisplayInfo{
 	{"en", "English", "en", "en"},
 	{"es", "Español", "es", "es"},
 	{"fr", "Français", "fr", "fr"},
-	{"pt", "Português", "pt", "pt"},
 	{"ja", "日本語", "ja", "ja"},
 	{"zh-Hans", "简体中文", "zh-CN", "zh-Hans"},
-	{"ko", "한국어", "en", "ko"},
 }
 
 var codeSet = func() map[string]DisplayInfo {
@@ -41,7 +39,7 @@ var indexableDisplay = map[string]bool{"en": true, "es": true, "fr": true}
 func IsIndexable(code string) bool { return indexableDisplay[code] }
 
 // RetiredLocales 已下线的旧显示语言：其 URL 前缀 301 回英文对应页。
-var RetiredLocales = map[string]bool{"de": true}
+var RetiredLocales = map[string]bool{"de": true, "pt": true, "ko": true}
 
 // ContentLocale 显示语言 -> 数据层 locale（未知回退 en）。
 func ContentLocale(d string) string {
