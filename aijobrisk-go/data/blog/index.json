@@ -1,6 +1,41 @@
 {
   "posts": [
     {
+      "slug": "ai-drafting-lawyers-speed-up-but-judgement-still-wins",
+      "title": "AI Drafting: Lawyers Speed Up, but Judgement Still Wins",
+      "dek": "Generative AI is automating routine legal drafting, yet the highest-value legal tasks still require human judgement and accountability.",
+      "type": "post",
+      "published_at": "2026-09-03",
+      "updated_at": "2026-09-03",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/ai-drafting-lawyers-speed-up-but-judgement-still-wins.svg",
+      "hero_alt": "AI Drafting: Lawyers Speed Up, but Judgement Still Wins",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "legal-tech",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "lawyer",
+        "judge"
+      ],
+      "related_sectors": [
+        "professional",
+        "government",
+        "finance"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "AU"
+      ],
+      "reading_min": 5,
+      "word_count": 887,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#why-routine-legal-drafting-exposes-ais-strengths\">Why routine legal drafting exposes AI’s strengths</a></li>\n<li><a href=\"#measuring-ai-exposure-for-legal-occupations\">Measuring AI exposure for legal occupations</a></li>\n<li><a href=\"#where-judgement-still-wins\">Where judgement still wins</a></li>\n<li><a href=\"#what-this-means-for-legal-teams\">What this means for legal teams</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "how-teachers-are-using-ai-for-the-human-side-of-teaching",
       "title": "How Teachers Are Using AI for the Human Side of Teaching",
       "dek": "AI tools are taking over routine classroom chores so teachers can focus on mentoring, connection, and judgment.",
