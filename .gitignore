@@ -41,3 +41,8 @@ aijobrisk/
 news-radar/
 scripts/.news_seen.json
 scripts/.blog_topics_used.json
+
+# other 
+*.zip
+*.rar
+
