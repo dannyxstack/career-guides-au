@@ -61,6 +61,7 @@ rsync -avz --delete aijobrisk-go/data aijobrisk-go/templates aijobrisk-go/static
 | `MYSQL_HOST`/`MYSQL_PORT`/`MYSQL_USER`/`MYSQL_PASSWORD`/`MYSQL_DATABASE`/`MYSQL_CHARSET` | — | 投票库连接 |
 | `POLLS_IP_SALT` | — | IP 哈希软去重的盐（生产必设） |
 | `POLLS_TURNSTILE_SECRET` | — | Cloudflare Turnstile 密钥（可选人机校验） |
+| `POLLS_CLIENT_IP_HEADER` | — | 可信的客户端 IP 头。**挂 CDN 后必设**（Cloudflare 填 `CF-Connecting-IP`）：设了就只认该头，忽略可伪造的 `X-Forwarded-For`；留空则沿用 XFF 首段（单层 nginx 反代）。详见 `docs/analytics-setup.md` |
 | `POLLS_CORS_ORIGINS` | — | 允许跨域来源；**同端口同源部署可留空（免 CORS）** |
 | `POLLS_RATE_MAX` | `20` | 限流：窗口内最大请求数 |
 | `POLLS_RATE_WINDOW` | `60` | 限流窗口秒数 |
