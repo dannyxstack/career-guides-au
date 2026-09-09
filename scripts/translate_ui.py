@@ -18,10 +18,11 @@ OUT = os.path.join(HERE, "..", "site", "src", "data", "ui_i18n.json")
 SRC_UI = os.path.join(HERE, "_ui_src.json")
 
 # 目标语言（zh-CN / en 为母本，不在此翻译）
-LOCALES = {"es": "Spanish (español)", "pt": "Portuguese (português)", "vi": "Vietnamese (Tiếng Việt)",
-           "th": "Thai (ภาษาไทย)", "ms": "Malay (Bahasa Melayu)", "id": "Indonesian (Bahasa Indonesia)",
-           "zh-Hant": "Traditional Chinese (繁體中文, 台灣/香港用語)", "ja": "Japanese (日本語)",
-           "de": "German (Deutsch)", "it": "Italian (italiano)", "nl": "Dutch (Nederlands)"}
+# 站点显示语言（= i18n.DisplayLocales 的内容 locale，en 为母本免翻）。
+# 已退役 de/pt/ko、以及从未开放为显示语言的 vi/th/ms/id/zh-Hant/it/nl 均已移出：
+# 它们 URL 不可达、Tr() 永远查不到，继续翻译纯属白花钱。需要时用 --locales 临时指定。
+LOCALES = {"es": "Spanish (español)", "fr": "French (français)",
+           "ja": "Japanese (日本語)", "zh-CN": "Simplified Chinese (简体中文)"}
 
 DIM_EN = {"learning_difficulty": "Learning", "learning_duration": "Duration", "certification_difficulty": "Certification",
           "job_demand": "Demand", "competition": "Competition", "work_intensity": "Intensity", "income_level": "Income",

@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
 
 GO = os.path.join(os.path.dirname(__file__), "..", "aijobrisk-go", "data")
-TARGETS = ["zh-CN", "ja", "es", "pt", "fr"]  # en=母本免翻；zh-CN 即 zh-hans
+TARGETS = ["zh-CN", "ja", "es", "fr"]  # en=母本免翻；zh-CN 即 zh-hans；pt/de/ko 已退役不再统计
 NEW4 = {"BR", "CN", "IN", "MX"}
 NEW25 = {"NO", "SE", "FI", "DK", "IS",
          "BE", "AT", "PL", "PT", "GR", "HU", "CZ", "RO", "LU", "SK", "SI", "HR", "TR",

@@ -18,9 +18,13 @@ N_SHARDS = 8
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--locales", default="es,fr")
+    ap.add_argument("--locales", default="es,fr,ja,zh-CN")
     a = ap.parse_args()
     locales = [x.strip() for x in a.locales.split(",") if x.strip()]
+    # Go 侧 loadTranslations() 只载入显示语言，导出其余 locale 只会白占磁盘与 rsync 带宽。
+    served = {"es", "fr", "ja", "zh-CN"}
+    if bad := [x for x in locales if x not in served]:
+        raise SystemExit(f"[export-go] 拒绝导出非显示语言 {bad}；站点仅服务 {sorted(served)}")
 
     os.makedirs(TR, exist_ok=True)
     S = collect()

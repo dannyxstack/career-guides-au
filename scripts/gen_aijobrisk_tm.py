@@ -12,7 +12,10 @@ ROOT = os.path.join(os.path.dirname(__file__), "..", "aijobrisk", "src", "data")
 OUT = os.path.join(ROOT, "translations-v2")
 N_SHARDS = 8
 # 站点显示语 -> DB locale（ko 在 i18n.ts 映射到 en，不生成；fr 已有完整引用集译文）
-LOCALES = ["es", "pt", "fr", "ja", "de", "zh-CN"]
+# 站点显示语言（= i18n.DisplayLocales 的内容 locale，en 为母本免翻）。
+# 已退役 de/pt/ko、以及从未开放为显示语言的 vi/th/ms/id/zh-Hant/it/nl 均已移出：
+# 它们 URL 不可达、Tr() 永远查不到，继续翻译纯属白花钱。需要时用 --locales 临时指定。
+LOCALES = ["es", "fr", "ja", "zh-CN"]
 
 _HAS_ALPHA = re.compile(r"[A-Za-z]")
 

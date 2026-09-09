@@ -36,14 +36,12 @@ SRC_HTML = f'Will AI replace <span class="notranslate">{PLACEHOLDER}</span> by 2
 SRC_PLAIN = f"Will AI replace {PLACEHOLDER} by 2030?"
 
 # 7 种主流语言（Azure 目标码）
+# 仅站点显示语言；de/pt/ko 已退役（URL 301 回英文），不再生成译文。
 TARGETS = {
     "es": "es",       # Spanish
     "fr": "fr",       # French
-    "de": "de",       # German
-    "pt": "pt",       # Portuguese
     "ja": "ja",       # Japanese
     "zh-Hans": "zh-Hans",  # Simplified Chinese
-    "ko": "ko",       # Korean
 }
 
 def translate(to_code):
