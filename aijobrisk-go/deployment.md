@@ -5,11 +5,18 @@ Go SSR 版 aijobrisk。**纯标准库 + 单一第三方依赖**（`go-sql-driver
 
 ## 架构要点
 
-- **运行时读数据**：数据（`data/` 约 358MB JSON）在启动时读入内存，**不打进二进制**。
-  因此构建**无需 16GB 内存**（区别于 Astro 版）；启动约 **1.9s**；常驻 **RSS ~694MB**（6 语言翻译英文键重复占大头）。
+- **运行时读数据**：数据（`data/` 约 600MB JSON）在启动时读入内存，**不打进二进制**。
+  因此构建**无需 16GB 内存**（区别于 Astro 版）；启动约 **3.9s**；常驻 **RSS ~866MB**
+  （4 个显示语言的翻译占大头——`translations-v2/` 单目录就 414MB）。
 - **投票 DB 懒连接**：`sql.Open` 启动时不拨号，首个投票请求才连 MySQL。
   连不上则投票降级（`GET /api/polls` 返空票、`POST` 503），**页面照常渲染**——"MySQL 挂了站不挂"。
 - **语言前缀路由**：显示语言在 URL 第一级（`/fr/...`），英文裸路径无前缀；国家在末级。
+- **显示语言现状**（2026-09-09）：`en` / `es` / `fr` / `zh-Hans` 对外开放（nav 下拉 + hreflang + 可索引）；
+  `ja` 翻译仅 59.6%，**入口暂时隐藏**（`i18n.hiddenDisplay`）——URL 仍可访问、译文照常渲染，
+  但不进 nav / hreflang / sitemap 且整页 noindex，补齐后从该 map 移除即可。
+  `de` / `pt` / `ko` 已退役（`i18n.RetiredLocales`），`/de/*`、`/pt/*`、`/ko/*` 301 回英文对应页。
+  **`data/translations-v2/` 只导出显示语言**：`loadTranslations()` 按 `i18n.DisplayLocales` 过滤，
+  其余语言即使存在也不载入；`scripts/export_go_translations.py` 亦拒绝导出非显示语言。
 
 ## 一、构建
 
@@ -34,7 +41,7 @@ CGO_ENABLED=0 go build -ldflags="-s -w" -trimpath -o aijobrisk .
 ```
 /opt/aijobrisk-go/
   aijobrisk            # 二进制
-  data/                # 数据 JSON（~358MB，含 occupations_v2.json / outline-paths.json / translations-v2/ 等）
+  data/                # 数据 JSON（~600MB，含 occupations_v2.json / outline-paths.json / translations-v2/ 等）
   templates/           # *.html 模板
   static/              # app.css / logo.svg
   .env                 # 环境变量（含 MYSQL_*，权限 600）
@@ -271,7 +278,8 @@ Register-ScheduledTask -TaskName "aijobrisk-blog-weekly" -Action $act -Trigger $
 | 项 | 值 |
 |---|---|
 | 构建内存 | 常规（数据不打进 bundle，无需 16GB） |
-| 启动时间 | ~1.9s（加载 6578 职业 / 4861 slug） |
-| 常驻内存 | RSS ~694MB |
+| 启动时间 | ~3.9s（加载 20,946 职业 / 4,491 slug） |
+| 常驻内存 | RSS ~866MB |
+| `data/` 体积 | ~600MB（其中 `translations-v2/` 414MB） |
 | 依赖 | Go 标准库 + `go-sql-driver/mysql`（仅投票） |
 | MySQL | 可选；挂掉仅影响投票，页面照常 |

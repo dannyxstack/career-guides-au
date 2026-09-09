@@ -33,10 +33,33 @@ func IsDisplay(x string) bool { _, ok := codeSet[x]; return ok }
 
 // indexableDisplay 翻译已完整、允许被搜索引擎索引的显示语言；
 // 其余语言页整体 noindex（半英文兜底≈重复英文页），补齐后把该码加入即放开。
-var indexableDisplay = map[string]bool{"en": true, "es": true, "fr": true}
+// zh-Hans 覆盖 94.4% 于 2026-09-09 放开；ja 仍缺四成，见 hiddenDisplay。
+var indexableDisplay = map[string]bool{"en": true, "es": true, "fr": true, "zh-Hans": true}
 
-// IsIndexable 该显示语言的页面是否允许索引（翻译已完整）。
-func IsIndexable(code string) bool { return indexableDisplay[code] }
+// hiddenDisplay 暂时不对外暴露入口的显示语言：URL 仍可访问、译文照常渲染，
+// 但不进 nav 下拉、不发 hreflang、不进 sitemap alternate——避免把半英文页面
+// 推给用户和搜索引擎。翻译补齐后从这里移除即可，无需改动其它地方。
+// ja 覆盖仅 59.6%（缺 168,201 条 / 28.3M 字符）。
+var hiddenDisplay = map[string]bool{"ja": true}
+
+// IsHidden 该显示语言是否暂时隐藏入口。
+func IsHidden(code string) bool { return hiddenDisplay[code] }
+
+// IsIndexable 该显示语言的页面是否允许索引（翻译已完整且入口未隐藏）。
+func IsIndexable(code string) bool { return indexableDisplay[code] && !hiddenDisplay[code] }
+
+// PublicDisplayLocales 对外暴露的显示语言：nav 下拉 / hreflang / sitemap alternate 用。
+// 与 DisplayLocales 的区别仅在于剔除 hiddenDisplay——载入译文、路由仍以后者为准。
+func PublicDisplayLocales() []DisplayInfo {
+	out := make([]DisplayInfo, 0, len(DisplayLocales))
+	for _, d := range DisplayLocales {
+		if hiddenDisplay[d.Code] {
+			continue
+		}
+		out = append(out, d)
+	}
+	return out
+}
 
 // RetiredLocales 已下线的旧显示语言：其 URL 前缀 301 回英文对应页。
 var RetiredLocales = map[string]bool{"de": true, "pt": true, "ko": true}
@@ -130,10 +153,10 @@ func HrefMap(d, country string) string {
 	}
 	return WithL(d, "/job-risk-map")
 }
-func HrefBlog(d string) string        { return WithL(d, "/blog") }
+func HrefBlog(d string) string           { return WithL(d, "/blog") }
 func HrefBlogPost(d, slug string) string { return WithL(d, "/blog/"+slug) }
 func HrefBlogTag(d, tag string) string   { return WithL(d, "/blog/tag/"+tag) }
-func HrefSearch(d string) string      { return WithL(d, "/search") }
-func HrefAbout(d string) string       { return WithL(d, "/about") }
-func HrefMethodology(d string) string { return WithL(d, "/methodology") }
-func HrefHome(d string) string        { return WithL(d, "/") }
+func HrefSearch(d string) string         { return WithL(d, "/search") }
+func HrefAbout(d string) string          { return WithL(d, "/about") }
+func HrefMethodology(d string) string    { return WithL(d, "/methodology") }
+func HrefHome(d string) string           { return WithL(d, "/") }

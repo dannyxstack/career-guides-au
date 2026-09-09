@@ -73,7 +73,7 @@ func buildUrlset(paths []string, site string) string {
 		b.WriteString("<url><loc>")
 		b.WriteString(abs(site, bare))
 		b.WriteString("</loc>")
-		for _, d := range i18n.DisplayLocales {
+		for _, d := range i18n.PublicDisplayLocales() {
 			b.WriteString(`<xhtml:link rel="alternate" hreflang="` + d.Hreflang + `" href="` + abs(site, i18n.WithL(d.Code, bare)) + `"/>`)
 		}
 		b.WriteString(`<xhtml:link rel="alternate" hreflang="x-default" href="` + abs(site, bare) + `"/>`)

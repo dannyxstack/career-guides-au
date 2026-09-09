@@ -32,8 +32,8 @@ type Ctx struct {
 	Bare        string // 去语言前缀的英文裸路径
 	Query       string // 原始 query（含 ? 或空）
 	JSONLD      template.JS
-	Noindex     bool // 方案 C3：n.e.c. 兜底桶页面 noindex,follow
-	EnglishOnly bool // blog 等仅英文板块：不发多语 hreflang（其余语言前缀 301 回英文）
+	Noindex     bool   // 方案 C3：n.e.c. 兜底桶页面 noindex,follow
+	EnglishOnly bool   // blog 等仅英文板块：不发多语 hreflang（其余语言前缀 301 回英文）
 	OGType      string // og:type（默认 website；文章页设 article）
 	OGImage     string // og:image 绝对 URL（空则不发）
 }
@@ -46,24 +46,24 @@ func (c *Ctx) OGTypeOr() string {
 	return "website"
 }
 
-func (c *Ctx) Tr(s string) string  { return data.Tr(s, c.CL) }
+func (c *Ctx) Tr(s string) string    { return data.Tr(s, c.CL) }
 func (c *Ctx) WithL(p string) string { return i18n.WithL(c.Loc, p) }
 
 // RobotsNoindex 是否输出 noindex：n.e.c. 降权页（Noindex）或翻译未完整的显示语言。
 func (c *Ctx) RobotsNoindex() bool { return c.Noindex || !i18n.IsIndexable(c.Loc) }
 
-func (c *Ctx) HrefHome() string                 { return i18n.HrefHome(c.Loc) }
-func (c *Ctx) HrefJob(slug string) string        { return i18n.HrefJob(c.Loc, slug, "") }
-func (c *Ctx) HrefJobC(slug, cc string) string    { return i18n.HrefJob(c.Loc, slug, cc) }
-func (c *Ctx) HrefIndustries() string             { return i18n.HrefIndustries(c.Loc, "") }
-func (c *Ctx) HrefRankings() string               { return i18n.HrefRankings(c.Loc, "") }
-func (c *Ctx) HrefCompare() string                { return i18n.HrefCompare(c.Loc, "") }
-func (c *Ctx) HrefSearch() string                 { return i18n.HrefSearch(c.Loc) }
-func (c *Ctx) HrefMethodology() string            { return i18n.HrefMethodology(c.Loc) }
-func (c *Ctx) HrefAbout() string                  { return i18n.HrefAbout(c.Loc) }
-func (c *Ctx) HrefBlog() string                   { return i18n.HrefBlog(c.Loc) }
-func (c *Ctx) HrefBlogPost(slug string) string    { return i18n.HrefBlogPost(c.Loc, slug) }
-func (c *Ctx) HrefBlogTag(tag string) string      { return i18n.HrefBlogTag(c.Loc, tag) }
+func (c *Ctx) HrefHome() string                { return i18n.HrefHome(c.Loc) }
+func (c *Ctx) HrefJob(slug string) string      { return i18n.HrefJob(c.Loc, slug, "") }
+func (c *Ctx) HrefJobC(slug, cc string) string { return i18n.HrefJob(c.Loc, slug, cc) }
+func (c *Ctx) HrefIndustries() string          { return i18n.HrefIndustries(c.Loc, "") }
+func (c *Ctx) HrefRankings() string            { return i18n.HrefRankings(c.Loc, "") }
+func (c *Ctx) HrefCompare() string             { return i18n.HrefCompare(c.Loc, "") }
+func (c *Ctx) HrefSearch() string              { return i18n.HrefSearch(c.Loc) }
+func (c *Ctx) HrefMethodology() string         { return i18n.HrefMethodology(c.Loc) }
+func (c *Ctx) HrefAbout() string               { return i18n.HrefAbout(c.Loc) }
+func (c *Ctx) HrefBlog() string                { return i18n.HrefBlog(c.Loc) }
+func (c *Ctx) HrefBlogPost(slug string) string { return i18n.HrefBlogPost(c.Loc, slug) }
+func (c *Ctx) HrefBlogTag(tag string) string   { return i18n.HrefBlogTag(c.Loc, tag) }
 
 // SiteName 供模板使用。
 func (c *Ctx) SiteName() string { return SiteName }
@@ -92,26 +92,24 @@ func (c *Ctx) Nav() []NavItem {
 	return out
 }
 
-// LangOptions 语言下拉（对齐 Base.astro：隐藏 de/ko）。
+// LangOptions 语言下拉；隐藏入口的语言（i18n.hiddenDisplay）不列出。
 func (c *Ctx) LangOptions() []LocaleURL {
 	var out []LocaleURL
-	for _, d := range i18n.DisplayLocales {
-		if d.Code == "de" || d.Code == "ko" {
-			continue
-		}
+	for _, d := range i18n.PublicDisplayLocales() {
 		out = append(out, LocaleURL{Code: d.Code, Label: d.Label, Hreflang: d.Hreflang,
 			Href: i18n.WithL(d.Code, c.Bare) + c.Query})
 	}
 	return out
 }
 
-// Alternates hreflang 备用链接（全部 8 语言 + x-default）；仅英文板块不发。
+// Alternates hreflang 备用链接（对外暴露的显示语言 + x-default）；仅英文板块不发。
+// 隐藏入口的语言不发 hreflang——它们整页 noindex，指过去只会制造重复内容信号。
 func (c *Ctx) Alternates() []LocaleURL {
 	if c.EnglishOnly {
 		return nil
 	}
 	var out []LocaleURL
-	for _, d := range i18n.DisplayLocales {
+	for _, d := range i18n.PublicDisplayLocales() {
 		out = append(out, LocaleURL{Code: d.Code, Hreflang: d.Hreflang,
 			Href: c.Site + i18n.WithL(d.Code, c.Bare)})
 	}
