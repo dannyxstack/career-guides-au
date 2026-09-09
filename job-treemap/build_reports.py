@@ -294,18 +294,37 @@ def build_model(cc):
     }
 
 
+# The report landing is the destination of the site-wide "Download the full
+# report" CTA, so it wears the same dark chrome + footer as every other page
+# (it used to be a stray white/purple sheet with no nav back into the site).
 LANDING = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{country} AI Job Risk Report {year} — download PDF | {site}</title>
 <meta name="description" content="{hero} Download the free {year} PDF report: rankings, risk map, scenarios and methodology for {n} occupations.">
 <link rel="canonical" href="{report_url}">
-<style>body{{font:16px/1.6 system-ui,Arial;max-width:760px;margin:0 auto;padding:32px 20px;color:#1c2430}}
-h1{{font-size:1.9rem;margin:.2em 0}} .hero{{background:#f2f1fb;border-left:5px solid #6647c0;padding:14px 16px;border-radius:6px;font-size:1.1rem}}
-.grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0}} .stat{{border:1px solid #dcdee2;border-radius:8px;padding:10px}}
-.stat b{{font-size:1.4rem;display:block}} .btn{{display:inline-block;background:#6647c0;color:#fff;font-weight:700;padding:12px 22px;border-radius:8px;margin:12px 0}}
-ul{{padding-left:20px}} a{{color:#4f3797}} .muted{{color:#616367;font-size:.9rem}}</style>
-<script type="application/ld+json">{jsonld}</script></head><body>
-<p class="muted"><a href="{country_url}">← {country} interactive risk map</a></p>
+<meta name="robots" content="index,follow">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="article"><meta property="og:site_name" content="{site}">
+<meta property="og:title" content="{country} AI Job Risk Report {year}">
+<meta property="og:description" content="{hero}">
+<meta property="og:url" content="{report_url}"><meta property="og:image" content="{og_image}">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{og_image}">
+{doc_css}
+<style>
+.crumb{{font-size:13px;color:#9a9aa6;margin:0 0 22px}}
+.crumb a{{text-decoration:none;font-weight:600}}
+.crumb a:hover{{text-decoration:underline}}
+.hero{{background:#12121a;border-left:4px solid #e6961e;border-radius:0 9px 9px 0;padding:14px 17px;font-size:17px;line-height:1.55;margin:14px 0 20px}}
+.grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:18px 0 22px}}
+.stat{{border:1px solid rgba(255,255,255,.09);border-radius:10px;background:#12121a;padding:13px 15px;font-size:12.5px;color:#9a9aa6}}
+.stat b{{display:block;font-size:1.5rem;color:#e0e0e8;line-height:1.2;margin-bottom:3px}}
+.btn.big{{padding:13px 24px;font-size:15px}}
+.dl-row{{display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin:6px 0 4px}}
+.dl-row .btn{{margin-top:0}}
+.dl-note{{font-size:12.5px;color:#9a9aa6;margin:0 0 8px}}
+</style>
+<script type="application/ld+json">{jsonld}</script></head><body><div class="wrap">
+<p class="crumb"><a href="/">AI Job Risk Map</a> &rsaquo; <a href="/reports/">Country reports</a> &rsaquo; {country}</p>
 <h1>{country} AI Job Risk Report {year}</h1>
 <p class="hero">{hero}</p>
 <div class="grid">
@@ -313,17 +332,23 @@ ul{{padding-left:20px}} a{{color:#4f3797}} .muted{{color:#616367;font-size:.9rem
 <div class="stat"><b>{risk_median}/100</b>Median AI exposure</div>
 <div class="stat"><b>{high_occ_pct}%</b>High-risk occupations</div>
 </div>
-<a class="btn" href="{pdf_href}">Download the full PDF report</a>
-<h2>What's inside</h2>
+<div class="dl-row"><a class="btn big" href="{pdf_href}" download>Download the full PDF report</a>
+<a href="{country_url}">or explore the interactive {country} map &rarr;</a></div>
+<p class="dl-note">Free PDF &middot; no sign-up &middot; CC&nbsp;BY&nbsp;4.0 &mdash; reuse it with a link back.</p>
+<h2>What&rsquo;s inside</h2>
 <ul><li>Executive summary &amp; how to read the scores</li><li>National AI job risk map</li>
 <li>Highest-risk and most-resilient occupations</li><li>Risk by occupational group</li>
 {pay_line}<li>Tasks AI automates &amp; the human moat</li><li>Career transition paths</li>
 <li>2030 adoption scenarios</li><li>Full methodology, sources &amp; citation</li></ul>
 <h2>Data &amp; method</h2>
-<p class="muted">AI exposure from ILO Working Paper 140 (calibrated with Eloundou et al.), mapped to {n} occupations.
-Full occupation dataset: <a href="{dataset_url}">dataset.csv</a> (CC BY 4.0). Updated {published}.</p>
-<p class="muted">Suggested citation: {site} ({year}). AI Job Risk Report: {country} {year}. {report_url}</p>
-</body></html>"""
+<p>AI exposure comes from ILO Working Paper 140 (calibrated with Eloundou et al.), mapped to {n}
+{country} occupations &mdash; see the <a href="/methodology.html">full methodology</a>. The complete
+occupation dataset is available as <a href="{dataset_url}">dataset.csv</a> (CC&nbsp;BY&nbsp;4.0).
+Updated {published}.</p>
+<div class="quote">Suggested citation: {site} ({year}). <em>AI Job Risk Report: {country} {year}</em>. {report_url}</div>
+<p class="foot">Looking for another country? <a href="/reports/">Browse all country reports &rarr;</a></p>
+</div>
+{footer}</body></html>"""
 
 
 def build_landing(m):
@@ -342,12 +367,16 @@ def build_landing(m):
                          "contentUrl": f"{m['report_url']}{m['slug']}-ai-job-risk-{m['year']}.pdf"},
     }, ensure_ascii=False)
     pay_line = "<li>Salary vs AI risk quadrant</li>" if m["has_pay"] else ""
+    png = os.path.join(DIST, "static", "maps", B.map_filename(m["cc"]))
+    og_image = (f"{B.DOMAIN}/static/maps/{B.map_filename(m['cc'])}" if os.path.exists(png)
+                else f"{B.DOMAIN}/og-image.png")
     return LANDING.format(
         country=m["country"], year=m["year"], site=m["site_name"], hero=html.escape(m["hero_conclusion"]),
         n=m["n_occ"], risk_median=m["risk_median"], high_occ_pct=m["high_occ_pct"],
         report_url=m["report_url"], country_url=m["country_url"], dataset_url=m["dataset_url"],
         published=m["published"], jsonld=jsonld, pay_line=pay_line,
         pdf_href=f"{m['slug']}-ai-job-risk-{m['year']}.pdf",
+        doc_css=B.DOC_CSS, footer=B.build_footer(), og_image=og_image,
     )
 
 

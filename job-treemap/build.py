@@ -125,11 +125,28 @@ COUNTRY_META = {
 }
 # Set of countries the site builds. Display order is derived alphabetically by
 # English name at build time (see `present` below), not from this list's order.
-# NOTE: keep NC (country count in the SEO copy below) in sync when adding/removing here.
 ORDER = ["AU", "US", "UK", "CA", "NZ", "JP", "KR", "DE", "FR", "ES", "IT", "NL", "IE", "BR", "MX", "IN", "CN",
          "NO", "SE", "FI", "DK", "IS",
          "BE", "AT", "PL", "PT", "GR", "HU", "CZ", "RO", "LU", "SK", "SI", "HR", "TR", "AR", "CL", "MY", "ID", "TH", "VN", "SG",
          "CH", "EE", "LV", "LT"]
+
+# Site totals used throughout the SEO copy. Both used to be hardcoded in ~10
+# places and drifted apart whenever ORDER changed (about.html shipped "42
+# countries" long after ORDER reached 46); main() now refreshes them from the
+# countries actually built, so every page states the same, true numbers.
+NC = len(ORDER)   # countries built
+N_OCC = 0         # occupations across those countries (0 until main() sets it)
+
+
+def set_totals(present, n_occ):
+    global NC, N_OCC
+    NC, N_OCC = len(present), n_occ
+
+
+def nocc():
+    """Occupation count for prose; falls back to a safe floor pre-`set_totals`."""
+    return f"{N_OCC:,}" if N_OCC else "20,000+"
+
 
 # Public site identity + per-country URL slug (lowercase full name).
 DOMAIN = "https://aijobriskmap.com"
@@ -1079,9 +1096,9 @@ def build_landing(present, stats_by_cc):
     risk_chips = "".join(_chip(exp_rgb_home(s), lab) for lab, s in
                          [("&le; 3 low", 3), ("4", 4), ("5 moderate", 5),
                           ("6", 6), ("&ge; 7 high", 7)])
-    title = "AI Job Risk Map — how exposed is every job to AI, across 46 countries"
-    desc = ("An interactive map of how exposed jobs are to generative AI in 46 countries. "
-            "Every occupation scored 0–10 using ILO and OpenAI research on each country's official data.")
+    title = f"AI Job Risk Map — how exposed is every job to AI, across {NC} countries"
+    desc = (f"Interactive AI-exposure scores for {nocc()} occupations in {NC} countries, plus a free "
+            "PDF report per country. Built for job seekers, HR leaders and workforce planners.")
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1110,7 +1127,20 @@ body{{background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacS
 .brand img{{width:38px;height:38px}}
 .brand b{{font-size:19px;letter-spacing:-.01em}}
 h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
-.lead{{color:var(--fg2);font-size:17px;max-width:960px;margin:0 0 34px}}
+/* Hero: the H1 question alone never said what the page hands you, so it carries a
+   plain-language sub-line naming the deliverable, an audience eyebrow above it,
+   and a primary CTA into /reports/ (the site's one conversion path). */
+.eyebrow{{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--accent);background:rgba(230,150,30,.1);border:1px solid rgba(230,150,30,.28);border-radius:999px;padding:5px 13px;margin:0 0 15px}}
+h1 .h1-sub{{display:block;margin-top:11px;font-size:19px;font-weight:400;line-height:1.45;letter-spacing:0;color:var(--fg2)}}
+.lead{{color:var(--fg2);font-size:17px;max-width:960px;margin:0 0 22px}}
+.hero-cta{{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 11px}}
+.cta{{display:inline-block;padding:13px 24px;border-radius:9px;background:var(--accent);color:#0a0a0f;font-weight:700;font-size:15px;text-decoration:none;transition:filter .15s,transform .15s}}
+.cta:hover{{filter:brightness(1.08);transform:translateY(-1px)}}
+.cta.sec{{background:var(--bg2);color:var(--fg);border:1px solid var(--line)}}
+.cta.sec:hover{{border-color:rgba(255,255,255,.28);transform:translateY(-1px);filter:none}}
+.cta-note{{font-size:12.5px;color:var(--fg2);margin:0 0 30px}}
+.cta-note a{{color:var(--accent)}}
+.explore-h{{font-size:21px;line-height:1.25;letter-spacing:-.01em;margin:34px 0 14px;scroll-margin-top:20px}}
 .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}}
 .cc-card{{display:flex;flex-direction:column;gap:5px;padding:16px 18px;border:1px solid var(--line);border-radius:12px;background:var(--bg2);text-decoration:none;color:var(--fg);transition:border-color .15s,transform .15s}}
 .cc-card:hover{{border-color:rgba(255,255,255,.28);transform:translateY(-2px)}}
@@ -1180,11 +1210,20 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 <body>
 <div class="wrap">
 <div class="brand"><img src="favicon.svg" alt=""><b>{SITE_NAME}</b></div>
-<h1>Which jobs are most at risk from AI?</h1>
-<p class="lead">An interactive treemap of every occupation in 46 countries. We score each job&rsquo;s
-<b>AI risk</b> by its <b>exposure</b> to generative AI &mdash; how much of its day-to-day tasks AI can
-already do &mdash; on a 0&ndash;10 scale, computed from open ILO and OpenAI research and mapped onto
-each country's official statistics. Pick a country:</p>
+<p class="eyebrow">For job seekers, HR leaders &amp; workforce planners</p>
+<h1>Which jobs are most at risk from AI?<span class="h1-sub">Interactive exposure scores for
+{nocc()} occupations across {NC} countries &mdash; explore the map, or download the free
+country report.</span></h1>
+<p class="lead">We score each job&rsquo;s <b>AI risk</b> by its <b>exposure</b> to generative AI
+&mdash; how much of its day-to-day tasks AI can already do &mdash; on a 0&ndash;10 scale, computed
+from open ILO and OpenAI research and mapped onto each country's official statistics.</p>
+<div class="hero-cta">
+<a class="cta" href="/reports/">Download the full AI Job Risk report</a>
+<a class="cta sec" href="#explore">Explore the interactive map</a>
+</div>
+<p class="cta-note">Free PDF, one per country &middot; {NC} countries &middot; no sign-up &middot;
+CC&nbsp;BY&nbsp;4.0 &mdash; or take the raw numbers as a <a href="/dataset.csv" download>CSV</a>.</p>
+<h2 class="explore-h" id="explore">Pick a country</h2>
 <div class="tabs" id="viewTabs">
 <button class="tab-btn active" data-tab="bubbles" type="button">Bubble view</button>
 <button class="tab-btn" data-tab="grid" type="button">Grid view</button>
@@ -1466,6 +1505,7 @@ def build_footer():
 <footer class="site-footer">
 <nav>
 <a href="/">Home</a>
+<a href="/reports/">Country reports (PDF)</a>
 <a href="/ai-job-loss-2030.html">AI job loss by 2030</a>
 <a href="/embed">Download &amp; embed</a>
 <a href="/methodology.html">Methodology</a>
@@ -1732,6 +1772,103 @@ document.getElementById("leadForm").addEventListener("submit", e => {{
     return doc_head(title, desc, "/embed") + body
 
 
+def build_reports_hub(present, stats_by_cc):
+    """/reports/ index — the landing the home-page CTA points at.
+
+    The per-country report landings (and the PDFs themselves) are produced later
+    in the pipeline by build_reports.py, but the hub is built here so it exists
+    on a `--fast` run too (otherwise the primary CTA would 404) and so its URL
+    lands in the sitemap this module writes. A card links straight to the PDF
+    only when that file is already on disk; otherwise it points at the country's
+    report landing, which always exists once build_reports.py has run.
+    """
+    title = f"Free AI Job Risk Reports — one PDF per country ({NC} countries)"
+    desc = (f"Download a free {YEAR} AI job risk report for any of {NC} countries: highest-risk and "
+            f"most-resilient occupations, risk by industry, 2030 scenarios and full methodology.")
+    cards, n_pdf = [], 0
+    for cc in present:
+        name, st, slug = COUNTRY_META[cc][0], stats_by_cc[cc], SLUG[cc]
+        pdf = f"{slug}-ai-job-risk-{YEAR}.pdf"
+        has_pdf = os.path.exists(os.path.join(DIST, "reports", slug, pdf))
+        n_pdf += has_pdf
+        r, g, b = exp_rgb(st["weighted_avg"])
+        dl = (f'<a class="rc-dl" href="/reports/{slug}/{pdf}" download>Download PDF</a>'
+              if has_pdf else "")
+        cards.append(
+            f'<div class="rcard">'
+            f'<a class="rc-head" href="/reports/{slug}/">'
+            f'<span class="rc-flag">{FLAG.get(cc, "")}</span>'
+            f'<span class="rc-name">{esc(name)}</span></a>'
+            f'<div class="rc-meta">{st["total"]} occupations &middot; '
+            f'{fmt_big_jobs(st["total_jobs"])} workers &middot; avg exposure '
+            f'<b style="color:rgb({r},{g},{b})">{st["weighted_avg"]:.1f}</b>/10</div>'
+            f'<div class="rc-actions">{dl}'
+            f'<a class="rc-more" href="/reports/{slug}/">What&rsquo;s inside &rarr;</a></div>'
+            f'</div>')
+    body = f"""<body>
+<style>
+.rgrid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;margin:18px 0 8px}}
+.rcard{{border:1px solid var(--line);border-radius:12px;background:var(--bg2);padding:15px 17px}}
+.rc-head{{display:flex;align-items:center;gap:9px;text-decoration:none;color:var(--fg)}}
+.rc-head:hover .rc-name{{text-decoration:underline}}
+.rc-flag svg{{width:26px;height:auto;display:block;border-radius:3px;box-shadow:0 0 0 1px rgba(255,255,255,.14)}}
+.rc-name{{font-size:16.5px;font-weight:600}}
+.rc-meta{{font-size:12.5px;color:var(--fg2);margin:7px 0 11px;line-height:1.5}}
+.rc-actions{{display:flex;align-items:center;gap:14px;flex-wrap:wrap}}
+.rc-dl{{background:var(--accent);color:#0a0a0f;font-weight:700;font-size:13px;padding:7px 14px;border-radius:7px;text-decoration:none}}
+.rc-dl:hover{{filter:brightness(1.08)}}
+.rc-more{{font-size:12.5px;text-decoration:none}}
+.rc-more:hover{{text-decoration:underline}}
+.inside{{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px 26px;margin:14px 0}}
+.inside ul{{margin:0}}
+</style>
+<div class="wrap">
+<a class="back" href="/">&larr; Back to the map</a>
+<h1>AI Job Risk Reports &mdash; free, one per country</h1>
+<p class="lead">A {YEAR} PDF briefing for each of the {NC} countries on this site: which occupations
+carry the most AI exposure, which hold up best, how the risk splits by industry and pay, and what
+2030 looks like under three adoption scenarios. Written for <strong>job seekers</strong> weighing a
+move, <strong>HR and workforce planners</strong> sizing the exposure of a headcount, and
+<strong>journalists and researchers</strong> who need a citable figure. No sign-up, no email wall.</p>
+
+<h2>What&rsquo;s in every report</h2>
+<div class="inside">
+<ul>
+<li>Executive summary &amp; how to read the scores</li>
+<li>The national AI job risk map</li>
+<li>Highest-risk and most-resilient occupations</li>
+<li>Risk by occupational group</li>
+</ul>
+<ul>
+<li>Salary vs AI risk (where official pay data allows)</li>
+<li>Which tasks AI automates &mdash; and the human moat</li>
+<li>Career transition paths</li>
+<li>2030 adoption scenarios, sources &amp; citation</li>
+</ul>
+</div>
+
+<h2>Pick your country</h2>
+<div class="rgrid">{''.join(cards)}</div>
+<p class="muted" style="color:var(--fg2);font-size:13px">{n_pdf} of {NC} PDFs are live; the rest link
+to their report page. Prefer the raw numbers? Take the
+<a href="/dataset.csv" download>full dataset (CSV)</a> or
+<a href="/embed">embed the interactive map</a>.</p>
+
+<h2>Licence &amp; citation</h2>
+<p>Reports, maps and data are licensed <strong>CC&nbsp;BY&nbsp;4.0</strong> &mdash; reuse them freely,
+including commercially, with a link back. Suggested citation:</p>
+<div class="quote">{SITE_NAME} ({YEAR}). <em>AI Job Risk Report: [Country] {YEAR}</em>. {DOMAIN}/reports/</div>
+<p>Scores come from ILO Working Paper 140 and Eloundou et al. (2023), mapped onto each country&rsquo;s
+official occupation classification &mdash; see the <a href="/methodology.html">full methodology</a>.</p>
+
+<p class="foot">AI Job Risk Map is independent and not affiliated with, or endorsed by, the ILO or
+OpenAI. &middot; aijobriskmap.com</p>
+</div>
+{build_footer()}
+</body></html>"""
+    return doc_head(title, desc, "/reports/") + body
+
+
 def job_loss_method_html():
     """methodology.html 的 'AI job loss by 2030' 方法白盒 + 权威对照（锚 #job-loss）。"""
     return f"""<h2 id="job-loss">AI job loss by 2030 &mdash; how the estimate works</h2>
@@ -1764,7 +1901,8 @@ def build_sitemap(present):
     # /embed/{slug} pages are intentionally omitted (noindex iframe targets).
     date = datetime.now().strftime("%Y-%m-%d")
     urls = ([f"{DOMAIN}/", f"{DOMAIN}/about.html", f"{DOMAIN}/methodology.html",
-             f"{DOMAIN}/ai-job-loss-2030.html", f"{DOMAIN}/embed"]
+             f"{DOMAIN}/ai-job-loss-2030.html", f"{DOMAIN}/embed",
+             f"{DOMAIN}/reports/"]
             + [country_url(cc) for cc in present]
             + [f"{DOMAIN}/reports/{SLUG[cc]}/" for cc in present]
             + [f"{DOMAIN}/reports/{SLUG[cc]}/{SLUG[cc]}-ai-job-risk-{YEAR}.pdf" for cc in present])
@@ -1943,6 +2081,9 @@ def main():
     # English country name.
     present = sorted((cc for cc in ORDER if cc in by_country),
                      key=lambda c: COUNTRY_META[c][0])
+    # SEO 文案里的国家数/职业数从这里取真值（见 NC / N_OCC）。必须在 `only` 收窄
+    # present 之前算，否则单国预览模式会把全站数字写成那一国的。
+    set_totals(present, sum(len(by_country[c]) for c in present))
     # 可选：命令行传国家码（如 `python build.py US`）只重建这些国家，便于单国预览。
     # 传参时跳过下方清理旧目录的步骤，避免误删其他国家已生成的页面。
     only = [a.upper() for a in sys.argv[1:] if a.upper() in present]
@@ -2107,6 +2248,14 @@ def main():
     with open(os.path.join(DIST, "embed", "favicon.svg"), "w", encoding="utf-8") as f:
         f.write(FAVICON)
     print("  embed/ hub written")
+
+    # ── Report hub (target of the landing-page CTA) ───────────────
+    # NB: reports/ is deliberately not cleaned above — the per-country landings
+    # and PDFs under it come from build_reports.py later in the pipeline.
+    os.makedirs(os.path.join(DIST, "reports"), exist_ok=True)
+    with open(os.path.join(DIST, "reports", "index.html"), "w", encoding="utf-8") as f:
+        f.write(build_reports_hub(present, stats_by_cc))
+    print("  reports/ hub written")
 
     # ── Dataset download ──────────────────────────────────────────
     write_dataset_csv(os.path.join(DIST, "dataset.csv"), rows_by_cc, present)
