@@ -1,1 +1,1 @@
-go build -o aijobrisk-go .
+go build -o aijobrisk .
