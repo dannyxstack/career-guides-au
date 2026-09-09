@@ -494,7 +494,7 @@ red&nbsp;=&nbsp;high).</li>
 __SOURCES_SECTION__
 
 <h2>Download the data</h2>
-<p>The full scored dataset &mdash; every occupation in all 46 countries, with its AI-exposure score
+<p>The full scored dataset &mdash; every occupation in all __NC__ countries, with its AI-exposure score
 (0&ndash;10), global percentile, workforce size and average pay &mdash; is available as a single CSV:</p>
 <div class="src">
 <strong><a href="dataset.csv" download>dataset.csv</a></strong> &mdash; one row per occupation across
@@ -1396,7 +1396,7 @@ def build_og_image(path):
     except Exception:
         title_f = sub_f = dom_f = ImageFont.load_default()
     d.text((90, 330), "AI Job Risk Map", font=title_f, fill=(240, 240, 245))
-    d.text((90, 438), "How exposed is every job to AI — 46 countries, one 0–10 scale.",
+    d.text((90, 438), f"How exposed is every job to AI — {NC} countries, one 0–10 scale.",
            font=sub_f, fill=(154, 154, 166))
     # exposure gradient strip
     for i in range(1020):
@@ -1531,7 +1531,7 @@ def map_card(cc, st):
 
 def build_about(cov_all=None, cov_hi=None):
     title = "About — AI Job Risk Map"
-    desc = ("AI Job Risk Map is a free, independent atlas of how exposed 5,000+ jobs in 42 "
+    desc = (f"AI Job Risk Map is a free, independent atlas of how exposed {nocc()} jobs in {NC} "
             "countries are to generative AI, on one comparable 0–10 scale.")
     coverage = ""
     if cov_all:
@@ -1548,7 +1548,7 @@ def build_about(cov_all=None, cov_hi=None):
 <a class="back" href="/">&larr; Back to the map</a>
 <h1>About AI Job Risk Map</h1>
 <p class="lead">A free, independent atlas of how exposed the world&rsquo;s jobs are to generative AI &mdash;
-5,000+ occupations across 46 countries, on one comparable 0&ndash;10 scale.{coverage}</p>
+{nocc()} occupations across {NC} countries, on one comparable 0&ndash;10 scale.{coverage}</p>
 
 <h2>What it is</h2>
 <p>AI Job Risk Map turns two open, generative-AI-era research datasets into an interactive picture of the
@@ -1672,7 +1672,7 @@ policy, and job creation that this figure does not net out.</p>
 
 def build_embed_hub(present, stats_by_cc):
     title = "Embed & Download AI Job Risk Maps — Free for Journalists & Bloggers"
-    desc = ("Download free high-resolution AI job risk maps for 46 countries (CC BY 4.0), embed the "
+    desc = (f"Download free high-resolution AI job risk maps for {NC} countries (CC BY 4.0), embed the "
             "interactive map, and grab ready-to-use citations. One minute to publish.")
     # Per-country data for the JS-driven snippet + citation builders.
     countries_js = json.dumps(
@@ -1685,7 +1685,7 @@ def build_embed_hub(present, stats_by_cc):
 <a class="back" href="/">&larr; Back to the map</a>
 <h1>Embed &amp; download AI Job Risk Maps &mdash; free for journalists &amp; bloggers</h1>
 <p class="lead">Everything you need to publish in about a minute: free high-resolution maps for
-46 countries, an interactive embed, and ready-to-paste citations. Free to use with attribution.</p>
+{NC} countries, an interactive embed, and ready-to-paste citations. Free to use with attribution.</p>
 
 <h2>1. Interactive embed</h2>
 <label for="ctry">Country</label>
@@ -1921,7 +1921,7 @@ def build_llms(present, stats_by_cc):
         f"# {SITE_NAME}",
         "",
         "> Interactive treemaps showing how exposed each occupation is to generative AI "
-        "across 46 countries. Every occupation is scored 0–10 by combining two open research "
+        f"across {NC} countries. Every occupation is scored 0–10 by combining two open research "
         "datasets — the ILO's Working Paper 140 index and OpenAI's \"GPTs are GPTs\" "
         "task-exposure study — mapped onto each country's official occupation classification "
         "and ranked on a single global percentile scale so the numbers stay comparable "
@@ -1940,7 +1940,7 @@ def build_llms(present, stats_by_cc):
         "## About",
         f"- [Methodology & sources]({DOMAIN}/methodology.html): how the 0–10 AI exposure score is "
         "computed, data sources, and how each country is mapped to ISCO-08.",
-        f"- [Full dataset (CSV)]({DATASET_URL}): every occupation in all 46 countries with its "
+        f"- [Full dataset (CSV)]({DATASET_URL}): every occupation in all {NC} countries with its "
         "AI-exposure score, percentile, workforce and average pay.",
         "",
     ]
@@ -1978,8 +1978,8 @@ def dataset_ld_country(cc, name, st, has_png):
 def dataset_ld_global(present):
     return {
         "@context": "https://schema.org", "@type": "Dataset",
-        "name": "AI Job Risk Map — 42 Countries, 5000+ Occupations",
-        "description": ("Interactive treemap of AI exposure for 5000+ occupations across 42 "
+        "name": f"AI Job Risk Map — {NC} Countries, {nocc()} Occupations",
+        "description": (f"Interactive treemap of AI exposure for {nocc()} occupations across {NC} "
                         "countries, based on ILO Working Paper 140 and OpenAI's GPTs are GPTs study."),
         "url": DOMAIN + "/",
         "keywords": ["AI job risk map", "AI exposure by country", "jobs at risk from AI"],
@@ -2231,6 +2231,7 @@ def main():
     # ── Methodology + About pages (distinct: how it's computed vs what it is) ──
     with open(os.path.join(DIST, "methodology.html"), "w", encoding="utf-8") as f:
         f.write(METHODOLOGY_HTML.replace("__DOMAIN__", DOMAIN)
+                .replace("__NC__", str(NC))
                 .replace("__SOURCES_SECTION__", job_loss_method_html() + methodology_sources_section(present))
                 .replace("__FOOTER__", build_footer()))
     cov_all = sum(stats_by_cc[c]["total_jobs"] for c in present)
