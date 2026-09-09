@@ -7,8 +7,10 @@ Runs the whole pipeline in the right order so a single command rebuilds everythi
   3. build.py    (pass 1)           -> dist/ (incl. the /embed pages shoot_maps needs)
   4. shoot_maps  (Playwright)       -> dist/static/maps/*.png       [best-effort]
   5. build.py    (pass 2)           -> dist/ (new PNGs into og:image / Dataset schema)
+  6. shoot_home_og (Playwright)     -> dist/og-home.png             [best-effort]
+  7. build_reports + shoot_reports  -> dist/reports/{slug}/*.pdf     [best-effort]
 
-Steps 1, 2 and 4 are best-effort: if they fail (no DeepSeek key, no Playwright,
+Steps 1, 2, 4, 6 and 7 are best-effort: if they fail (no DeepSeek key, no Playwright,
 no network) the pipeline logs it and carries on — build.py has deterministic
 fallbacks for missing summaries/longform/maps, so the site still builds. Only
 build.py itself is fatal.
@@ -81,11 +83,16 @@ def main():
         if run(["node", os.path.join("scripts", "shoot_maps.mjs")],
                "static maps (Playwright)"):
             run(build_cmd, "build site (pass 2 - maps in og/schema)", fatal=True)
+            # The landing's og:image is a screenshot of the finished landing, so it
+            # can only be shot after pass 2. It used to sit outside the pipeline and
+            # silently went stale whenever the home page changed.
+            run(["node", os.path.join("scripts", "shoot_home_og.mjs")],
+                "home og:image (Playwright)")
         else:
             print("[build_all] maps skipped — dist/ from pass 1 is complete "
                   "(og falls back to og-image.png where a PNG is missing).", flush=True)
 
-    # 6 — country PDF reports. build_reports.py is deterministic (assembles HTML
+    # 7 — country PDF reports. build_reports.py is deterministic (assembles HTML
     #     + landing, embedding the maps from step 4); shoot_reports.mjs prints
     #     them to real-text PDFs via Playwright (best-effort, like the maps).
     if not args.fast:
