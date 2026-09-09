@@ -1,0 +1,578 @@
+{
+ "https://aijobriskmap.com/": {
+  "date": "2026-09-09",
+  "hash": "393ef9ab079e19cb57148b9dbf36db3026722f25"
+ },
+ "https://aijobriskmap.com/about.html": {
+  "date": "2026-09-09",
+  "hash": "44fb14a7f8f279ca4112f314f3f58576c9ebb00a"
+ },
+ "https://aijobriskmap.com/ai-job-loss-2030.html": {
+  "date": "2026-09-09",
+  "hash": "0e611b73f534a1b1419eb8a8e6052be3940738ba"
+ },
+ "https://aijobriskmap.com/country/argentina/": {
+  "date": "2026-09-09",
+  "hash": "9afe594a912977c4fa8746e1920a0615dc016990"
+ },
+ "https://aijobriskmap.com/country/australia/": {
+  "date": "2026-09-09",
+  "hash": "9980df111ebccc854f2425e87cd2b2d5ac3e4118"
+ },
+ "https://aijobriskmap.com/country/austria/": {
+  "date": "2026-09-09",
+  "hash": "c58dbbced9d7c751316d01b1e72d6f46eced1fca"
+ },
+ "https://aijobriskmap.com/country/belgium/": {
+  "date": "2026-09-09",
+  "hash": "cc503f5461620773adc63bc8b42b55679df668e9"
+ },
+ "https://aijobriskmap.com/country/brazil/": {
+  "date": "2026-09-09",
+  "hash": "c5bda62b5f0500484abec9cf8c5755841e6175d6"
+ },
+ "https://aijobriskmap.com/country/canada/": {
+  "date": "2026-09-09",
+  "hash": "8366b3351801b0c747717747f7370dcdaeb11df0"
+ },
+ "https://aijobriskmap.com/country/chile/": {
+  "date": "2026-09-09",
+  "hash": "f603884dcdeaaaf412238278f5133a2ecef57204"
+ },
+ "https://aijobriskmap.com/country/china/": {
+  "date": "2026-09-09",
+  "hash": "7a402dd71707c12b105b0e7ef9295af28c8b8da9"
+ },
+ "https://aijobriskmap.com/country/croatia/": {
+  "date": "2026-09-09",
+  "hash": "d7552aacc426ab9dc4acda8b88832e45417ac1b7"
+ },
+ "https://aijobriskmap.com/country/czechia/": {
+  "date": "2026-09-09",
+  "hash": "c85950c2fdd033291cee12f9ba2274adc5abd7bd"
+ },
+ "https://aijobriskmap.com/country/denmark/": {
+  "date": "2026-09-09",
+  "hash": "536107d575236e72f8b285515f89d8975f9d5e71"
+ },
+ "https://aijobriskmap.com/country/estonia/": {
+  "date": "2026-09-09",
+  "hash": "a54824d57459a539772617ecf40c33d42e9d9c9a"
+ },
+ "https://aijobriskmap.com/country/finland/": {
+  "date": "2026-09-09",
+  "hash": "cfa475d051c965982dc08b30be0ddb414ecb9b28"
+ },
+ "https://aijobriskmap.com/country/france/": {
+  "date": "2026-09-09",
+  "hash": "0fafea9a9c5b3d1fa2defb6d9e8c591aebfcdae6"
+ },
+ "https://aijobriskmap.com/country/germany/": {
+  "date": "2026-09-09",
+  "hash": "b1d2f41c07c7092b9d9dad5462be0dd3e1f29761"
+ },
+ "https://aijobriskmap.com/country/greece/": {
+  "date": "2026-09-09",
+  "hash": "f144f5eb4cd7df93be561192f5e2ea5883d10d37"
+ },
+ "https://aijobriskmap.com/country/hungary/": {
+  "date": "2026-09-09",
+  "hash": "0dc495da7fb11f8d49b323afb877593506a8fae6"
+ },
+ "https://aijobriskmap.com/country/iceland/": {
+  "date": "2026-09-09",
+  "hash": "d432f3cab1cf8daf1de566361a0f63bef026a981"
+ },
+ "https://aijobriskmap.com/country/india/": {
+  "date": "2026-09-09",
+  "hash": "84487f5b940e14e1d0dc4891fb214a78279fd92b"
+ },
+ "https://aijobriskmap.com/country/indonesia/": {
+  "date": "2026-09-09",
+  "hash": "0927c8193fae61dc025de1fdcf2a38a1d5552a75"
+ },
+ "https://aijobriskmap.com/country/ireland/": {
+  "date": "2026-09-09",
+  "hash": "3299a0457ea44e2d8dc63e66d73218e2661bd15d"
+ },
+ "https://aijobriskmap.com/country/italy/": {
+  "date": "2026-09-09",
+  "hash": "314b27147fa970970399e924503ed528ed3d0505"
+ },
+ "https://aijobriskmap.com/country/japan/": {
+  "date": "2026-09-09",
+  "hash": "c8d464f6b7d68f1a4a606d66018636dfd628b1cf"
+ },
+ "https://aijobriskmap.com/country/latvia/": {
+  "date": "2026-09-09",
+  "hash": "f597bae073e90f8c3794e18fe14dae471ce868da"
+ },
+ "https://aijobriskmap.com/country/lithuania/": {
+  "date": "2026-09-09",
+  "hash": "e6e1d203f1c8b9be916fbd128b75ac044302c6a9"
+ },
+ "https://aijobriskmap.com/country/luxembourg/": {
+  "date": "2026-09-09",
+  "hash": "d5f6c901dab75f6ce21e99a71ad91c7d88c027e9"
+ },
+ "https://aijobriskmap.com/country/malaysia/": {
+  "date": "2026-09-09",
+  "hash": "67fe9b00bab24702e9a470b614aecf0a93e2890d"
+ },
+ "https://aijobriskmap.com/country/mexico/": {
+  "date": "2026-09-09",
+  "hash": "04b0a49334e638a7368ddc6c2ebba1bdc7b39de3"
+ },
+ "https://aijobriskmap.com/country/netherlands/": {
+  "date": "2026-09-09",
+  "hash": "d08e28daa3da870f4740a94b1c0f6062a5abecb7"
+ },
+ "https://aijobriskmap.com/country/new-zealand/": {
+  "date": "2026-09-09",
+  "hash": "9dd0fc4c938011b8d2bbff2ff9f00a46a11d6278"
+ },
+ "https://aijobriskmap.com/country/norway/": {
+  "date": "2026-09-09",
+  "hash": "c77aabcffcba257461f728e9eb7405f0a3a4471f"
+ },
+ "https://aijobriskmap.com/country/poland/": {
+  "date": "2026-09-09",
+  "hash": "5330107b7a8bcc94f3243151bdf01060a09b0517"
+ },
+ "https://aijobriskmap.com/country/portugal/": {
+  "date": "2026-09-09",
+  "hash": "a0cfb87f93889ce305a5bd2d40bc0e1196f4dfdf"
+ },
+ "https://aijobriskmap.com/country/romania/": {
+  "date": "2026-09-09",
+  "hash": "134e77b2df607829f385b4297ba281a6fe135b1a"
+ },
+ "https://aijobriskmap.com/country/singapore/": {
+  "date": "2026-09-09",
+  "hash": "dfe3e42d09ecd02db12e972e99a97703e77e0a87"
+ },
+ "https://aijobriskmap.com/country/slovakia/": {
+  "date": "2026-09-09",
+  "hash": "bc6fceb7a657e1c4dafecf5058bfff9a5ba00212"
+ },
+ "https://aijobriskmap.com/country/slovenia/": {
+  "date": "2026-09-09",
+  "hash": "fd4d96241daac37708ee0443ea54b69843733f57"
+ },
+ "https://aijobriskmap.com/country/south-korea/": {
+  "date": "2026-09-09",
+  "hash": "8cd273995d4571be97a25f9ca10c28aa5d4572eb"
+ },
+ "https://aijobriskmap.com/country/spain/": {
+  "date": "2026-09-09",
+  "hash": "94bb42d5d75658a32ea48eec078420b2aa2a8e12"
+ },
+ "https://aijobriskmap.com/country/sweden/": {
+  "date": "2026-09-09",
+  "hash": "d2f35bff72bfe436a8429851cfcc3338d75cb389"
+ },
+ "https://aijobriskmap.com/country/switzerland/": {
+  "date": "2026-09-09",
+  "hash": "5f90bc175e00182fe3f4caabc352212b8171970d"
+ },
+ "https://aijobriskmap.com/country/thailand/": {
+  "date": "2026-09-09",
+  "hash": "9dbf2542e2cc3b477f30f40af7eb562ac2f33dd0"
+ },
+ "https://aijobriskmap.com/country/turkey/": {
+  "date": "2026-09-09",
+  "hash": "01529872b0560f9e3919f98c9b87e0dfecef9d43"
+ },
+ "https://aijobriskmap.com/country/united-kingdom/": {
+  "date": "2026-09-09",
+  "hash": "3701ac7f942e08b21daea5fb1ac47e17b53c36f8"
+ },
+ "https://aijobriskmap.com/country/united-states/": {
+  "date": "2026-09-09",
+  "hash": "59b0a8c2afaef263852527c0bf7a70822542ff64"
+ },
+ "https://aijobriskmap.com/country/vietnam/": {
+  "date": "2026-09-09",
+  "hash": "2fabe1b964fc6906de9bb415e94b68afe7fc9aab"
+ },
+ "https://aijobriskmap.com/embed/": {
+  "date": "2026-09-09",
+  "hash": "ce8e6070b00748732bcefad40ca5cbdfa3a2ee50"
+ },
+ "https://aijobriskmap.com/methodology.html": {
+  "date": "2026-09-09",
+  "hash": "52967a5363bd20d523cd72c7d6587c4ac187aa74"
+ },
+ "https://aijobriskmap.com/reports/": {
+  "date": "2026-09-09",
+  "hash": "6af44036edf80c88d1286cfc4e9a59a593b3714f"
+ },
+ "https://aijobriskmap.com/reports/argentina/": {
+  "date": "2026-09-09",
+  "hash": "f3aa3999fa9c27d8e23c6ccfb7271e1c5caaac77"
+ },
+ "https://aijobriskmap.com/reports/argentina/argentina-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "4a3c513707782b0c3e46fd0388e6aaa48dfb84e5"
+ },
+ "https://aijobriskmap.com/reports/australia/": {
+  "date": "2026-09-09",
+  "hash": "c6b7a6b3447b2ad6357665ffdfceead3574073f8"
+ },
+ "https://aijobriskmap.com/reports/australia/australia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "7a96f544090d16669d64532398b90a82d45a76c3"
+ },
+ "https://aijobriskmap.com/reports/austria/": {
+  "date": "2026-09-09",
+  "hash": "d21d995b8911e8bff9b4430a5f18a90fab0483b4"
+ },
+ "https://aijobriskmap.com/reports/austria/austria-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "16c78b4c541af0f1936ad6814b286b24354fbc37"
+ },
+ "https://aijobriskmap.com/reports/belgium/": {
+  "date": "2026-09-09",
+  "hash": "1964435ea40934ee23533a4e23f3da4bc67a7f20"
+ },
+ "https://aijobriskmap.com/reports/belgium/belgium-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "50568bafe54bd4f987c4fbe173809eb52b9337bf"
+ },
+ "https://aijobriskmap.com/reports/brazil/": {
+  "date": "2026-09-09",
+  "hash": "2344abb3cc3dbcc25ba9f9257692e22751a7f738"
+ },
+ "https://aijobriskmap.com/reports/brazil/brazil-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "70d6690b8b398324ee0ac6e2e3cda5bc95b55e15"
+ },
+ "https://aijobriskmap.com/reports/canada/": {
+  "date": "2026-09-09",
+  "hash": "12c4ac80f7fb80f2599a22811520ca164bc3a4af"
+ },
+ "https://aijobriskmap.com/reports/canada/canada-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "a09f10348e6173aa0e7b2b3d61c580e6392f116f"
+ },
+ "https://aijobriskmap.com/reports/chile/": {
+  "date": "2026-09-09",
+  "hash": "a4bb91ab3403b4cfbb4b57407dff4bbee65bf1d0"
+ },
+ "https://aijobriskmap.com/reports/chile/chile-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "da09b4a5ca5a12d61341ac1528451f5f3ee05b9a"
+ },
+ "https://aijobriskmap.com/reports/china/": {
+  "date": "2026-09-09",
+  "hash": "e45c536b9c20dcc062e531f405000759b71d9325"
+ },
+ "https://aijobriskmap.com/reports/china/china-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "033724cef8a94e6821f198e84a71e7f62a0daa85"
+ },
+ "https://aijobriskmap.com/reports/croatia/": {
+  "date": "2026-09-09",
+  "hash": "633fa590a39649095aea1dac95e987f51348483b"
+ },
+ "https://aijobriskmap.com/reports/croatia/croatia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "65af83aac8f9fc32be1806fe81f2a8335b2bc01d"
+ },
+ "https://aijobriskmap.com/reports/czechia/": {
+  "date": "2026-09-09",
+  "hash": "416721be89cbf3e5de9452a8671b1038a10feb81"
+ },
+ "https://aijobriskmap.com/reports/czechia/czechia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "8bfa552649b5584c31f89881cf17b214b98b37a4"
+ },
+ "https://aijobriskmap.com/reports/denmark/": {
+  "date": "2026-09-09",
+  "hash": "c44a41c796082c412b8f1604c84a68ceb7766614"
+ },
+ "https://aijobriskmap.com/reports/denmark/denmark-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "558f5ab01201885fad9f4807e075864857d94887"
+ },
+ "https://aijobriskmap.com/reports/estonia/": {
+  "date": "2026-09-09",
+  "hash": "9341aeec486cc283dbd6159d732ddd3452d9ab56"
+ },
+ "https://aijobriskmap.com/reports/estonia/estonia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "b8b03b042060d742c2dded81a3bc1a5550c15a59"
+ },
+ "https://aijobriskmap.com/reports/finland/": {
+  "date": "2026-09-09",
+  "hash": "6acbbe6c07c4a6a51588603a4ebfe528e7b8bec1"
+ },
+ "https://aijobriskmap.com/reports/finland/finland-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "b865b6c1f906cb485d941e63008e0c21f20d4d8b"
+ },
+ "https://aijobriskmap.com/reports/france/": {
+  "date": "2026-09-09",
+  "hash": "ec0730b6ffa2ad12590aafbc1641d61190cc4788"
+ },
+ "https://aijobriskmap.com/reports/france/france-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "dcd7bf3b86df825cb0667de24b9172e9ab0fb813"
+ },
+ "https://aijobriskmap.com/reports/germany/": {
+  "date": "2026-09-09",
+  "hash": "7ac6c6f21fcf9fd2edf213e5e6fef9d623eccf93"
+ },
+ "https://aijobriskmap.com/reports/germany/germany-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "88d66d16644fd17ffde3eaacfae88fc5aeb3174d"
+ },
+ "https://aijobriskmap.com/reports/greece/": {
+  "date": "2026-09-09",
+  "hash": "3479ad79c92e47c32a7261b7ba184b073938e519"
+ },
+ "https://aijobriskmap.com/reports/greece/greece-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "5b3b3ead6bf965a852b61339c0ce62f53ce3b6ed"
+ },
+ "https://aijobriskmap.com/reports/hungary/": {
+  "date": "2026-09-09",
+  "hash": "a8fa95f2aa77c8159aa78b7e7075dea404858341"
+ },
+ "https://aijobriskmap.com/reports/hungary/hungary-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "55daa9229c4e2724a400ce939852d2f5407251ca"
+ },
+ "https://aijobriskmap.com/reports/iceland/": {
+  "date": "2026-09-09",
+  "hash": "89c2b4f4c2a0fa8eb03701133d41b583fb7bbb70"
+ },
+ "https://aijobriskmap.com/reports/iceland/iceland-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "f06f66eb4a2b13319ca51bb6313cbaf309b8d93a"
+ },
+ "https://aijobriskmap.com/reports/india/": {
+  "date": "2026-09-09",
+  "hash": "8297e2bc850458b9829c6ad9ea7dcdf3018ee771"
+ },
+ "https://aijobriskmap.com/reports/india/india-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "be6447ec850081e6da4077d1a70edfa2d15c0c73"
+ },
+ "https://aijobriskmap.com/reports/indonesia/": {
+  "date": "2026-09-09",
+  "hash": "1d345bbeaab9a82f5abb61a10d1d2c13c15adb90"
+ },
+ "https://aijobriskmap.com/reports/indonesia/indonesia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "49fdab981bd7b80c1bf82349d6d58a1b60aa8d41"
+ },
+ "https://aijobriskmap.com/reports/ireland/": {
+  "date": "2026-09-09",
+  "hash": "c3e2a3a8e1222c99e670d08144e4716beec545ee"
+ },
+ "https://aijobriskmap.com/reports/ireland/ireland-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "d10208972ffc43f64cbf5b3094a19fed0428c827"
+ },
+ "https://aijobriskmap.com/reports/italy/": {
+  "date": "2026-09-09",
+  "hash": "f0773950a0e3a239f80a34f1457f1905b329a42b"
+ },
+ "https://aijobriskmap.com/reports/italy/italy-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "d32e21228450fab6c017d96e6e347424a41c232b"
+ },
+ "https://aijobriskmap.com/reports/japan/": {
+  "date": "2026-09-09",
+  "hash": "1c6aa20d718b3d47f02dc3934e3d730584f776bb"
+ },
+ "https://aijobriskmap.com/reports/japan/japan-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "71eb5fe6f4485900670e7ff6c3b0b42dcdcaf54a"
+ },
+ "https://aijobriskmap.com/reports/latvia/": {
+  "date": "2026-09-09",
+  "hash": "f6bbe26aa6465fc1638d610d01b69c160d4986e1"
+ },
+ "https://aijobriskmap.com/reports/latvia/latvia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "36192a96eedff027ca84e293e5d89829353fd896"
+ },
+ "https://aijobriskmap.com/reports/lithuania/": {
+  "date": "2026-09-09",
+  "hash": "f3bca100626a84afbcba153c41231d118dddb4e9"
+ },
+ "https://aijobriskmap.com/reports/lithuania/lithuania-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "303cb3877da4561fc7e1a76d7b56a803a97f0f38"
+ },
+ "https://aijobriskmap.com/reports/luxembourg/": {
+  "date": "2026-09-09",
+  "hash": "cac873f7adb3d2c77d3b04bec129abc99000612b"
+ },
+ "https://aijobriskmap.com/reports/luxembourg/luxembourg-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "38a62cecfbbc6c4b4c1b3cdf2695f4813046d081"
+ },
+ "https://aijobriskmap.com/reports/malaysia/": {
+  "date": "2026-09-09",
+  "hash": "a8cbf893f2ff436c602acee2d819b6bb90c88a51"
+ },
+ "https://aijobriskmap.com/reports/malaysia/malaysia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "55a3bf422578337a7c775a9f12fa0205d4cf3f04"
+ },
+ "https://aijobriskmap.com/reports/mexico/": {
+  "date": "2026-09-09",
+  "hash": "d642325f727e6c9fbad8dcdefadd3910b4cb6bff"
+ },
+ "https://aijobriskmap.com/reports/mexico/mexico-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "5ca467eacd6303459f3353831e08c94143688e28"
+ },
+ "https://aijobriskmap.com/reports/netherlands/": {
+  "date": "2026-09-09",
+  "hash": "eb63e5e0a683d0548fb5c776852427eed1307ff8"
+ },
+ "https://aijobriskmap.com/reports/netherlands/netherlands-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "0752ff91838c21144e8dc42444b401f49071876f"
+ },
+ "https://aijobriskmap.com/reports/new-zealand/": {
+  "date": "2026-09-09",
+  "hash": "4bd04d2763cad08c0ea779d03724156b7ed30469"
+ },
+ "https://aijobriskmap.com/reports/new-zealand/new-zealand-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "0fd3a48b6f1fa199dd5c417214b45788c0f219f2"
+ },
+ "https://aijobriskmap.com/reports/norway/": {
+  "date": "2026-09-09",
+  "hash": "70676a9054e4cd2a9eca7ffa9dd6b9d17f6a3de8"
+ },
+ "https://aijobriskmap.com/reports/norway/norway-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "cdd7996591882ccf27424022b31114d88f278c6b"
+ },
+ "https://aijobriskmap.com/reports/poland/": {
+  "date": "2026-09-09",
+  "hash": "8f907772f4ec7be81ba5720d55650615559031ea"
+ },
+ "https://aijobriskmap.com/reports/poland/poland-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "e0f3b9140237059868fd8ad4364739676841e110"
+ },
+ "https://aijobriskmap.com/reports/portugal/": {
+  "date": "2026-09-09",
+  "hash": "3033e062bbb8fc95079fa9a77798353e915e4712"
+ },
+ "https://aijobriskmap.com/reports/portugal/portugal-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "08114d2a315a812f3eedfe86d5e04f8049957b14"
+ },
+ "https://aijobriskmap.com/reports/romania/": {
+  "date": "2026-09-09",
+  "hash": "11678fc467515e64baa3c1d746161ee0a770363e"
+ },
+ "https://aijobriskmap.com/reports/romania/romania-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "d49ac1e6ad52964b4b41075d57dfce474dec0201"
+ },
+ "https://aijobriskmap.com/reports/singapore/": {
+  "date": "2026-09-09",
+  "hash": "3e18f5ab2d2b8bd7d0e9e50009e5550127c1f963"
+ },
+ "https://aijobriskmap.com/reports/singapore/singapore-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "7c4499dc4969d061fec43a0714315facdbb4a34f"
+ },
+ "https://aijobriskmap.com/reports/slovakia/": {
+  "date": "2026-09-09",
+  "hash": "662550fdb9e6efb5cece27e77a469a47fb40bc8c"
+ },
+ "https://aijobriskmap.com/reports/slovakia/slovakia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "bb82b2bfdcfe23b8edcb9aacc04b2018d6b1b125"
+ },
+ "https://aijobriskmap.com/reports/slovenia/": {
+  "date": "2026-09-09",
+  "hash": "e621b5fd589d6dfb1fc5ce0e053fcea0b78890b5"
+ },
+ "https://aijobriskmap.com/reports/slovenia/slovenia-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "c8c0f8e11cd1e44d930195be7a596f32f1e0e170"
+ },
+ "https://aijobriskmap.com/reports/south-korea/": {
+  "date": "2026-09-09",
+  "hash": "af29457044e8969243370335441441971e6f4ca3"
+ },
+ "https://aijobriskmap.com/reports/south-korea/south-korea-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "050765f4a095c0b694d8b583e213a611a0d2bfa1"
+ },
+ "https://aijobriskmap.com/reports/spain/": {
+  "date": "2026-09-09",
+  "hash": "1c434fa02ff9284158010a4c393b5d54d0499f6e"
+ },
+ "https://aijobriskmap.com/reports/spain/spain-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "f8be1408acbb3d7c7bf82097027a19140f4282c6"
+ },
+ "https://aijobriskmap.com/reports/sweden/": {
+  "date": "2026-09-09",
+  "hash": "6d17da4a51974ce7a8a6aae752a88bf25dc778fb"
+ },
+ "https://aijobriskmap.com/reports/sweden/sweden-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "5ed425273c269b0b190111605f98aa3c19169655"
+ },
+ "https://aijobriskmap.com/reports/switzerland/": {
+  "date": "2026-09-09",
+  "hash": "d6eb87f215c76beff2b7f01f09f401d545097aa4"
+ },
+ "https://aijobriskmap.com/reports/switzerland/switzerland-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "05b91d74d0f1cde0e46517bb8c19c7c50c2e70a9"
+ },
+ "https://aijobriskmap.com/reports/thailand/": {
+  "date": "2026-09-09",
+  "hash": "285f6a4405192251462165d7a830f43e192bddd5"
+ },
+ "https://aijobriskmap.com/reports/thailand/thailand-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "5d0fd2061076c417abaabf1cb1c85e2202814de2"
+ },
+ "https://aijobriskmap.com/reports/turkey/": {
+  "date": "2026-09-09",
+  "hash": "f4deadd8fac497a19d22563971a3639b6137d32a"
+ },
+ "https://aijobriskmap.com/reports/turkey/turkey-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "4083c560a825b0b47a20a955b74698be3bdd3393"
+ },
+ "https://aijobriskmap.com/reports/united-kingdom/": {
+  "date": "2026-09-09",
+  "hash": "d8c55297d1e1e941d94deabf528b2816f0905e4e"
+ },
+ "https://aijobriskmap.com/reports/united-kingdom/united-kingdom-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "6dd95276b960ebb4beb0dc357b63a292c40a62df"
+ },
+ "https://aijobriskmap.com/reports/united-states/": {
+  "date": "2026-09-09",
+  "hash": "c93e8248ed56303ec4e006ea77b5e814712138c1"
+ },
+ "https://aijobriskmap.com/reports/united-states/united-states-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "ff8ca913980a8938fa8976492a087a7623c671ff"
+ },
+ "https://aijobriskmap.com/reports/vietnam/": {
+  "date": "2026-09-09",
+  "hash": "523789200d6f1d046b4bfcd69a692f68f87aee45"
+ },
+ "https://aijobriskmap.com/reports/vietnam/vietnam-ai-job-risk-2026.pdf": {
+  "date": "2026-09-09",
+  "hash": "ab8bc2f04c302441971e7b4a59a5ed61d4f0ec0d"
+ }
+}

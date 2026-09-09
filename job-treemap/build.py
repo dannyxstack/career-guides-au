@@ -8,10 +8,12 @@ every country. Emits, under job-treemap/dist/:
 
 Run:  E:\\run\\Python3.13\\python.exe job-treemap/build.py
 """
+import hashlib
 import html
 import json
 import math
 import os
+import re
 import sys
 from datetime import datetime
 
@@ -1507,7 +1509,7 @@ def build_footer():
 <a href="/">Home</a>
 <a href="/reports/">Country reports (PDF)</a>
 <a href="/ai-job-loss-2030.html">AI job loss by 2030</a>
-<a href="/embed">Download &amp; embed</a>
+<a href="/embed/">Download &amp; embed</a>
 <a href="/methodology.html">Methodology</a>
 <a href="/about.html">About</a>
 <a href="/dataset.csv" download>Dataset (CSV)</a>
@@ -1559,7 +1561,7 @@ how many people it employs, so you can see at a glance where generative AI is mo
 <ul>
 <li><strong>Workers &amp; students</strong> weighing where to invest their skills.</li>
 <li><strong>Journalists &amp; researchers</strong> who need a comparable, source-backed exposure number
-(see the <a href="/embed">embed &amp; press kit</a>).</li>
+(see the <a href="/embed/">embed &amp; press kit</a>).</li>
 <li><strong>Policymakers &amp; educators</strong> looking at exposure across whole industries and countries.</li>
 </ul>
 
@@ -1579,7 +1581,7 @@ aijobriskmap.com.</p>
 <ul>
 <li><a href="/methodology.html">Methodology &amp; data sources</a></li>
 <li><a href="/dataset.csv" download>Download the full dataset (CSV)</a></li>
-<li><a href="/embed">Embed the map / press kit</a></li>
+<li><a href="/embed/">Embed the map / press kit</a></li>
 </ul>
 </div>
 {build_footer()}
@@ -1769,7 +1771,10 @@ document.getElementById("leadForm").addEventListener("submit", e => {{
 </script>
 {build_footer()}
 </body></html>"""
-    return doc_head(title, desc, "/embed") + body
+    # canonical must be the URL the server actually serves: /embed 301s to /embed/,
+    # and a canonical that points at a redirect makes Google take an extra hop to
+    # work out the canonical version.
+    return doc_head(title, desc, "/embed/") + body
 
 
 def build_reports_hub(present, stats_by_cc):
@@ -1852,7 +1857,7 @@ move, <strong>HR and workforce planners</strong> sizing the exposure of a headco
 <p class="muted" style="color:var(--fg2);font-size:13px">{n_pdf} of {NC} PDFs are live; the rest link
 to their report page. Prefer the raw numbers? Take the
 <a href="/dataset.csv" download>full dataset (CSV)</a> or
-<a href="/embed">embed the interactive map</a>.</p>
+<a href="/embed/">embed the interactive map</a>.</p>
 
 <h2>Licence &amp; citation</h2>
 <p>Reports, maps and data are licensed <strong>CC&nbsp;BY&nbsp;4.0</strong> &mdash; reuse them freely,
@@ -1897,16 +1902,86 @@ Our figure is deliberately a scenario range anchored to that body of work.</em><
 """
 
 
+# Every page carries two strings that change on every single build regardless of
+# content: the cache-busting `ver` stamp inside __CONFIG__, and the human "Last
+# updated" line. Hashing the raw file would therefore mark all ~145 URLs as
+# modified on every build, which is exactly the lie we are trying to stop
+# telling. Strip them (plus any ISO date, which covers the reports' published /
+# datePublished / dateModified stamps) before hashing.
+_VOLATILE = [
+    re.compile(r'"ver":\s*"\d{6,}"'),
+    re.compile(r"Last updated \d{1,2} \w+ \d{4}"),
+    re.compile(r"\d{4}-\d{2}-\d{2}"),
+]
+
+LASTMOD_DB = os.path.join(HERE, ".sitemap-lastmod.json")
+
+
+def _content_hash(path):
+    """Hash of a built file with the per-build stamps removed, or None if it is
+    not on disk yet (report landings/PDFs are produced later in the pipeline)."""
+    if not os.path.isfile(path):
+        return None
+    try:
+        text = open(path, encoding="utf-8").read()
+    except UnicodeDecodeError:                    # binary (shouldn't happen: PDFs map to their HTML)
+        return hashlib.sha1(open(path, "rb").read()).hexdigest()
+    for pat in _VOLATILE:
+        text = pat.sub("", text)
+    return hashlib.sha1(text.encode("utf-8")).hexdigest()
+
+
 def build_sitemap(present):
+    """Sitemap with honest per-URL <lastmod>.
+
+    lastmod used to be the build date for every URL, so any rebuild announced
+    that all ~145 pages had changed. Repeated often enough, that teaches Google
+    to ignore the signal entirely. Each URL is now mapped to the file that
+    produces it; the date only moves when that file's content hash moves, and
+    otherwise carries over from .sitemap-lastmod.json (kept in the source tree,
+    not in dist/, so a clean rebuild doesn't reset every date to today).
+
+    A PDF is hashed via its source report.html: the PDF bytes embed a creation
+    timestamp and would always look modified.
+    """
     # /embed/{slug} pages are intentionally omitted (noindex iframe targets).
-    date = datetime.now().strftime("%Y-%m-%d")
-    urls = ([f"{DOMAIN}/", f"{DOMAIN}/about.html", f"{DOMAIN}/methodology.html",
-             f"{DOMAIN}/ai-job-loss-2030.html", f"{DOMAIN}/embed",
-             f"{DOMAIN}/reports/"]
-            + [country_url(cc) for cc in present]
-            + [f"{DOMAIN}/reports/{SLUG[cc]}/" for cc in present]
-            + [f"{DOMAIN}/reports/{SLUG[cc]}/{SLUG[cc]}-ai-job-risk-{YEAR}.pdf" for cc in present])
-    items = "".join(f"<url><loc>{u}</loc><lastmod>{date}</lastmod></url>" for u in urls)
+    d = lambda *p: os.path.join(DIST, *p)                                    # noqa: E731
+    pairs = [(f"{DOMAIN}/", d("index.html")),
+             (f"{DOMAIN}/about.html", d("about.html")),
+             (f"{DOMAIN}/methodology.html", d("methodology.html")),
+             (f"{DOMAIN}/ai-job-loss-2030.html", d("ai-job-loss-2030.html")),
+             (f"{DOMAIN}/embed/", d("embed", "index.html")),
+             (f"{DOMAIN}/reports/", d("reports", "index.html"))]
+    pairs += [(country_url(cc), d("country", SLUG[cc], "index.html")) for cc in present]
+    pairs += [(f"{DOMAIN}/reports/{SLUG[cc]}/", d("reports", SLUG[cc], "index.html"))
+              for cc in present]
+    pairs += [(f"{DOMAIN}/reports/{SLUG[cc]}/{SLUG[cc]}-ai-job-risk-{YEAR}.pdf",
+               d("reports", SLUG[cc], "report.html")) for cc in present]
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    try:
+        db = json.load(open(LASTMOD_DB, encoding="utf-8"))
+    except Exception:
+        db = {}
+
+    items, changed = "", 0
+    for url, path in pairs:
+        h = _content_hash(path)
+        prev = db.get(url) or {}
+        if h is None:
+            # Not built yet this run — keep whatever we knew, else fall back to today.
+            date = prev.get("date", today)
+        elif prev.get("hash") == h:
+            date = prev.get("date", today)
+        else:
+            date, changed = today, changed + 1
+            db[url] = {"hash": h, "date": today}
+        items += f"<url><loc>{url}</loc><lastmod>{date}</lastmod></url>"
+
+    with open(LASTMOD_DB, "w", encoding="utf-8") as f:
+        json.dump(db, f, indent=1, sort_keys=True)
+    print(f"  sitemap: {changed} of {len(pairs)} URLs changed since the last build")
+
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
             f"{items}</urlset>\n")
