@@ -54,6 +54,16 @@ async function main() {
   }, { timeout: 8000 }).catch(() => {});
   await page.waitForTimeout(600);
 
+  // 分享卡只有 1200x630，而首页 hero 现在带受众标签、H1 从句、正文段和两个 CTA，
+  // 直接截会把气泡图整个挤出画框——分享出去只剩一屏文字，看不到这个站的核心视觉。
+  // 这里只为截图隐藏解释性文字与视图切换控件（不影响真实页面），保留
+  // 品牌 / 受众标签 / H1 / 主 CTA，把气泡群拉进下半幅。
+  await page.addStyleTag({ content: `
+    .lead, .cta-note, .explore-h, .tabs, .bubble-legend { display: none !important; }
+    .hero-cta { margin-bottom: 26px !important; }
+  ` });
+  await page.waitForTimeout(300);
+
   const out = path.join(DIST, "og-home.png");
   await page.screenshot({ path: out, clip: { x: 0, y: 0, width: W, height: H } });
   console.log(`  home OG -> ${path.relative(process.cwd(), out)} (${W}x${H} @2x)`);
