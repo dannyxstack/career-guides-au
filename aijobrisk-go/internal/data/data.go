@@ -7,6 +7,7 @@ import (
 	"path/filepath"
 	"sort"
 	"strings"
+	"time"
 
 	"aijobrisk/internal/model"
 )
@@ -30,14 +31,14 @@ var CURRENCY = map[string]string{
 }
 
 var (
-	dataDir     string
-	Occupations []*model.Occ                 // 去重后（slug|country 唯一）
-	jobGroups   map[string][]*model.Occ      // slug -> 各国
-	JobSlugs    []string                     // jobGroups 键（保序）
-	bySlugCC    map[string]*model.Occ        // "slug|cc" -> occ
-	Categories  []string                     // 职业族
-	CategorySlug map[string]string           // 类名 -> slug
-	slugRedirects map[string]string          // 去重旧 slug -> canonical（应用层 301，nginx 解耦）
+	dataDir       string
+	Occupations   []*model.Occ            // 去重后（slug|country 唯一）
+	jobGroups     map[string][]*model.Occ // slug -> 各国
+	JobSlugs      []string                // jobGroups 键（保序）
+	bySlugCC      map[string]*model.Occ   // "slug|cc" -> occ
+	Categories    []string                // 职业族
+	CategorySlug  map[string]string       // 类名 -> slug
+	slugRedirects map[string]string       // 去重旧 slug -> canonical（应用层 301，nginx 解耦）
 )
 
 // DataDir 返回数据根目录。
@@ -52,7 +53,30 @@ func readJSON(name string, v any) error {
 }
 
 // Load 从 dir 载入全部数据；应在服务启动时调用一次。
+// Updated 数据最后更新日（YYYY-MM-DD），取 data/ 下关键数据源的最新 mtime。
+// 供 sitemap lastmod 与页面「最后更新」展示用。rsync -a 会保留 mtime，
+// 所以线上拿到的就是导出当天的日期，不必再手工维护常量（历史上它陈旧了 8 周）。
+var Updated string
+
+// computeUpdated 扫描关键数据源取最新 mtime；失败则留空，由调用方回退。
+func computeUpdated(dir string) {
+	var newest time.Time
+	for _, name := range []string{"occupations_v2.json", "occ-detail-v2", "translations-v2", "industries_v2.json"} {
+		fi, err := os.Stat(filepath.Join(dir, name))
+		if err != nil {
+			continue
+		}
+		if fi.ModTime().After(newest) {
+			newest = fi.ModTime()
+		}
+	}
+	if !newest.IsZero() {
+		Updated = newest.UTC().Format("2006-01-02")
+	}
+}
+
 func Load(dir string) error {
+	computeUpdated(dir)
 	dataDir = dir
 
 	var occDoc struct {

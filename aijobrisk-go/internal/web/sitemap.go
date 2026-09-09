@@ -8,15 +8,21 @@ import (
 	"aijobrisk/internal/i18n"
 )
 
-// DataUpdated sitemap lastmod（对齐 site-config DATA_UPDATED）。
-const DataUpdated = "2026-07-16"
+// DataUpdated sitemap lastmod 与页面「最后更新」展示用。
+// 启动时由 main 从 data.Updated（data/ 关键数据源的最新 mtime）覆盖；
+// 这里的字面量只是取不到 mtime 时的兜底，不要再手工维护它。
+var DataUpdated = "2026-07-16"
 
 var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "largest-workforce", "strongest-demand", "deepest-moat", "ai-proof-high-paying"}
 
 func pagePaths() []string {
 	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook", "/data"}
 	for _, cc := range data.COUNTRIES {
-		p = append(p, "/industries/"+cc, "/rankings/"+cc, "/job-risk-map/"+cc, "/ai-job-loss-2030/"+cc)
+		p = append(p, "/rankings/"+cc, "/job-risk-map/"+cc, "/ai-job-loss-2030/"+cc)
+		// 无行业映射的国家渲染出来是空页，不进 sitemap（见 data.HasIndustryData）。
+		if data.HasIndustryData(cc) {
+			p = append(p, "/industries/"+cc)
+		}
 		if data.HasOutlook(cc) {
 			p = append(p, "/career-outlook/"+cc)
 		}
@@ -24,6 +30,9 @@ func pagePaths() []string {
 	for _, s := range data.Sectors {
 		p = append(p, "/industry/"+s.ID)
 		for _, cc := range data.COUNTRIES {
+			if !data.HasSectorData(cc, s.ID) {
+				continue
+			}
 			p = append(p, "/industry/"+s.ID+"/"+cc)
 		}
 	}

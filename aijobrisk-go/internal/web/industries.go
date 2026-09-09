@@ -141,6 +141,10 @@ func Industries(w http.ResponseWriter, ctx *Ctx, country string) {
 		})
 	}
 
+	// 无行业映射的国家（46 国里 33 国）渲染出来只有壳，noindex；补数据后自动恢复。
+	if !data.HasIndustryData(cc) {
+		ctx.Noindex = true
+	}
 	vm := &IndustriesVM{Ctx: ctx, CC: cc, CountryName: data.CountryName(cc, CL), Cards: cards}
 	if data.AdoptionHas() {
 		vm.Adoption = buildAdoptionChart(ctx, data.AdoptionAll(cc),

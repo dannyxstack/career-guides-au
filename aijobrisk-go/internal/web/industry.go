@@ -10,17 +10,17 @@ import (
 )
 
 type indRow struct {
-	Name, Slug, Href     string
-	Aioe                 string
-	AioeVal              float64
-	HasAioe              bool
-	BandCls, BandLabel   string
-	Share                string
-	ShareVal             float64
-	Salary               string
-	SalaryVal            float64
-	Workforce            string
-	WorkforceVal         float64
+	Name, Slug, Href   string
+	Aioe               string
+	AioeVal            float64
+	HasAioe            bool
+	BandCls, BandLabel string
+	Share              string
+	ShareVal           float64
+	Salary             string
+	SalaryVal          float64
+	Workforce          string
+	WorkforceVal       float64
 }
 
 // IndustryVM 行业详情。
@@ -49,6 +49,10 @@ func Industry(w http.ResponseWriter, ctx *Ctx, sector, country string) {
 	}
 	cc := resolveCC(country)
 	occs := data.OccupationsInSector(cc, sec.ID, CL)
+	// 该国无此行业数据 -> 空页，noindex（不浪费抓取预算；补数据后自动恢复）。
+	if !data.HasSectorData(cc, sec.ID) {
+		ctx.Noindex = true
+	}
 	secName := data.Tr(sec.Name, CL)
 
 	vm := &IndustryVM{

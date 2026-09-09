@@ -43,7 +43,11 @@ func main() {
 	// 投票 API 与主站同端口同源（DB 懒连接：MySQL 挂了只影响投票，页面照常）。
 	pollsapi.LoadDotEnv()
 	pollsapi.ConfigureFromEnv()
-	log.Printf("[boot] loaded %d occupations, %d job slugs in %s", len(data.Occupations), len(data.JobSlugs), time.Since(t0).Round(time.Millisecond))
+	if data.Updated != "" {
+		web.DataUpdated = data.Updated
+	}
+	log.Printf("[boot] loaded %d occupations, %d job slugs in %s (data updated %s)",
+		len(data.Occupations), len(data.JobSlugs), time.Since(t0).Round(time.Millisecond), web.DataUpdated)
 
 	mux := http.NewServeMux()
 

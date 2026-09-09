@@ -5,8 +5,8 @@ import "sort"
 // —— 行业轴（occupation↔industry 多对多，读 occ_industries_v2 + industries_v2）——
 
 type occIndEntry struct {
-	S string `json:"s"`
-	N string `json:"n"`
+	S string  `json:"s"`
+	N string  `json:"n"`
 	P float64 `json:"p"`
 }
 
@@ -14,9 +14,9 @@ var occInd map[string][]occIndEntry
 
 // Sector 行业。
 type Sector struct {
-	ID       string         `json:"id"`
-	Name     string         `json:"name"`
-	OccTotal int            `json:"occ_total"`
+	ID        string         `json:"id"`
+	Name      string         `json:"name"`
+	OccTotal  int            `json:"occ_total"`
 	ByCountry map[string]int `json:"by_country"`
 }
 
@@ -37,6 +37,7 @@ func loadIndustries() error {
 		return err
 	}
 	Sectors = ind.Sectors
+	buildIndustryCoverage()
 	return nil
 }
 
@@ -102,6 +103,34 @@ type SectorOcc struct {
 }
 
 // OccupationsInSector 某国某行业下职业（按人数降序）。
+// 行业映射（occ_industries_v2）只覆盖一部分国家：实测 46 国里仅 13 国有关联，
+// 其余 33 国的 /industries/{CC} 与 /industry/{sector}/{CC} 渲染出来是空页。
+// 这类页面不进 sitemap 且整页 noindex——2.5 万 URL 的抓取预算不该喂给空壳，
+// 否则 Google 抽样后会连带放弃同模式的其余页面（GSC「Discovered - currently
+// not indexed」）。补上该国数据后自动恢复，无需改代码。
+var (
+	industryCC map[string]bool // 国家 -> 有任意行业关联
+	sectorCC   map[string]bool // "CC|sectorID" -> 该组合有职业
+)
+
+func buildIndustryCoverage() {
+	industryCC = map[string]bool{}
+	sectorCC = map[string]bool{}
+	for _, o := range Occupations {
+		for _, r := range occInd[itoa(o.ID)] {
+			industryCC[o.Country] = true
+			sectorCC[o.Country+"|"+r.S] = true
+		}
+	}
+}
+
+// HasIndustryData 该国是否有任意行业映射数据（决定 /industries/{CC} 是否空页）。
+func HasIndustryData(cc string) bool { return industryCC[cc] }
+
+// HasSectorData 该国×行业组合是否有职业（决定 /industry/{sector}/{CC} 是否空页）。
+// 实测分布是双峰的：有数据的组合最少也有 42 个职业，没有的就是 0，无中间地带。
+func HasSectorData(cc, sectorID string) bool { return sectorCC[cc+"|"+sectorID] }
+
 func OccupationsInSector(country, sectorID, loc string) []SectorOcc {
 	var out []SectorOcc
 	for _, o := range OccByCountry(country) {
