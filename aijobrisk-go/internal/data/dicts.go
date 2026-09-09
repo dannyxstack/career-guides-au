@@ -98,6 +98,13 @@ func loadDicts() error {
 	if err := readJSON("ui_i18n.json", &uiI18n); err != nil {
 		return err
 	}
+	// 同 loadTranslations：只留显示语言，其余（de/pt/id/ms/th/vi/zh-Hant/it/nl…）
+	// 经 Strings()/DimLabel() 永远查不到，删掉免得白占内存。
+	for loc := range uiI18n {
+		if !servedLocales()[loc] {
+			delete(uiI18n, loc)
+		}
+	}
 	return nil
 }
 
