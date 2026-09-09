@@ -29,23 +29,29 @@ type jlOccRow struct {
 }
 
 // JobLossHubVM /ai-job-loss-2030。
+// 各国明细内嵌为 JSON、客户端切换（#CC 深链），不再拆成 46 个 URL——
+// 那些页面每国仅约 250 词且跨国结构逐字相同，Google 判为薄内容拒绝索引。
 type JobLossHubVM struct {
 	*Ctx
-	Agg          data.LossAgg
-	MidTargetPct int
-	NCountries   int
-	Countries    []jlCountryRow
-	TopOccs      []jlOccRow
+	Agg           data.LossAgg
+	MidTargetPct  int
+	NCountries    int
+	Countries     []jlCountryRow
+	TopOccs       []jlOccRow
+	DetailJSON    template.JS
+	DefaultCC     string
+	DefaultCCName string
 }
 
-// JobLossCountryVM /ai-job-loss-2030/{cc}。
-type JobLossCountryVM struct {
-	*Ctx
-	CC      string
-	Name    string
-	Agg     data.LossAgg
-	TopOccs []jlOccRow
-	HubHref string
+// jlDetail 单国明细，供客户端切换渲染。字段名压到 1-2 字符控制内嵌体积。
+type jlDetail struct {
+	N string   `json:"n"` // 国家名
+	J int      `json:"j"` // workforce
+	L int      `json:"l"` // 低
+	M int      `json:"m"` // 中
+	H int      `json:"h"` // 高
+	R float64  `json:"r"` // 中位损失率 %
+	O [][2]any `json:"o"` // [职业名, 中位损失数]
 }
 
 // jobLossOccVM 职业详情页内嵌的「到 2030 的 AI 岗位影响」小块。
@@ -66,7 +72,7 @@ func buildJobLossOcc(o *model.Occ, ctx *Ctx) *jobLossOccVM {
 		CountLow: l.CountLow, CountMid: l.CountMid, CountHigh: l.CountHigh,
 		RatePct: l.RateMid * 100, Jobs: l.Jobs,
 		HubHref:     ctx.WithL("/ai-job-loss-2030"),
-		CountryHref: ctx.WithL("/ai-job-loss-2030/" + o.Country),
+		CountryHref: ctx.WithL("/ai-job-loss-2030") + "#" + o.Country,
 		CountryName: data.CountryName(o.Country, ctx.CL),
 	}
 }
@@ -190,29 +196,38 @@ func JobLossHub(w http.ResponseWriter, ctx *Ctx) {
 		datasetLDObj(ctx.Site, ctx.CanonicalURL(), "AI job loss by 2030 by country", ctx.Description),
 		faqPageLD(hubFAQ),
 	)
+	// 各国明细内嵌：原 /ai-job-loss-2030/{cc} 的独有内容就是该国 top-20 职业表，
+	// 搬到这里由客户端按 #CC 切换，URL 面从 47 收敛到 1。
+	detail := map[string]jlDetail{}
+	for _, r := range rows {
+		occs := byCC[r.CC]
+		if len(occs) == 0 {
+			continue
+		}
+		d := jlDetail{N: r.Name, J: r.Jobs, L: r.CountLow, M: r.CountMid, H: r.CountHigh, R: r.RatePct}
+		for _, o := range topOccRows(occs, 20) {
+			d.O = append(d.O, [2]any{o.Title, o.CountMid})
+		}
+		detail[r.CC] = d
+	}
+	defCC := ""
+	if len(rows) > 0 {
+		defCC = rows[0].CC
+	}
 	renderPage(w, "job_loss_hub.html", &JobLossHubVM{
 		Ctx: ctx, Agg: g, MidTargetPct: int(midTarget + 0.5),
 		NCountries: len(rows), Countries: rows, TopOccs: top,
+		DetailJSON: jsonJS(detail), DefaultCC: defCC, DefaultCCName: data.CountryName(defCC, ctx.CL),
 	})
 }
 
-// JobLossCountry /ai-job-loss-2030/{cc}。
+// JobLossCountry 旧的 /ai-job-loss-2030/{cc}：内容已并入 hub，301 到锚点。
+// 保留 301 而非 404，是为了不丢已被抓取/外链的国家 URL 的权重。
 func JobLossCountry(w http.ResponseWriter, ctx *Ctx, cc string) {
-	occs := occsByCountry()[cc]
-	if len(occs) == 0 {
+	if len(occsByCountry()[cc]) == 0 {
 		notFound(w, ctx)
 		return
 	}
-	a := data.AggregateLoss(occs)
-	name := data.CountryName(cc, ctx.CL)
-	ctx.Active = "jobloss"
-	ctx.Title = "AI job loss in " + name + " by 2030 — scenario estimate | " + SiteName
-	ctx.Description = "How many jobs could AI cost " + name + " by 2030: low/mid/high estimates and the most exposed occupations, from ILO GenAI exposure research."
-	ctx.JSONLD = datasetLD(ctx.Site, ctx.CanonicalURL(),
-		"AI job loss in "+name+" by 2030", ctx.Description)
-	renderPage(w, "job_loss_country.html", &JobLossCountryVM{
-		Ctx: ctx, CC: cc, Name: name, Agg: a,
-		TopOccs: topOccRows(occs, 20),
-		HubHref: ctx.WithL("/ai-job-loss-2030"),
-	})
+	w.Header().Set("Location", ctx.WithL("/ai-job-loss-2030")+"#"+cc)
+	w.WriteHeader(http.StatusMovedPermanently)
 }

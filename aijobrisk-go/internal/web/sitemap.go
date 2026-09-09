@@ -17,14 +17,13 @@ var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "larg
 
 func pagePaths() []string {
 	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook", "/data"}
+	// /ai-job-loss-2030/{cc} 与 /career-outlook/{cc} 已并入各自 hub（客户端 #CC 切换），
+	// 旧 URL 301 到锚点，不再进 sitemap。
 	for _, cc := range data.COUNTRIES {
-		p = append(p, "/rankings/"+cc, "/job-risk-map/"+cc, "/ai-job-loss-2030/"+cc)
+		p = append(p, "/rankings/"+cc, "/job-risk-map/"+cc)
 		// 无行业映射的国家渲染出来是空页，不进 sitemap（见 data.HasIndustryData）。
 		if data.HasIndustryData(cc) {
 			p = append(p, "/industries/"+cc)
-		}
-		if data.HasOutlook(cc) {
-			p = append(p, "/career-outlook/"+cc)
 		}
 	}
 	for _, s := range data.Sectors {

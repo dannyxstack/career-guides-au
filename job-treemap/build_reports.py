@@ -122,6 +122,7 @@ def build_model(cc):
         vm = {
             "title": r["title"], "url": occ_url(r), "risk": r["aioe_pct"],
             "color": risk_color(r["aioe_pct"]), "workforce": fmt_wf(r.get("jobs")),
+            "jobs": r.get("jobs") or 0,          # raw count, for workforce-ordered views
             "pay": money(sal(r), symbol),
         }
         return vm
@@ -231,16 +232,14 @@ def build_model(cc):
         snap.append((f"Typical annual pay ({pay_measure})", money(med_pay, symbol)))
     snap.append(("Data year", DATA_CUTOFF))
 
-    src_full, classification, _tier, _pay = (B.SOURCE_META.get(cc)
-                                             if hasattr(B, "SOURCE_META") else (None, None, None, None)) or \
-        (B.COUNTRY_META[cc][0] + " official statistics", "ISCO-08", "", False)
-    # fall back to build.SOURCE_META shape if present
-    try:
-        sm = B.SOURCE_META[cc]
-        src_full, classification = sm[0], sm[1]
-    except Exception:
-        src_full = f"{name} official statistics office"
-        classification = "ANZSCO" if cc == "AU" else "ISCO-08"
+    # build.py's SOURCE_INFO is the single source of truth for who publishes a
+    # country's employment counts and which classification it uses. Its strings
+    # are pre-escaped for build.py's own HTML, so unescape them back to plain
+    # text here and let each renderer (Jinja2 for the PDF, html.escape for the
+    # landing) escape once.
+    auth, classification, _tier, _pay = B.SOURCE_INFO[cc]
+    src_full = html.unescape(auth)
+    classification = html.unescape(classification)
 
     salary_relation = ("Higher-paid, judgement-heavy roles cluster at lower risk, while many mid-pay "
                        "administrative roles carry the highest exposure." if has_pay else
@@ -255,7 +254,8 @@ def build_model(cc):
         "country_url": f"{B.DOMAIN}/country/{slug}/",
         "dataset_url": f"{B.DOMAIN}/dataset.csv",
         "map_data_uri": map_data_uri(cc),
-        "n_occ": len(rows), "workforce_h": fmt_wf(total_wf), "workforce_raw": total_wf,
+        "n_occ": len(rows), "n_high": len(high),
+        "workforce_h": fmt_wf(total_wf), "workforce_raw": total_wf,
         "risk_median": risk_median, "high_occ_pct": high_occ_pct, "high_wf_pct": high_wf_pct,
         "has_pay": has_pay,
         "hero_conclusion": (f"{high_wf_pct}% of {name}'s covered workforce is employed in occupations "
@@ -297,6 +297,17 @@ def build_model(cc):
 # The report landing is the destination of the site-wide "Download the full
 # report" CTA, so it wears the same dark chrome + footer as every other page
 # (it used to be a stray white/purple sheet with no nav back into the site).
+# The report landing is the destination of the site-wide "Download the full
+# report" CTA, so it wears the same dark chrome + footer as every other page.
+#
+# It also has to carry real, country-specific substance. The first version was
+# ~220 words of which 73% was boilerplate shared by all 46 landings, and Google
+# responded exactly as you would expect: one page crawled-not-indexed, the rest
+# discovered-not-indexed. build_model() already computes far more per-country
+# material than the page used, so the sections below surface the dimensions the
+# country page does NOT cover — the risk-band distribution, the quartiles, the
+# pay-vs-risk split, the automatable tasks and the transition paths — while the
+# depth (full rankings, group tables, scenarios, methodology) stays in the PDF.
 LANDING = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{country} AI Job Risk Report {year} — download PDF | {site}</title>
@@ -322,6 +333,26 @@ LANDING = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 .dl-row{{display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin:6px 0 4px}}
 .dl-row .btn{{margin-top:0}}
 .dl-note{{font-size:12.5px;color:#9a9aa6;margin:0 0 8px}}
+table{{width:100%;border-collapse:collapse;font-size:13.5px;margin:14px 0}}
+th,td{{text-align:left;padding:8px 10px;border-bottom:1px solid rgba(255,255,255,.08);vertical-align:top}}
+th{{color:#9a9aa6;font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em}}
+td.num,th.num{{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}}
+.tblwrap{{overflow-x:auto}}
+.pill{{display:inline-block;padding:2px 8px;border-radius:999px;font-weight:700;font-size:12px;color:#0a0a0f}}
+.bands{{display:flex;height:30px;border-radius:7px;overflow:hidden;margin:14px 0 8px;font-size:11.5px;font-weight:700;color:#0a0a0f}}
+.bands span{{display:flex;align-items:center;justify-content:center;min-width:0}}
+.bandkey{{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:12.5px;color:#9a9aa6;margin-bottom:6px}}
+.bandkey i{{display:inline-block;width:11px;height:11px;border-radius:3px;margin-right:6px;vertical-align:middle}}
+.mapfig{{margin:16px 0;border:1px solid rgba(255,255,255,.09);border-radius:11px;overflow:hidden;background:#000}}
+.mapfig img{{width:100%;height:auto;display:block}}
+.mapfig figcaption{{padding:9px 13px;font-size:12.5px;color:#9a9aa6}}
+.obs{{margin:10px 0 0;padding-left:20px}}
+.obs li{{margin:5px 0;color:#9a9aa6}}
+.trans{{list-style:none;padding:0;margin:12px 0}}
+.trans li{{padding:9px 0;border-bottom:1px solid rgba(255,255,255,.08);font-size:13.5px}}
+.trans .from{{font-weight:600}}
+.trans .to{{color:#9a9aa6}}
+.more{{font-size:13px;color:#9a9aa6;margin:10px 0 0}}
 </style>
 <script type="application/ld+json">{jsonld}</script></head><body><div class="wrap">
 <p class="crumb"><a href="/">AI Job Risk Map</a> &rsaquo; <a href="/reports/">Country reports</a> &rsaquo; {country}</p>
@@ -335,20 +366,151 @@ LANDING = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 <div class="dl-row"><a class="btn big" href="{pdf_href}" download>Download the full PDF report</a>
 <a href="{country_url}">or explore the interactive {country} map &rarr;</a></div>
 <p class="dl-note">Free PDF &middot; no sign-up &middot; CC&nbsp;BY&nbsp;4.0 &mdash; reuse it with a link back.</p>
-<h2>What&rsquo;s inside</h2>
+
+<h2>How AI exposure is distributed in {country}</h2>
+<p>{exec_lead}</p>
+{bands_html}
+<p>{quartile_line}</p>
+{snapshot_html}
+
+<h2>Where the risk concentrates</h2>
+<p>{snapshot_note}</p>
+<p>{salary_relation}</p>
+{quadrant_html}
+
+<h2>Where AI exposure hits the most {country} workers</h2>
+<p>The high-exposure occupations that employ the most people in {country}, with the tasks generative
+AI can already take on. {n_high} occupations in total fall in the high-exposure band; these {n_shown}
+are the ones with the largest workforces behind them.</p>
+{risk_table}
+
+{transitions_html}
+
+{map_html}
+
+<h2>What&rsquo;s inside the full report</h2>
 <ul><li>Executive summary &amp; how to read the scores</li><li>National AI job risk map</li>
-<li>Highest-risk and most-resilient occupations</li><li>Risk by occupational group</li>
+<li>Highest-risk and most-resilient occupations, ranked in full</li><li>Risk by occupational group</li>
 {pay_line}<li>Tasks AI automates &amp; the human moat</li><li>Career transition paths</li>
 <li>2030 adoption scenarios</li><li>Full methodology, sources &amp; citation</li></ul>
+
 <h2>Data &amp; method</h2>
-<p>AI exposure comes from ILO Working Paper 140 (calibrated with Eloundou et al.), mapped to {n}
-{country} occupations &mdash; see the <a href="/methodology.html">full methodology</a>. The complete
-occupation dataset is available as <a href="{dataset_url}">dataset.csv</a> (CC&nbsp;BY&nbsp;4.0).
-Updated {published}.</p>
+<p>{country} occupations are classified in <strong>{classification}</strong>, with employment counts
+from {source_short}. AI exposure comes from ILO Working Paper 140 (calibrated with Eloundou et al.)
+and is ranked on a single global percentile scale, so a score here means the same thing as the
+same score anywhere else on this site &mdash; see the <a href="/methodology.html">full methodology</a>.
+The complete occupation dataset is available as <a href="{dataset_url}">dataset.csv</a>
+(CC&nbsp;BY&nbsp;4.0). Data year {data_year}; page updated {published}.</p>
 <div class="quote">Suggested citation: {site} ({year}). <em>AI Job Risk Report: {country} {year}</em>. {report_url}</div>
-<p class="foot">Looking for another country? <a href="/reports/">Browse all country reports &rarr;</a></p>
+<p class="foot">Looking for another country? <a href="/reports/">Browse all {nc} country reports &rarr;</a></p>
 </div>
 {footer}</body></html>"""
+
+
+def _bands(m):
+    """Risk-band split (share of occupations vs share of workers). The country
+    page only shows a single weighted average, so this split is the landing's
+    own material rather than a second copy of it."""
+    d = m["dist"]
+    key = (f'<div class="bandkey">'
+           f'<span><i style="background:{RISK_HI}"></i>High exposure (&ge;{HIGH}/100)</span>'
+           f'<span><i style="background:{RISK_MID}"></i>Moderate ({MID}&ndash;{HIGH - 1})</span>'
+           f'<span><i style="background:{RISK_LO}"></i>Lower (&lt;{MID})</span></div>')
+
+    def bar(label, hi, mid, lo):
+        segs = "".join(
+            (f'<span style="background:{c};flex:{max(v, 0.01)}">{v}%</span>' if v >= 7
+             else f'<span style="background:{c};flex:{max(v, 0.01)}"></span>')
+            for c, v in ((RISK_HI, hi), (RISK_MID, mid), (RISK_LO, lo)))
+        return f'<p class="more"><strong>{label}</strong></p><div class="bands">{segs}</div>'
+
+    return (key
+            + bar("Share of occupations", d["occ_high"], d["occ_mid"], d["occ_low"])
+            + bar("Share of workers", d["wf_high"], d["wf_mid"], d["wf_low"]))
+
+
+def _snapshot(m):
+    rows = "".join(f"<tr><td>{html.escape(k)}</td><td class='num'>{html.escape(str(v))}</td></tr>"
+                   for k, v in m["snapshot_rows"])
+    return f'<div class="tblwrap"><table><tbody>{rows}</tbody></table></div>'
+
+
+def _risk_table(m, n):
+    """High-exposure occupations ordered by WORKERS AFFECTED, with the tasks AI
+    can already take on.
+
+    Two reasons not to order by score here. Editorially, "which exposed jobs
+    employ the most people" is the question a reader of a national report
+    actually has. Practically, the ~40 countries that share the 427-occupation
+    ISCO-08 set have an identical top-N-by-score, so a score-ordered table made
+    their landings near-duplicates of each other; employment structure differs
+    per country, so this ordering does not."""
+    rows = ""
+    for r in sorted(m["top_risk"], key=lambda x: -x["jobs"])[:n]:
+        rows += (f'<tr><td><a href="{r["url"]}">{html.escape(r["title"])}</a></td>'
+                 f'<td class="num"><span class="pill" style="background:{r["color"]};color:#fff">'
+                 f'{r["risk"]}</span></td>'
+                 f'<td class="num">{html.escape(r["workforce"])}</td>'
+                 f'<td>{r["tasks"]}</td></tr>')
+    return ('<div class="tblwrap"><table><thead><tr><th>Occupation</th>'
+            '<th class="num">Exposure</th><th class="num">Workers affected</th>'
+            '<th>Tasks AI can already do</th></tr></thead>'
+            f'<tbody>{rows}</tbody></table></div>')
+
+
+def _quadrant(m):
+    """High-exposure work split by pay. Not shown anywhere else on the site."""
+    q = m["quadrant"]
+    if not q["hi_hi"] and not q["lo_hi"]:
+        return ""
+    out = []
+    if q["hi_hi"]:
+        out.append('<li><span class="from">Higher-paid and highly exposed:</span> '
+                   f'<span class="to">{html.escape(", ".join(q["hi_hi"][:5]))}</span></li>')
+    if q["lo_hi"]:
+        out.append('<li><span class="from">Lower-paid and highly exposed:</span> '
+                   f'<span class="to">{html.escape(", ".join(q["lo_hi"][:5]))}</span></li>')
+    return ('<p class="more">Exposure does not track pay in one direction &mdash; the report plots '
+            'every occupation on a pay &times; risk quadrant:</p>'
+            f'<ul class="trans">{"".join(out)}</ul>')
+
+
+def _transitions(m, n):
+    """Adjacent, more-resilient roles per exposed occupation (from xrepo_ai).
+    Country pages carry none of this."""
+    if not m["transitions"]:
+        return ""
+    items = ""
+    for t in m["transitions"][:n]:
+        adj = ", ".join(f'<a href="{a["url"]}">{html.escape(a["name"] or "")}</a>'
+                        for a in t["adj"] if a.get("name"))
+        if not adj:
+            continue
+        items += (f'<li><span class="from"><a href="{t["url"]}">{html.escape(t["occ"])}</a></span> '
+                  f'<span class="to">&rarr; {adj}</span></li>')
+    if not items:
+        return ""
+    return (f'<h2>Where {html.escape(m["country"])}&rsquo;s exposed workers can move</h2>'
+            '<p>Every high-exposure occupation in the report is paired with adjacent roles that '
+            'share its skills but carry lower AI exposure. A few examples:</p>'
+            f'<ul class="trans">{items}</ul>'
+            f'<p class="more">The full report lists {len(m["transitions"])} such transition paths.</p>')
+
+
+def _map(m):
+    png = os.path.join(DIST, "static", "maps", B.map_filename(m["cc"]))
+    if not os.path.exists(png):
+        return ""
+    obs = "".join(f"<li>{html.escape(o)}</li>" for o in m["map_observations"])
+    alt = (f"AI job risk map {m['country']} {m['year']} - {m['n_occ']} occupations "
+           f"by AI exposure risk")
+    return (f'<h2>The {html.escape(m["country"])} risk map</h2>'
+            '<figure class="mapfig">'
+            f'<img src="/static/maps/{B.map_filename(m["cc"])}" alt="{html.escape(alt)}" '
+            'width="800" height="600" loading="lazy">'
+            '<figcaption>Tile area = employment, colour = AI exposure. Full-resolution version '
+            'inside the report; free to reuse with attribution.</figcaption>'
+            f'</figure><ul class="obs">{obs}</ul>')
 
 
 def build_landing(m):
@@ -370,13 +532,31 @@ def build_landing(m):
     png = os.path.join(DIST, "static", "maps", B.map_filename(m["cc"]))
     og_image = (f"{B.DOMAIN}/static/maps/{B.map_filename(m['cc'])}" if os.path.exists(png)
                 else f"{B.DOMAIN}/og-image.png")
+    d = m["dist"]
+    n_shown = min(6, len(m["top_risk"]))
+    quartile_line = (
+        f"Half of {html.escape(m['country'])}&rsquo;s occupations score between "
+        f"<strong>{d['q1']}</strong> and <strong>{d['q3']}</strong> out of 100, around a median of "
+        f"<strong>{m['risk_median']}</strong>. The wider that band, the more unevenly generative AI "
+        "lands across the national workforce.")
     return LANDING.format(
-        country=m["country"], year=m["year"], site=m["site_name"], hero=html.escape(m["hero_conclusion"]),
+        country=html.escape(m["country"]), year=m["year"], site=m["site_name"],
+        hero=html.escape(m["hero_conclusion"]),
         n=m["n_occ"], risk_median=m["risk_median"], high_occ_pct=m["high_occ_pct"],
         report_url=m["report_url"], country_url=m["country_url"], dataset_url=m["dataset_url"],
         published=m["published"], jsonld=jsonld, pay_line=pay_line,
         pdf_href=f"{m['slug']}-ai-job-risk-{m['year']}.pdf",
         doc_css=B.DOC_CSS, footer=B.build_footer(), og_image=og_image,
+        exec_lead=html.escape(m["exec_lead"]),
+        bands_html=_bands(m), quartile_line=quartile_line, snapshot_html=_snapshot(m),
+        snapshot_note=html.escape(m["snapshot_note"]),
+        salary_relation=html.escape(m["salary_relation"]),
+        quadrant_html=_quadrant(m), risk_table=_risk_table(m, n_shown),
+        n_high=m["n_high"], n_shown=n_shown,
+        transitions_html=_transitions(m, 4), map_html=_map(m),
+        classification=html.escape(m["classification"]),
+        source_short=html.escape(m["source_short"]),
+        data_year=m["data_cutoff"], nc=len(B.SLUG),
     )
 
 

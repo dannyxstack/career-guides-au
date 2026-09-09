@@ -2,8 +2,10 @@ package web
 
 import (
 	"fmt"
+	"html/template"
 	"net/http"
 	"sort"
+	"strings"
 
 	"aijobrisk/internal/data"
 	"aijobrisk/internal/i18n"
@@ -37,6 +39,8 @@ type olCountryLink struct {
 }
 
 // OutlookHubVM /career-outlook。
+// 各国明细内嵌为 JSON、客户端切换（#CC 深链），不再拆成 34 个 URL——
+// 那些页面每国仅约 270 词且跨国结构逐字相同，Google 判为薄内容拒绝索引。
 type OutlookHubVM struct {
 	*Ctx
 	NCountries    int
@@ -46,16 +50,17 @@ type OutlookHubVM struct {
 	HighExpGrow   []olAggRow
 	LowExpDecline []olAggRow
 	Countries     []olCountryLink
+	DetailJSON    template.JS
+	DefaultCC     string
 }
 
-// OutlookCountryVM /career-outlook/{cc}。
-type OutlookCountryVM struct {
-	*Ctx
-	CC, Name, Source string
-	GroupNote        bool // 该国存在群组级预测 → 提示
-	TopGrow          []olOccRow
-	TopDecline       []olOccRow
-	HubHref          string
+// olDetail 单国明细，供客户端切换渲染。字段名压到 1-2 字符控制内嵌体积。
+type olDetail struct {
+	N string   `json:"n"` // 国家名
+	S string   `json:"s"` // 数据来源
+	G bool     `json:"g"` // 是否含群组级预测
+	U [][3]any `json:"u"` // 增长 [职业名, 增幅字符串, 链接]
+	D [][3]any `json:"d"` // 下滑
 }
 
 func aggRow(ctx *Ctx, a data.OutlookAgg) olAggRow {
@@ -125,23 +130,28 @@ func OutlookHub(w http.ResponseWriter, ctx *Ctx) {
 	ctx.JSONLD = datasetLD(ctx.Site, ctx.CanonicalURL(),
 		"Career outlook — official employment projections", ctx.Description)
 
+	// 各国明细内嵌，客户端按 #CC 切换；URL 面从 35 收敛到 1。
+	detail := map[string]olDetail{}
+	for _, l := range links {
+		detail[l.CC] = buildOutlookDetail(ctx, l.CC)
+	}
+	defCC := ""
+	if len(links) > 0 {
+		defCC = links[0].CC
+	}
 	renderPage(w, "outlook_hub.html", &OutlookHubVM{
 		Ctx: ctx, NCountries: len(ccs), Sources: sources, Countries: links,
 		TopGrow: toRows(grow, 15), TopDecline: toRows(decline, 15),
 		HighExpGrow: toRows(highGrow, 12), LowExpDecline: toRows(lowDecline, 12),
+		DetailJSON: jsonJS(detail), DefaultCC: defCC,
 	})
 }
 
-// OutlookCountry /career-outlook/{cc}。
-func OutlookCountry(w http.ResponseWriter, ctx *Ctx, cc string) {
-	if !inCountries(cc) || !data.HasOutlook(cc) {
-		notFound(w, ctx)
-		return
-	}
+// buildOutlookDetail 单国明细（原 /career-outlook/{cc} 的独有内容），供 hub 内嵌。
+func buildOutlookDetail(ctx *Ctx, cc string) olDetail {
 	rows := data.OutlookByCountry(cc)
-	name := data.CountryName(cc, ctx.CL)
+	d := olDetail{N: data.CountryName(cc, ctx.CL)}
 
-	src, group := "", false
 	seen := map[string]bool{}
 	var srcs []string
 	for _, r := range rows {
@@ -150,58 +160,44 @@ func OutlookCountry(w http.ResponseWriter, ctx *Ctx, cc string) {
 			srcs = append(srcs, r.Source)
 		}
 		if r.Granularity == "group" {
-			group = true
+			d.G = true
 		}
 	}
 	sort.Strings(srcs)
-	for i, s := range srcs {
-		if i > 0 {
-			src += " · "
-		}
-		src += s
-	}
+	d.S = strings.Join(srcs, " · ")
 
-	sorted := append([]data.OutlookRow{}, rows...)
 	// 榜单剔除离群值。
-	clean := sorted[:0]
-	for _, r := range sorted {
+	clean := make([]data.OutlookRow, 0, len(rows))
+	for _, r := range rows {
 		if r.Growth <= data.OutlookMax && r.Growth >= -data.OutlookMax {
 			clean = append(clean, r)
 		}
 	}
 	sort.SliceStable(clean, func(i, j int) bool { return clean[i].Growth > clean[j].Growth })
 
-	mk := func(r data.OutlookRow) olOccRow {
-		return olOccRow{Title: r.NameEn, Href: i18n.HrefJob(ctx.Loc, r.Slug, cc),
-			GrowthStr: growthStr(r.Growth), Growth: r.Growth, Granularity: r.Granularity}
+	mk := func(r data.OutlookRow) [3]any {
+		return [3]any{r.NameEn, growthStr(r.Growth), i18n.HrefJob(ctx.Loc, r.Slug, cc)}
 	}
-	top := func(asc bool, n int) []olOccRow {
-		var out []olOccRow
-		if asc {
-			for i := len(clean) - 1; i >= 0 && len(out) < n; i-- {
-				if clean[i].Growth < 0 {
-					out = append(out, mk(clean[i]))
-				}
-			}
-		} else {
-			for i := 0; i < len(clean) && len(out) < n; i++ {
-				if clean[i].Growth > 0 {
-					out = append(out, mk(clean[i]))
-				}
-			}
+	for i := 0; i < len(clean) && len(d.U) < 20; i++ {
+		if clean[i].Growth > 0 {
+			d.U = append(d.U, mk(clean[i]))
 		}
-		return out
 	}
+	for i := len(clean) - 1; i >= 0 && len(d.D) < 20; i-- {
+		if clean[i].Growth < 0 {
+			d.D = append(d.D, mk(clean[i]))
+		}
+	}
+	return d
+}
 
-	ctx.Active = "insights"
-	ctx.Title = data.Tr("Career outlook", ctx.CL) + " — " + name + " | " + SiteName
-	ctx.Description = data.Tr("Official employment projections for", ctx.CL) + " " + name + ": " +
-		data.Tr("the fastest-growing and fastest-declining occupations over the next decade.", ctx.CL)
-	ctx.JSONLD = datasetLD(ctx.Site, ctx.CanonicalURL(), "Career outlook — "+name, ctx.Description)
-
-	renderPage(w, "outlook_country.html", &OutlookCountryVM{
-		Ctx: ctx, CC: cc, Name: name, Source: src, GroupNote: group,
-		TopGrow: top(false, 20), TopDecline: top(true, 20),
-		HubHref: ctx.WithL("/career-outlook"),
-	})
+// OutlookCountry 旧的 /career-outlook/{cc}：内容已并入 hub，301 到锚点。
+// 保留 301 而非 404，是为了不丢已被抓取/外链的国家 URL 的权重。
+func OutlookCountry(w http.ResponseWriter, ctx *Ctx, cc string) {
+	if !inCountries(cc) || !data.HasOutlook(cc) {
+		notFound(w, ctx)
+		return
+	}
+	w.Header().Set("Location", ctx.WithL("/career-outlook")+"#"+cc)
+	w.WriteHeader(http.StatusMovedPermanently)
 }

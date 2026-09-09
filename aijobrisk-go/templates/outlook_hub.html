@@ -37,9 +37,28 @@
     </section>
   </div>
 
-  <h2 class="ol-section">{{ .Tr "Browse by country" }}</h2>
+  <h2 class="ol-section" id="country-detail">{{ .Tr "Browse by country" }}</h2>
   <div class="ol-chips">
-    {{ range .Countries }}<a class="ol-chip" href="{{ .Href }}">{{ .Name }}</a>{{ end }}
+    {{ range .Countries }}<a class="ol-chip ol-cc-link" href="#{{ .CC }}" data-cc="{{ .CC }}">{{ .Name }}</a>{{ end }}
+  </div>
+
+  <div class="ol-picker">
+    <label for="ol-cc">{{ .Tr "Country" }}</label>
+    <select id="ol-cc">
+      {{ range .Countries }}<option value="{{ .CC }}">{{ .Name }}</option>{{ end }}
+    </select>
+    <span class="muted" id="ol-d-src"></span>
+  </div>
+  <p class="muted note" id="ol-d-group" hidden>{{ .Tr "Some figures for this country are group-level (occupations in the same ISCO major group share a curve)." }}</p>
+  <div class="ol-cols">
+    <div>
+      <h3 class="ol-h grow">{{ .Tr "Fastest-growing occupations" }}</h3>
+      <ol class="ol-list" id="ol-d-up"></ol>
+    </div>
+    <div>
+      <h3 class="ol-h decl">{{ .Tr "Fastest-declining occupations" }}</h3>
+      <ol class="ol-list" id="ol-d-down"></ol>
+    </div>
   </div>
 
   <p class="muted ol-foot">{{ .Tr "Projections come from official sources with differing horizon years and methods; some are group-level (occupations in the same ISCO major group share a curve). Growth is the projected change in employment over each source's forecast window. Figures are indicative, not guarantees." }}</p>
@@ -71,5 +90,46 @@
   .ol-chip:hover { color: var(--brand); border-color: var(--brand); }
   .ol-foot { font-size: 12px; margin-top: 22px; }
   @media (max-width: 640px) { .ol-cols { grid-template-columns: 1fr; } }
+  .ol-picker { display:flex; align-items:center; gap:.5rem; margin:1rem 0 .5rem; flex-wrap:wrap; }
+  .ol-picker select { padding:.4rem .6rem; border:1px solid var(--border,#d1d5db); border-radius:6px;
+    background:var(--surface,#fff); color:inherit; font:inherit; }
+  .ol-list { margin:.5rem 0; padding-left:1.4rem; }
+  .ol-list li { margin:.2rem 0; }
+  .ol-list .g { font-variant-numeric:tabular-nums; margin-left:.4rem; }
 </style>
+<script type="application/json" id="ol-detail">{{ .DetailJSON }}</script>
+<script>
+(function(){
+ var D = {};
+ try { D = JSON.parse(document.getElementById('ol-detail').textContent || '{}'); } catch(e){}
+ var sel = document.getElementById('ol-cc');
+ function fill(el, rows){
+  el.innerHTML = '';
+  for (var i=0; i<rows.length; i++){
+   var li = document.createElement('li');
+   var a = document.createElement('a'); a.href = rows[i][2]; a.textContent = rows[i][0];
+   var g = document.createElement('span'); g.className = 'g muted'; g.textContent = rows[i][1];
+   li.appendChild(a); li.appendChild(g); el.appendChild(li);
+  }
+ }
+ function render(cc){
+  var d = D[cc]; if(!d) return;
+  document.getElementById('ol-d-src').textContent = d.s || '';
+  document.getElementById('ol-d-group').hidden = !d.g;
+  fill(document.getElementById('ol-d-up'), d.u || []);
+  fill(document.getElementById('ol-d-down'), d.d || []);
+  if (sel && sel.value !== cc) sel.value = cc;
+ }
+ function fromHash(){
+  var cc = (location.hash || '').replace('#','').toUpperCase();
+  return D[cc] ? cc : (D[{{ .DefaultCC }}] ? {{ .DefaultCC }} : Object.keys(D)[0]);
+ }
+ if (sel) sel.addEventListener('change', function(){ location.hash = sel.value; render(sel.value); });
+ document.querySelectorAll('.ol-cc-link').forEach(function(a){
+  a.addEventListener('click', function(){ setTimeout(function(){ render(a.dataset.cc); }, 0); });
+ });
+ window.addEventListener('hashchange', function(){ render(fromHash()); });
+ render(fromHash());
+})();
+</script>
 {{- end }}

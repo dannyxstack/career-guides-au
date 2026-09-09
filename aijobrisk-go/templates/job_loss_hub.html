@@ -35,12 +35,32 @@
     <thead><tr><th>Country</th><th class="num">Workforce</th><th class="num">Est. jobs lost (mid)</th><th class="num">Low&ndash;High</th></tr></thead>
     <tbody>
       {{ range .Countries }}<tr>
-        <td><a href="{{ .Href }}">{{ .Name }}</a></td>
+        <td><a class="jl-cc-link" href="#{{ .CC }}" data-cc="{{ .CC }}">{{ .Name }}</a></td>
         <td class="num">{{ comma .Jobs }}</td>
         <td class="num"><span class="jl-num" data-count="{{ comma .CountMid }}" data-rate="{{ printf "%.1f%%" .RatePct }}">{{ comma .CountMid }}</span></td>
         <td class="num muted">{{ comma .CountLow }}&ndash;{{ comma .CountHigh }}</td>
       </tr>{{ end }}
     </tbody>
+  </table></div>
+
+  <h2 id="country-detail">Country detail</h2>
+  <p class="muted note">Pick a country to see its estimate and the occupations that carry most of it.
+  Deep-link with <code>#AU</code>, <code>#US</code> &hellip; at the end of the URL.</p>
+  <div class="jl-picker">
+    <label for="jl-cc">Country</label>
+    <select id="jl-cc">
+      {{ range .Countries }}<option value="{{ .CC }}">{{ .Name }}</option>{{ end }}
+    </select>
+  </div>
+  <div class="jl-cards" id="jl-d-cards">
+    <div class="jl-card"><div class="jl-k">Workforce covered</div><div class="jl-v" id="jl-d-jobs">&mdash;</div></div>
+    <div class="jl-card"><div class="jl-k">Est. jobs lost by 2030 (mid)</div><div class="jl-v" id="jl-d-mid">&mdash;</div></div>
+    <div class="jl-card"><div class="jl-k">Low&ndash;High range</div><div class="jl-v" id="jl-d-range">&mdash;</div></div>
+    <div class="jl-card"><div class="jl-k">Loss rate (mid)</div><div class="jl-v" id="jl-d-rate">&mdash;</div></div>
+  </div>
+  <div class="jl-scroll"><table class="jl-table">
+    <thead><tr><th>Occupation</th><th class="num">Est. jobs lost (mid)</th></tr></thead>
+    <tbody id="jl-d-occs"></tbody>
   </table></div>
 
   <h2>Occupations most exposed to AI displacement by 2030 (all countries)</h2>
@@ -101,9 +121,45 @@
   .jl-table th { font-weight: 600; color: var(--text-muted,#6b7280); }
   .jl-table .muted { color: var(--text-muted,#6b7280); }
   @media(max-width:560px){ .jl-cards{ grid-template-columns:1fr; } }
+  .jl-picker { display:flex; align-items:center; gap:.5rem; margin:.75rem 0 1rem; }
+  .jl-picker select { padding:.4rem .6rem; border:1px solid var(--border,#d1d5db); border-radius:6px;
+    background:var(--surface,#fff); color:inherit; font:inherit; }
 </style>
+<script type="application/json" id="jl-detail">{{ .DetailJSON }}</script>
 <script>
 (function(){
+ var D = {};
+ try { D = JSON.parse(document.getElementById('jl-detail').textContent || '{}'); } catch(e){}
+ var sel = document.getElementById('jl-cc');
+ var nf = new Intl.NumberFormat('en-US');
+ function render(cc){
+  var d = D[cc]; if(!d) return;
+  document.getElementById('jl-d-jobs').textContent  = nf.format(d.j);
+  document.getElementById('jl-d-mid').textContent   = nf.format(d.m);
+  document.getElementById('jl-d-range').textContent = nf.format(d.l) + '–' + nf.format(d.h);
+  document.getElementById('jl-d-rate').textContent  = d.r.toFixed(1) + '%';
+  var tb = document.getElementById('jl-d-occs'), out = '';
+  for (var i=0; i<d.o.length; i++){
+   var tr = document.createElement('tr'), td1 = document.createElement('td'), td2 = document.createElement('td');
+   td1.textContent = d.o[i][0]; td2.className = 'num'; td2.textContent = nf.format(d.o[i][1]);
+   tr.appendChild(td1); tr.appendChild(td2); out += tr.outerHTML;
+  }
+  tb.innerHTML = out;
+  if (sel && sel.value !== cc) sel.value = cc;
+ }
+ function fromHash(){
+  var cc = (location.hash || '').replace('#','').toUpperCase();
+  return D[cc] ? cc : ({{ .DefaultCC }} && D[{{ .DefaultCC }}] ? {{ .DefaultCC }} : Object.keys(D)[0]);
+ }
+ if (sel){
+  sel.addEventListener('change', function(){ location.hash = sel.value; render(sel.value); });
+ }
+ document.querySelectorAll('.jl-cc-link').forEach(function(a){
+  a.addEventListener('click', function(){ setTimeout(function(){ render(a.dataset.cc); }, 0); });
+ });
+ window.addEventListener('hashchange', function(){ render(fromHash()); });
+ render(fromHash());
+
  function apply(m){
   document.querySelectorAll('.jl-num').forEach(function(s){ s.textContent = m==='rate' ? s.dataset.rate : s.dataset.count; });
   document.querySelectorAll('.jl-toggle button').forEach(function(b){ b.classList.toggle('on', b.dataset.m===m); });
