@@ -8,6 +8,7 @@ import (
 	"database/sql"
 	"encoding/hex"
 	"encoding/json"
+	"net"
 	"net/http"
 	"net/url"
 	"os"
@@ -26,12 +27,13 @@ var (
 	slugRe  = regexp.MustCompile(`^[a-z0-9][a-z0-9\-]{0,158}$`)
 	tokenRe = regexp.MustCompile(`^[a-f0-9]{32}$`)
 
-	dsn        string
-	ipSalt     string
-	turnstile  string
-	corsSet    = map[string]bool{}
-	rateMax    = 20
-	rateWindow = 60 * time.Second
+	dsn            string
+	ipSalt         string
+	turnstile      string
+	clientIPHeader string
+	corsSet        = map[string]bool{}
+	rateMax        = 20
+	rateWindow     = 60 * time.Second
 
 	dbOnce sync.Once
 	db     *sql.DB
@@ -51,6 +53,7 @@ func ConfigureFromEnv() {
 		env("MYSQL_DATABASE", "career_guides_au") + "?charset=" + env("MYSQL_CHARSET", "utf8mb4") + "&parseTime=true"
 	ipSalt = env("POLLS_IP_SALT", "change-me")
 	turnstile = os.Getenv("POLLS_TURNSTILE_SECRET")
+	clientIPHeader = strings.TrimSpace(os.Getenv("POLLS_CLIENT_IP_HEADER"))
 	rateMax, _ = strconv.Atoi(env("POLLS_RATE_MAX", "20"))
 	rw, _ := strconv.Atoi(env("POLLS_RATE_WINDOW", "60"))
 	rateWindow = time.Duration(rw) * time.Second
@@ -210,15 +213,33 @@ func vote(w http.ResponseWriter, r *http.Request) {
 	writeJSON(w, 200, map[string]any{"ok": true, "poll": view})
 }
 
+// clientIP 解析真实客户端 IP，供限流与投票软去重的 IP 哈希使用。
+// 设了 POLLS_CLIENT_IP_HEADER 就只认该头（挂 Cloudflare 时设为 CF-Connecting-IP）——
+// 该头由边缘覆写，客户端伪造不了；没设则沿用 X-Forwarded-For 首段（单层 nginx 反代）。
+// 取到的值必须是合法 IP，否则回退 RemoteAddr，免得伪造头刷出无限个限流桶。
 func clientIP(r *http.Request) string {
-	if xff := r.Header.Get("X-Forwarded-For"); xff != "" {
-		return strings.TrimSpace(strings.Split(xff, ",")[0])
+	if clientIPHeader != "" {
+		if ip := parseIP(r.Header.Get(clientIPHeader)); ip != "" {
+			return ip
+		}
+	} else if xff := r.Header.Get("X-Forwarded-For"); xff != "" {
+		if ip := parseIP(strings.Split(xff, ",")[0]); ip != "" {
+			return ip
+		}
 	}
-	host := r.RemoteAddr
-	if i := strings.LastIndex(host, ":"); i >= 0 {
-		host = host[:i]
+	if host, _, err := net.SplitHostPort(r.RemoteAddr); err == nil {
+		return host
 	}
-	return host
+	return r.RemoteAddr
+}
+
+// parseIP 去空白并校验合法性，非 IP 返回空串。
+func parseIP(s string) string {
+	s = strings.TrimSpace(s)
+	if net.ParseIP(s) == nil {
+		return ""
+	}
+	return s
 }
 func ipHash(r *http.Request) string {
 	h := sha256.Sum256([]byte(clientIP(r) + ipSalt))
