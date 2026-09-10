@@ -135,13 +135,13 @@ apt-get install -y goaccess
 确认 nginx access log 用的是 `combined` 格式（默认即是，**必须带 User-Agent**，否则无法识别爬虫）：
 
 ```bash
-grep -r "access_log\|log_format" /etc/nginx/nginx.conf /etc/nginx/sites-enabled/
+grep -rn "access_log\|log_format" /www/server/panel/vhost/nginx/ /www/server/nginx/conf/nginx.conf
 ```
 
 ### 3.2 生成实时 HTML 报表
 
 ```bash
-goaccess /var/log/nginx/access.log --log-format=COMBINED --persist --restore --db-path=/var/lib/goaccess -o /var/www/stats/index.html --real-time-html
+goaccess /www/wwwlogs/aijobrisk.com.log --log-format=COMBINED --persist --restore --db-path=/var/lib/goaccess -o /var/www/stats/index.html --real-time-html
 ```
 
 - `--persist --restore --db-path=` 把统计**落盘累计**，日志轮转后历史不丢——这是长期留存的关键。
@@ -167,11 +167,11 @@ location /stats/ {
 跑两遍、对比总量，就得到干净的人机拆分：
 
 ```bash
-goaccess /var/log/nginx/access.log --log-format=COMBINED --crawlers-only -o /var/www/stats/bots.html
+goaccess /www/wwwlogs/aijobrisk.com.log --log-format=COMBINED --crawlers-only -o /var/www/stats/bots.html
 ```
 
 ```bash
-goaccess /var/log/nginx/access.log --log-format=COMBINED --ignore-crawlers -o /var/www/stats/humans.html
+goaccess /www/wwwlogs/aijobrisk.com.log --log-format=COMBINED --ignore-crawlers -o /var/www/stats/humans.html
 ```
 
 > ⚠️ **GoAccess 自带的爬虫列表偏旧，多半认不出 AI 爬虫**（GPTBot / ClaudeBot / PerplexityBot /
@@ -186,13 +186,17 @@ cp /etc/goaccess/browsers.list /etc/goaccess/browsers.custom.list && printf '%s\
 先看看实际都有谁在抓，再决定这个清单还要补什么：
 
 ```bash
-awk -F'"' '{print $6}' /var/log/nginx/access.log | grep -iE 'bot|crawler|spider|gpt|claude|perplexity|bytespider|ccbot' | sort | uniq -c | sort -rn | head -30
+awk -F'"' '{print $6}' /www/wwwlogs/aijobrisk.com.log | grep -iE 'bot|crawler|spider|gpt|claude|perplexity|bytespider|ccbot' | sort | uniq -c | sort -rn | head -30
 ```
 
 ### 3.5 日志轮转
 
-`logrotate` 默认按天切、留 14 天。GoAccess 开了 `--persist` 后历史统计不受影响，
-但**原始日志**只剩两周。若要保留更久，调 `/etc/logrotate.d/nginx` 的 `rotate` 值并确认磁盘够用。
+日志切割由 `ops/nginx-log-rotate.sh` 负责（按天切、默认保留 30 天，见 `ops/README.md`）。
+GoAccess 开了 `--persist` 后历史统计不受影响，但**原始日志**只剩 30 天——
+要留更久就调该脚本的 `--keep`，注意磁盘。
+
+> 本机是 aaPanel 布局，日志在 `/www/wwwlogs/{domain}.log`，不是 `/var/log/nginx/`。
+> 三个站（aijobrisk / aijobriskmap / ismyjobaiproof）的日志都在这个目录下。
 
 ---
 
@@ -204,7 +208,7 @@ awk -F'"' '{print $6}' /var/log/nginx/access.log | grep -iE 'bot|crawler|spider|
 - [ ] `curl -sI https://aijobrisk.com/static/app.css` 有 `cf-cache-status: HIT`（缓存生效）
 - [ ] `curl -sI https://aijobrisk.com/api/health` 正常，且 `cf-cache-status: BYPASS` 或 `DYNAMIC`
 - [ ] 页面投票能正常提交（验证 `POLLS_CLIENT_IP_HEADER` 配对了）
-- [ ] `tail -f /var/log/nginx/access.log` 里 IP 是**真实访客 IP**，不是 CF 边缘 IP（real_ip 生效）
+- [ ] `tail -f /www/wwwlogs/aijobrisk.com.log` 里 IP 是**真实访客 IP**，不是 CF 边缘 IP（real_ip 生效）
 - [ ] 连续快速投票会触发 429（限流桶正常，没有因为 IP 全塌成一个而误伤或失效）
 - [ ] 直连 `curl -sI --resolve aijobrisk.com:443:207.57.133.99 https://aijobrisk.com/` **超时**（防绕过生效）
 - [ ] `/stats/` 需要密码，且返回 `X-Robots-Tag: noindex`
