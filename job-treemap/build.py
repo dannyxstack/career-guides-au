@@ -29,6 +29,16 @@ CATS = os.path.join(REPO, "site", "src", "data", "categories_v2.json")
 TEMPLATE = os.path.join(HERE, "template.html")
 DIST = os.path.join(HERE, "dist")
 
+GOOGLE_TAG = """<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5QN99E6RZS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5QN99E6RZS');
+</script>"""
+
 # name / currency symbol / official source line per country.
 # Countries not listed (e.g. CH placeholder) are skipped.
 COUNTRY_META = {
@@ -406,6 +416,7 @@ METHODOLOGY_HTML = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+__GOOGLE_TAG__
 <title>Methodology &amp; Data Sources &mdash; AI Job Risk Map</title>
 <meta name="description" content="Full methodology behind the AI exposure score: ILO Working Paper 140 and OpenAI's GPTs-are-GPTs study, mapped onto each country's official occupation classification. Download the full dataset (CSV).">
 <link rel="canonical" href="__DOMAIN__/methodology.html">
@@ -1106,6 +1117,7 @@ def build_landing(present, stats_by_cc):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{GOOGLE_TAG}
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{DOMAIN}/">
@@ -1481,6 +1493,7 @@ def doc_head(title, desc, canonical_path, robots="index,follow", og_image=None):
     og = og_image or f"{DOMAIN}/og-image.png"
     return (f'<!doctype html><html lang="en"><head>'
             f'<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
+            f'{GOOGLE_TAG}'
             f'<title>{esc(title)}</title>'
             f'<meta name="description" content="{esc(desc)}">'
             f'<link rel="canonical" href="{DOMAIN}{canonical_path}">'
@@ -2306,6 +2319,7 @@ def main():
     # ── Methodology + About pages (distinct: how it's computed vs what it is) ──
     with open(os.path.join(DIST, "methodology.html"), "w", encoding="utf-8") as f:
         f.write(METHODOLOGY_HTML.replace("__DOMAIN__", DOMAIN)
+                .replace("__GOOGLE_TAG__", GOOGLE_TAG)
                 .replace("__NC__", str(NC))
                 .replace("__SOURCES_SECTION__", job_loss_method_html() + methodology_sources_section(present))
                 .replace("__FOOTER__", build_footer()))

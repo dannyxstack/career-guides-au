@@ -310,6 +310,7 @@ def build_model(cc):
 # depth (full rankings, group tables, scenarios, methodology) stays in the PDF.
 LANDING = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+{google_tag}
 <title>{country} AI Job Risk Report {year} — download PDF | {site}</title>
 <meta name="description" content="{hero} Download the free {year} PDF report: rankings, risk map, scenarios and methodology for {n} occupations.">
 <link rel="canonical" href="{report_url}">
@@ -547,6 +548,7 @@ def build_landing(m):
         published=m["published"], jsonld=jsonld, pay_line=pay_line,
         pdf_href=f"{m['slug']}-ai-job-risk-{m['year']}.pdf",
         doc_css=B.DOC_CSS, footer=B.build_footer(), og_image=og_image,
+        google_tag=B.GOOGLE_TAG,
         exec_lead=html.escape(m["exec_lead"]),
         bands_html=_bands(m), quartile_line=quartile_line, snapshot_html=_snapshot(m),
         snapshot_note=html.escape(m["snapshot_note"]),

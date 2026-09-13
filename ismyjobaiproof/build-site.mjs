@@ -19,6 +19,15 @@ const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, (char) => ({
 const round = (value) => Math.round(Number(value));
 const riskBand = (score) => score >= 75 ? 'High' : score >= 60 ? 'Elevated' : score >= 40 ? 'Moderate' : 'Lower';
 const resilienceBand = (score) => score >= 76 ? 'Strong' : score >= 61 ? 'Resilient with change' : score >= 46 ? 'Mixed' : 'Exposed';
+const GOOGLE_TAG = `  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5QN99E6RZS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-5QN99E6RZS');
+  </script>`;
 
 function shell({ title, description, canonical, body, schema = [], pageClass = 'content-page' }) {
   const schemas = Array.isArray(schema) ? schema : [schema];
@@ -27,6 +36,7 @@ function shell({ title, description, canonical, body, schema = [], pageClass = '
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+${GOOGLE_TAG}
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
