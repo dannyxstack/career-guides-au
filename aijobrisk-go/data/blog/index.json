@@ -1,6 +1,42 @@
 {
   "posts": [
     {
+      "slug": "nurses-ai-and-the-paperwork-nobody-wanted",
+      "title": "Nurses, AI and the paperwork nobody wanted",
+      "dek": "How generative AI is targeting the administrative burden in nursing—and what that means for task exposure.",
+      "type": "post",
+      "published_at": "2026-09-18",
+      "updated_at": "2026-09-18",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/nurses-ai-and-the-paperwork-nobody-wanted.svg",
+      "hero_alt": "Nurses, AI and the paperwork nobody wanted",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "healthcare",
+        "automation",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "registered-nurse",
+        "medical-secretary"
+      ],
+      "related_sectors": [
+        "health",
+        "admin-support"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "CA",
+        "AU"
+      ],
+      "reading_min": 5,
+      "word_count": 831,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-paperwork-problem\">The paperwork problem</a></li>\n<li><a href=\"#where-generative-ai-fits\">Where generative AI fits</a></li>\n<li><a href=\"#mapping-task-exposure-nurses-and-adjacent-roles\">Mapping task exposure: nurses and adjacent roles</a></li>\n<li><a href=\"#the-limits-of-automation\">The limits of automation</a></li>\n<li><a href=\"#what-to-watch\">What to watch</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "ai-drafting-lawyers-speed-up-but-judgement-still-wins",
       "title": "AI Drafting: Lawyers Speed Up, but Judgement Still Wins",
       "dek": "Generative AI is automating routine legal drafting, yet the highest-value legal tasks still require human judgement and accountability.",
