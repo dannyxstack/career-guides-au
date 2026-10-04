@@ -1,6 +1,93 @@
 {
   "posts": [
     {
+      "slug": "what-an-ai-implementation-lead-does-and-how-to-become-one",
+      "title": "What an AI Implementation Lead Does and How to Become One",
+      "dek": "Discover the responsibilities, required skills, and career path to becoming an AI implementation lead, a role at the heart of AI adoption.",
+      "type": "post",
+      "published_at": "2026-10-04",
+      "updated_at": "2026-10-04",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/what-an-ai-implementation-lead-does-and-how-to-become-one.svg",
+      "hero_alt": "What an AI Implementation Lead Does and How to Become One",
+      "hero_credit": "",
+      "tags": [
+        "new-roles",
+        "augmentation",
+        "reskilling",
+        "research"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "financial-analyst",
+        "registered-nurse",
+        "data-analyst"
+      ],
+      "related_sectors": [
+        "information",
+        "finance",
+        "health",
+        "manufacturing",
+        "professional"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "CA",
+        "AU",
+        "DE",
+        "IN",
+        "SG"
+      ],
+      "reading_min": 4,
+      "word_count": 736,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-role-of-an-ai-implementation-lead\">The Role of an AI Implementation Lead</a><ul>\n<li><a href=\"#core-responsibilities\">Core Responsibilities</a></li>\n<li><a href=\"#skills-and-background\">Skills and Background</a></li>\n<li><a href=\"#how-to-become-one\">How to Become One</a></li>\n<li><a href=\"#the-ai-task-exposure-angle\">The AI Task-Exposure Angle</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "the-jobs-that-didn-t-exist-before-generative-ai-and-who-s-hiring",
+      "title": "The Jobs That Didn't Exist Before Generative AI — And Who's Hiring",
+      "dek": "Generative AI has spawned new occupations like prompt engineer and AI ethicist. We examine who is hiring and how these roles fit into the broader landscape of AI task exposure.",
+      "type": "post",
+      "published_at": "2026-10-04",
+      "updated_at": "2026-10-04",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/the-jobs-that-didn-t-exist-before-generative-ai-and-who-s-hiring.svg",
+      "hero_alt": "The Jobs That Didn't Exist Before Generative AI — And Who's Hiring",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "new-roles",
+        "hiring",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "registered-nurse",
+        "marketing-manager",
+        "graphic-designer",
+        "data-scientist"
+      ],
+      "related_sectors": [
+        "information",
+        "professional",
+        "health",
+        "finance",
+        "government"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "CA",
+        "DE",
+        "IN"
+      ],
+      "reading_min": 3,
+      "word_count": 462,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-new-frontier-of-work\">The New Frontier of Work</a></li>\n<li><a href=\"#what-are-these-new-jobs\">What Are These New Jobs?</a><ul>\n<li><a href=\"#prompt-engineer\">Prompt Engineer</a></li>\n<li><a href=\"#ai-ethicist\">AI Ethicist</a></li>\n<li><a href=\"#ai-auditor\">AI Auditor</a></li>\n<li><a href=\"#ai-interaction-designer\">AI Interaction Designer</a></li>\n</ul>\n</li>\n<li><a href=\"#who-is-hiring\">Who Is Hiring?</a></li>\n<li><a href=\"#connecting-to-ai-task-exposure\">Connecting to AI Task Exposure</a></li>\n<li><a href=\"#the-takeaway\">The Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "nurses-ai-and-the-paperwork-nobody-wanted",
       "title": "Nurses, AI and the paperwork nobody wanted",
       "dek": "How generative AI is targeting the administrative burden in nursing—and what that means for task exposure.",

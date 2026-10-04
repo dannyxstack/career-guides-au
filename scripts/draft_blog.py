@@ -217,7 +217,7 @@ def main():
         p = draft_one(a.topic, a.type, a.notes, keys, authors,
                       source_name=a.source_name, source_url=a.source_url,
                       slug_override=a.slug, force=a.force, status=a.status)
-        _finish(1 if p else 0)
+        _finish([p] if p else [])
         return 0 if p else 1
 
     # batch/rotation mode
@@ -233,22 +233,93 @@ def main():
 
     today = datetime.date.today().isoformat()
     made = 0
+    written = []
     for tag, topic in picks:
         print("- [%s] %s" % (tag, topic))
         p = draft_one(topic, a.type, a.notes, keys, authors, extra_tags=[tag], status=a.status)
         if p:
             made += 1
+            written.append(p)
             state[topic] = today          # mark used only on success
     json.dump(state, open(TOPIC_STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
-    _finish(made)
+    _finish(written)
     return 0 if made else 1
 
 
-def _finish(n):
+def _pending_drafts():
+    """content/blog 里尚未进 data/blog/index.json 的草稿。
+
+    不限于本次运行——历史上失败重跑、或审校后搁置的草稿会堆在这里，
+    下次烘焙时会一并产出。提交清单必须覆盖它们，否则 .md 进了 git 而
+    对应的 .html 没进，线上就少文章。
+    """
+    import glob
+    baked = set()
+    idx = os.path.join(build_blog.OUT_DIR, "index.json")
+    if os.path.exists(idx):
+        try:
+            with open(idx, encoding="utf-8") as f:
+                baked = {p.get("slug") for p in json.load(f).get("posts", [])}
+        except Exception:
+            pass
+    out = []
+    for p in sorted(glob.glob(os.path.join(build_blog.CONTENT_DIR, "*.md"))):
+        slug = os.path.splitext(os.path.basename(p))[0]
+        if slug not in baked:
+            out.append((slug, p))
+    return out
+
+
+def _finish(paths):
+    """收尾摘要：列出本次产出，以及后续要提交 / 部署的文件。
+
+    blog 是 data/ 里唯一进 git 的部分（aijobrisk-go/.gitignore 的 `!/data/blog/`），
+    所以「要提交什么」和「要部署什么」不是同一份清单，分开列，省得每次翻文档。
+    """
+    n = len(paths)
     print("\nWrote %d draft(s) to %s" % (n, build_blog.CONTENT_DIR))
-    if n:
-        print("Next: review facts & byline, set status: published, then run:")
-        print("      python scripts/build_blog.py")
+
+    root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+    def rel(p):
+        return os.path.relpath(os.path.abspath(p), root).replace("\\", "/")
+
+    mine = {os.path.abspath(p) for p in paths}
+    pending = _pending_drafts()
+    if not pending:
+        return
+
+    print("\n" + "=" * 70)
+    print("接下来要做的（按顺序）")
+    print("=" * 70)
+
+    print("\n[1] 人工审校（事实 / 署名 / 内链）。status 已是 published，")
+    print("    发现问题改成 draft，烘焙会自动跳过：")
+    for slug, p in pending:
+        mark = "本次新增" if os.path.abspath(p) in mine else "之前遗留，未烘焙"
+        print("      %-64s  <- %s" % (rel(p), mark))
+
+    print("\n[2] 烘焙（离线，不需要网络）：")
+    print("      python scripts/build_blog.py")
+    print("    会产出 / 更新：")
+    print("      aijobrisk-go/data/blog/index.json")
+    for slug, _ in pending:
+        print("      aijobrisk-go/data/blog/%s.html" % slug)
+
+    print("\n[3] 提交 —— 两处都要（blog 是 data/ 里唯一进 git 的部分）：")
+    print("      git add aijobrisk-go/content/blog aijobrisk-go/data/blog")
+    if len(pending) == 1:
+        print('      git commit -m "content(blog): %s"' % pending[0][0])
+    else:
+        print('      git commit -m "content(blog): %d posts"' % len(pending))
+
+    print("\n[4] 部署 —— 只传数据，二进制不用重建：")
+    print("      bash aijobrisk-go/upload-data.sh")
+    print("      ssh -p 62828 root@207.57.133.99 'systemctl restart aijobrisk-go'")
+
+    print("\n不用管的：")
+    print("      scripts/.blog_topics_used.json   本地轮换状态，已 gitignore")
+    print("      aijobrisk-go/data/ 其余部分       本次未变，rsync 会原样跳过")
 
 
 if __name__ == "__main__":
