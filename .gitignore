@@ -40,7 +40,8 @@ aijobrisk/
 # 内部新闻雷达产出（选题清单，不入库）
 news-radar/
 scripts/.news_seen.json
-scripts/.blog_topics_used.json
+# scripts/.blog_topics_used.json 进 git：起草已挪到 GitHub Actions，轮换状态必须跨机器共享，
+# 否则 CI 每次都是空状态、会反复挑同几个选题。
 
 # other 
 *.zip

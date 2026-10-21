@@ -73,6 +73,9 @@ rsync -avz --delete aijobrisk-go/data aijobrisk-go/templates aijobrisk-go/static
 | `POLLS_RATE_MAX` | `20` | 限流：窗口内最大请求数 |
 | `POLLS_RATE_WINDOW` | `60` | 限流窗口秒数 |
 | `PUBLIC_POLLS_API` | `/api` | 投票组件请求的 API 基址；**同源部署留空即用 `/api`**，仅独立子域时设为完整地址 |
+| `AIJOBRISK_RELOAD_TOKEN` | — | 博客热重载接口 `POST /internal/reload-blog` 的 token（≥32 字符）；不设则接口整体 404。仅接受本机直连，经 nginx/CF 转发的请求一律拒绝。见 §八 |
+| `AIJOBRISK_BLOG_DIR` | `data/blog` | 博客数据目录。线上指向 `ops/blog-pull.sh` 维护的独立镜像，**不与代码目录共用** |
+| `AIJOBRISK_BLOG_STATIC_DIR` | `static/blog` | 博客头图目录（同上，指向镜像） |
 | `AIJOBRISK_ENV` | — | 指向 `.env` 文件路径（否则自动找 `.env`/`../.env`/`../../.env`） |
 
 `.env` 示例（放 `/opt/aijobrisk-go/.env`，`chmod 600`）：
@@ -196,82 +199,95 @@ TLS 证书用 certbot：`sudo certbot --nginx -d aijobrisk.com -d www.aijobrisk.
 - **更新代码**：服务器上 `git pull` → 重新 `go build` → `systemctl restart`。构建产物可先输出到临时名，验证后原子替换（`mv`）再重启，便于回滚。
 - **验证**：`curl -sI https://aijobrisk.com/` 看 200；`/job-risk-map` 看风险图；`/api/health` 看投票健康。
 
-## 八、Blog 定时更新任务
+## 八、Blog 无人值守定时发布
 
-> Blog 内容采「半自动」工作流:DeepSeek 起草 → 人工审校 → 烘焙 → 部署。
-> **本仓库不提交 cron/timer 本体**(与机器/账号绑定),下面给出规范配置,按此挂载即可。
-> 节奏遵循 `docs/blog-plan.md` §8.3:**低频重质(建议每周 1 篇)**,停更比不做更伤全站信任。
+> 全自动：**没有人工审稿，也不需要手动部署**。选题来自人工维护的 `scripts/blog_topics.txt`，
+> 写作、排期、发布全部自动化；用**自动质量闸门**替代人工审稿，不过闸的稿子不发布。
+> 节奏遵循 `docs/blog-plan.md` §8.3：**每周 1 篇**，并始终保留 2 周的已排期存货。
 
-### 8.1 三段式管线
+### 8.1 链路
 
-| 段 | 命令 | 依赖 | 产物 |
-|---|---|---|---|
-| ① 起草 | `python -m scripts.draft_blog --from-topics scripts/blog_topics.txt --count 1` | 网络 + **DeepSeek API key**(env);轮换状态 `scripts/.blog_topics_used.json` | `aijobrisk-go/content/blog/*.md`(默认 `status: published`) |
-| ② 烘焙 | `python scripts/build_blog.py` | **离线**;`markdown` / `pyyaml`;读 `data/occupations_v2.json` 校验内链 | `aijobrisk-go/data/blog/index.json` + `{slug}.html` |
-| ③ 部署 | `aijobrisk-go/upload-data.sh`(rsync `data/`)→ 服务器 `systemctl restart aijobrisk-go` | ssh | 线上生效(重载入内存 ~2s) |
+```
+GitHub Actions（每天 02:17 UTC，.github/workflows/blog-autopublish.yml）
+  └─ draft_blog --ensure-queue 2 --cadence-days 7
+       队列里已排期、未到发布日的文章不足 2 篇才起草；够了就什么都不做（不产生 commit）
+       每篇：DeepSeek（deepseek-chat）→ 质量闸门 → 不过则重试，最多 3 次
+       发布日 = 上一篇之后 +7 天；断更过久则从今天起补发
+  └─ build_blog.py  烘焙（未来日期的文章也烘进 index.json）
+  └─ commit + push 到 main
 
-要点:
-- **起草默认即 `published`**(generate-then-review:先发后审,发现问题人工撤稿);要「先审后发」改传 `--status draft`,审校后把 front-matter 的 `status` 改成 `published` 再烘焙。
-- **烘焙会跳过 draft 与未来日期(scheduled)文章**,所以定时发布可用「未来 `published_at` + 每日烘焙」实现。
-- 内链 key(`related_slugs/sectors/countries`)对 `data/` 现网数据校验,非法项自动丢弃并留 `<!-- REVIEW -->` 注释。
-- 起草出的 `.md` 与烘焙出的 `data/blog/` **建议一并 `git commit`**(blog 内容进 git,见 blog-plan §8.11),再部署。
+服务器 cron（每 10 分钟，ops/blog-pull.sh）
+  └─ 独立稀疏镜像 git fetch → 有新提交才继续
+  └─ 防误删检查（index.json 文章数骤降 >50% 或坏 JSON → 拒绝）
+  └─ reset 镜像 → POST /internal/reload-blog → Go 热重载（不重启、不停服）
 
-### 8.2 Linux cron(在有仓库 + Python + DeepSeek key 的机器上)
-
-`DEEPSEEK_API_KEY` 放在被 cron 加载的 env 文件里(**勿写进 crontab 明文**)。包一层脚本便于加锁/日志:
-
-```bash
-#!/usr/bin/env bash
-# /opt/career-guides-au/blog-weekly.sh  —— 每周起草+烘焙+部署
-set -euo pipefail
-cd /opt/career-guides-au
-source .env.blog                       # 内含 DEEPSEEK_API_KEY，chmod 600
-python -m scripts.draft_blog --from-topics scripts/blog_topics.txt --count 1
-python scripts/build_blog.py
-git add aijobrisk-go/content/blog aijobrisk-go/data/blog && \
-  git commit -m "content(blog): scheduled weekly draft" || true
-bash aijobrisk-go/upload-data.sh       # rsync data/ 到线上
-ssh -p 62828 root@<server> 'systemctl restart aijobrisk-go'
+Go（internal/data/blog.go）
+  └─ 按「UTC 今天」在运行时过滤：未到发布日的文章在列表 / 详情 / 标签 / RSS /
+     sitemap / 职业·行业·国家页反向内链里**全部不可见**，到日子自动出现
 ```
 
-crontab(每周一 09:00,`flock` 防重入,日志留档):
+**定时发布的关键**：日期过滤在 Go 运行时做，不在烘焙时做——一次烘焙、一次同步，
+文章到日子自己上线，发布当天不需要任何动作。
 
-```cron
-0 9 * * 1  /usr/bin/flock -n /tmp/blog-weekly.lock /opt/career-guides-au/blog-weekly.sh >> /var/log/blog-weekly.log 2>&1
-```
+### 8.2 质量闸门（替代人工审稿，`scripts/draft_blog.py` 的 `quality_gate`）
 
-若起草/部署分离(起草在服务器、部署也在本机),把 ③ 换成本机 `restart.sh` 即可。
+| 检查 | 不通过的处理 |
+|---|---|
+| 正文 600–2500 词 | 重试 |
+| 至少 2 个 `##` 小节；正文不得有 H1 | 重试 |
+| 标题 10–70 字符，有导语 | 重试 |
+| 无占位 / 拒答文本（as an AI、lorem ipsum、[insert…、TODO…） | 重试 |
+| 分析文正文**不含外链**（无人审稿时编造的「来源链接」最伤可信度） | 重试 |
+| 百分比数字 ≤ 8 个（prompt 要求避免无法核实的精确统计） | 重试 |
+| 至少 1 条有效的职业内链（blog 的价值约八成在内链，见 blog-plan §0） | 重试 |
 
-### 8.3 Windows 计划任务(起草端在开发机)
+只卡**新生成**的稿子，不进烘焙——早期种子文章只有 ~300 词，放进烘焙会被下架。
 
-开发机为 Windows(见 §一 构建坑)。用「任务计划程序」新建触发器 = 每周,操作调用一个 `.ps1`:
+### 8.3 一次性配置
 
-```powershell
-# blog-weekly.ps1
-Set-Location E:\work\career-guides-au
-$env:DEEPSEEK_API_KEY = (Get-Content .\.env.blog.key -Raw).Trim()  # 不入库
-python -m scripts.draft_blog --from-topics scripts\blog_topics.txt --count 1
-python scripts\build_blog.py
-# 审校后再手动 git commit + upload-data.sh 部署（Windows 下建议保留人工放行）
-```
+按顺序做。**第 1 步必须最先**：旧二进制不认识定时过滤，会把未来日期的文章立刻展示出来。
 
-注册(每周一 09:00):
+1. **部署新二进制**（含定时过滤 + 重载接口）：服务器 `git pull` → `build.sh` → `restart.sh`。
+2. **建博客镜像**（服务器上，需能 `git clone` 仓库——只读 deploy key 即可）：
+   ```bash
+   bash /opt/career-guides-au/ops/blog-pull.sh --init git@github.com:dannyxstack/career-guides-au.git
+   ```
+   它会打印三行环境变量，追加到 `/opt/career-guides-au/aijobrisk-go/.env`，然后 `systemctl restart aijobrisk-go`。
+   启动日志应出现 `[blog] … dir=/opt/aijobrisk-blog-mirror/… reload-endpoint=true`。
+3. **挂 cron**（每 10 分钟；无新提交时静默退出，不刷日志）：
+   ```cron
+   */10 * * * * /usr/bin/flock -n /tmp/blog-pull.lock bash /opt/career-guides-au/ops/blog-pull.sh >> /var/log/blog-pull.log 2>&1
+   ```
+4. **GitHub**：Settings → Secrets and variables → Actions → 新建 `DEEPSEEK_API_KEY`。
+   若 main 开了分支保护，需允许 `github-actions[bot]` 直接推送。
+5. **试跑**：Actions → blog-autopublish → Run workflow。之后每天自动跑。
 
-```powershell
-$act = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -File E:\work\career-guides-au\blog-weekly.ps1"
-$trg = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At 9am
-Register-ScheduledTask -TaskName "aijobrisk-blog-weekly" -Action $act -Trigger $trg
-```
+### 8.4 日常需要关心的只有两件事
 
-### 8.4 定时发布(可选,无需每周起草)
+- **选题池**：用完会**停止发布并报错**（退出码 3），不会循环复用选题造出近似重复的文章。
+  届时往 `scripts/blog_topics.txt` 补选题即可（2026-10 时剩 13 个，约够 3 个月）。
+- **失败邮件**：起草失败或选题池耗尽时 Actions 标红，GitHub 会给仓库所有者发邮件。
+  单日失败不影响读者——队列里还有 2 周存货，第二天会自动重试。
 
-一次性起草多篇、给不同的未来 `published_at`,再挂**每日**烘焙+部署 cron。`build_blog.py` 会自动跳过未来日期,到点当天才纳入 `index.json`,实现「排期发布」:
+### 8.5 撤稿 / 手动干预
 
-```cron
-0 8 * * *  /usr/bin/flock -n /tmp/blog-pub.lock /opt/career-guides-au/blog-publish.sh >> /var/log/blog-pub.log 2>&1
-```
+| 要做的事 | 怎么做 |
+|---|---|
+| 撤下某篇 | 把它 front-matter 的 `status` 改成 `draft` → 跑 `build_blog.py` → commit + push；10 分钟内下线 |
+| 手动插一篇 | `draft_blog --topic "…" --publish-on 2026-11-11` → `build_blog.py` → commit + push |
+| 暂停自动发布 | Actions 页面 Disable workflow（已排期的仍会按日上线；要一起停就把它们改成 draft） |
+| 立刻同步（不等 cron） | 服务器上 `bash /opt/career-guides-au/ops/blog-pull.sh` |
+| 查看队列 | 重载接口 / 启动日志里的 `visible / scheduled / next` |
 
-（`blog-publish.sh` 去掉起草步、只做 `build_blog.py` + 部署即可。）
+**博客只走 git 这一条路**：`upload-data.sh` 已排除 `blog/`，服务器上 Go 读的是镜像目录。
+不要再往线上 `data/blog` 直接 rsync。
+
+### 8.6 风险与取舍（无人审稿）
+
+`docs/blog-plan.md` §8 列过两类风险：事实错误直接上线，以及 Google 对「批量自动生成内容」的打击。
+当前的缓解：选题由人工把关；低频（每周 1 篇，不是批量灌）；质量闸门拦截编造外链、过量统计数字、
+拒答文本和无内链的稿子；撤稿 10 分钟内生效。**闸门拦不住「看起来合理但错误」的论断**——
+这是去掉人工审稿换来的代价。
 
 ## 资源小结
 

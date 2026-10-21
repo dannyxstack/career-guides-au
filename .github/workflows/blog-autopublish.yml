@@ -1,0 +1,94 @@
+# 博客无人值守定时发布（aijobrisk.com）
+#
+# 每天跑一次，保证始终有 2 篇「已排期、未到发布日」的文章（每 7 天一篇）：
+#   起草（DeepSeek + 质量闸门）-> 烘焙 -> 提交到 main
+# 文章到日子由 Go 服务端按 UTC 日期自动展示（internal/data/blog.go），不需要再部署；
+# 服务器上的 ops/blog-pull.sh 每 10 分钟从 git 同步 data/blog 与 static/blog 并热重载。
+# 队列满时这个 job 什么都不做、不产生 commit。
+#
+# 一次性配置（见 aijobrisk-go/deployment.md §八）：
+#   - Settings → Secrets → Actions：DEEPSEEK_API_KEY
+#   - main 若开了分支保护，需允许 github-actions[bot] 直接推送
+#
+# 失败即告警：起草失败（退出码 1）或选题池耗尽（退出码 3）时本 job 标红，
+# GitHub 会给仓库所有者发邮件。选题池耗尽时去 scripts/blog_topics.txt 补选题。
+
+name: blog-autopublish
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # 每天 02:17 UTC（避开整点的 Actions 拥堵）
+  workflow_dispatch:
+    inputs:
+      ensure_queue:
+        description: "保持多少篇已排期文章"
+        default: "2"
+      cadence_days:
+        description: "发布间隔（天）"
+        default: "7"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-autopublish
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install --disable-pip-version-check PyYAML==6.0.3 Markdown==3.10.3 requests==2.33.1 python-dotenv==1.0.1
+
+      - name: Draft to keep the queue full
+        id: draft
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          PYTHONIOENCODING: utf-8
+        run: |
+          set +e
+          python -m scripts.draft_blog \
+            --from-topics scripts/blog_topics.txt \
+            --ensure-queue "${{ github.event.inputs.ensure_queue || '2' }}" \
+            --cadence-days "${{ github.event.inputs.cadence_days || '7' }}" \
+            --model deepseek-chat
+          echo "rc=$?" >> "$GITHUB_OUTPUT"
+
+      # 即使部分失败也先把成功的稿子烘焙、提交，再在最后一步标红告警。
+      - name: Bake
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python scripts/build_blog.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add aijobrisk-go/content/blog aijobrisk-go/data/blog aijobrisk-go/static/blog scripts/.blog_topics_used.json
+          if git diff --cached --quiet; then
+            echo "Nothing new -- queue already full."
+            exit 0
+          fi
+          git commit -m "content(blog): scheduled drafts $(date -u +%F) [bot]"
+          # 期间若有人推送了 main，先 rebase 再推，避免非快进被拒。
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
+
+      - name: Alert on failure
+        if: steps.draft.outputs.rc != '0'
+        run: |
+          case "${{ steps.draft.outputs.rc }}" in
+            3) echo "::error::Topic pool exhausted -- add topics to scripts/blog_topics.txt" ;;
+            *) echo "::error::draft_blog exited ${{ steps.draft.outputs.rc }} (generation failures; will retry tomorrow)" ;;
+          esac
+          exit 1

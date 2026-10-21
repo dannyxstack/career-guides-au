@@ -101,3 +101,37 @@ logrotate 是更标准的选择，本机也可以用。没走它的原因：aaPa
 ```
 
 （放 `/etc/logrotate.d/nginx-aapanel`，同样要先关掉 aaPanel 自带的切割。）
+
+---
+
+## blog-pull.sh
+
+服务器端博客同步：拉取 GitHub Actions 自动发布的文章（`.github/workflows/blog-autopublish.yml`），
+热重载到运行中的站点。完整链路、一次性配置与撤稿方法见 `aijobrisk-go/deployment.md` §八。
+
+**为什么用独立镜像，而不是在线上代码目录里 `git pull`**：
+
+- 线上目录拉到新模板 / Go 源码后，进程一旦重启就会变成「旧二进制 + 新模板」，渲染报错。
+- `data/blog`、`static/blog` 在仓库里是被跟踪的，往线上目录写文件会让你下次部署代码时 `git pull` 冲突。
+
+所以镜像只稀疏检出 `aijobrisk-go/data/blog` 与 `aijobrisk-go/static/blog`，
+Go 通过 `AIJOBRISK_BLOG_DIR` / `AIJOBRISK_BLOG_STATIC_DIR` 直接读镜像。
+
+```bash
+bash ops/blog-pull.sh --init git@github.com:OWNER/REPO.git   # 一次性
+bash ops/blog-pull.sh                                        # cron：每 10 分钟
+```
+
+```cron
+*/10 * * * * /usr/bin/flock -n /tmp/blog-pull.lock bash /opt/career-guides-au/ops/blog-pull.sh >> /var/log/blog-pull.log 2>&1
+```
+
+| 退出码 | 含义 | 处理 |
+|---|---|---|
+| 0 | 成功，或没有新提交（静默） | — |
+| 1 | 环境 / 配置错误 | 看报错 |
+| 2 | 文件已同步，但重载接口失败 | 多半是旧二进制或 token 不一致；部署新二进制后 `systemctl restart aijobrisk-go` |
+| 4 | 防误删拒绝：新 `index.json` 文章数骤降 >50%，或不是合法 JSON | 确认是有意的大批撤稿后用 `--force` |
+
+安全措施：只对带 `.git/aijobrisk-blog-mirror` 标记的目录执行 `reset --hard`（防止误指到线上仓库抹掉改动）；
+调用重载接口时 `--noproxy '*'`（服务器设了 `http_proxy` 时 curl 会把 127.0.0.1 也送去代理）。

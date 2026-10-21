@@ -131,6 +131,7 @@ source_name / source_url(仅 B 类) / lang / status(draft|scheduled|published)
 6. **草稿与定时发布**:`status` + `published_at`,渲染时过滤未来时间;别把草稿 build 进去。
 7. **评论区**:建议**不做**(垃圾评论 + 审核成本);用**邮件订阅(newsletter)**替代,建立自有受众(不受算法波动)。
 8. **AI 生成内容合规**:若用 DeepSeek 起草,需人工审校署名,避免「无差别 AI 内容」打击 + 保持 E-E-A-T。
+   > **2026-10-21 决策变更**：改为无人值守定时发布（不再人工审校），以自动质量闸门替代——拦截编造外链、过量统计数字、拒答文本与无内链稿件，选题仍由人工维护。闸门拦不住「看似合理但错误」的论断，这是取舍。详见 `deployment.md` §八。
 9. **图片体量/性能**:hero 图压缩 + 尺寸规范 + lazyload + alt,否则拖慢 LCP。
 10. **站内搜索**:把文章纳入现有 `/search`,别让 blog 成信息孤岛。
 11. **部署一致性**:决定 blog 内容是**进 git**(有版本、无需额外 sync,推荐)还是像 `data/` 那样 rsync(gitignored)。新闻建议进 git。

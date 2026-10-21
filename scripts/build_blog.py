@@ -9,7 +9,9 @@ Pipeline (Python bakes, Go serves — same pattern as build_industry_ai_adoption
     aijobrisk-go/data/blog/index.json   metadata array (loaded into memory by Go)
     aijobrisk-go/data/blog/{slug}.html  pre-rendered body HTML (read per request)
 
-English only. Draft / future-dated posts are excluded from the build.
+English only. Drafts are excluded from the build. Future-dated (scheduled)
+posts ARE baked into index.json -- the Go server hides them until their
+published_at (UTC) arrives, so one bake + one deploy schedules a post.
 The related_slugs / related_sectors / related_countries keys are validated
 against the live Go data so the internal-link cards never dead-link.
 
@@ -28,7 +30,7 @@ import math
 import os
 import re
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 
 import yaml
 import markdown
@@ -119,13 +121,32 @@ def _load_json(name):
         return json.load(f)
 
 
+# data/ 不进 git（只有 data/blog/ 例外），所以 CI 上没有 occupations_v2.json。
+# 有完整数据时顺手把校验用的键集合快照到 data/blog/（进 git），CI 就读快照。
+# 快照只会在本机有完整数据时刷新；新职业上线后跑一次本地烘焙即可同步。
+VALID_KEYS_SNAPSHOT = os.path.join(OUT_DIR, "_valid_keys.json")
+
+
 def load_valid_keys():
-    occ = _load_json("occupations_v2.json").get("occupations", [])
+    try:
+        occ = _load_json("occupations_v2.json").get("occupations", [])
+        ind = _load_json("industries_v2.json")
+    except FileNotFoundError:
+        if not os.path.exists(VALID_KEYS_SNAPSHOT):
+            raise SystemExit("No occupations_v2.json and no %s -- run build_blog.py once "
+                             "on a machine that has the full data/ to create the snapshot."
+                             % VALID_KEYS_SNAPSHOT)
+        with open(VALID_KEYS_SNAPSHOT, encoding="utf-8") as f:
+            snap = json.load(f)
+        return set(snap["slugs"]), set(snap["countries"]), set(snap["sectors"])
     slugs = {o["slug"] for o in occ if o.get("slug")}
     countries = {o["country"] for o in occ if o.get("country")}
-    ind = _load_json("industries_v2.json")
     sect = ind.get("sectors", ind) if isinstance(ind, dict) else ind
     sectors = {s["id"] for s in sect if s.get("id")}
+    os.makedirs(OUT_DIR, exist_ok=True)
+    with open(VALID_KEYS_SNAPSHOT, "w", encoding="utf-8") as f:   # 排序保证 diff 稳定
+        json.dump({"slugs": sorted(slugs), "countries": sorted(countries),
+                   "sectors": sorted(sectors)}, f, ensure_ascii=False, indent=0)
     return slugs, countries, sectors
 
 
@@ -203,13 +224,13 @@ def process(path, keys, authors, seen, warns):
     pub = parse_date(fm["published_at"], "published_at", slug)
     upd = parse_date(fm["updated_at"], "updated_at", slug) if fm.get("updated_at") else pub
 
-    # skip drafts and scheduled (future) posts
+    # skip drafts only. Scheduled (future) posts are baked; Go hides them until
+    # their day (internal/data/blog.go), so they need no re-bake to go live.
     if status != "published":
         print("  skip (draft): %s" % slug)
         return None
-    if pub > date.today():
-        print("  skip (scheduled %s): %s" % (pub.isoformat(), slug))
-        return None
+    if pub > datetime.now(timezone.utc).date():
+        print("  scheduled %s: %s" % (pub.isoformat(), slug))
 
     if typ == "news" and not (fm.get("source_name") and fm.get("source_url")):
         raise ValueError("[%s] type:news requires source_name and source_url" % slug)
@@ -294,6 +315,9 @@ def main():
         json.dump({"posts": posts, "authors": authors}, f, ensure_ascii=False, indent=2)
 
     print("\nWrote %d published post(s) -> %s" % (len(posts), os.path.join(OUT_DIR, "index.json")))
+    today_utc = datetime.now(timezone.utc).date().isoformat()
+    n_sched = sum(1 for p in posts if p["published_at"] > today_utc)
+    print("  of which %d scheduled (hidden by the server until their UTC date)" % n_sched)
     for w in warns:
         print("  WARN " + w)
     for e in errors:
