@@ -1,0 +1,23 @@
+{{ define "content" -}}
+<div class="container ct-wrap" data-section="contact">
+  <h1>{{ .Tr "Contact us" }}</h1>
+  <p class="ct-lead">{{ .Tr "Questions, corrections or partnership enquiries? Email us and we'll get back to you." }}</p>
+
+  <div class="ct-card" data-section="contact-email">
+    <span class="ct-label">{{ .Tr "Email" }}</span>
+    <a class="ct-email" href="mailto:{{ .Email }}">{{ .Email }}</a>
+  </div>
+
+  <p class="ct-note">{{ .Tr "Found an error in our data? Tell us which page and what looks wrong — it helps us fix it faster." }}</p>
+</div>
+<style>
+  .ct-wrap { max-width: 640px; padding-top: 2.5rem; padding-bottom: 3.5rem; }
+  .ct-wrap h1 { margin-bottom: .5rem; }
+  .ct-lead { color: var(--text-muted, #6b7280); font-size: 1.05rem; margin: 0 0 1.5rem; }
+  .ct-card { display: flex; flex-direction: column; gap: .35rem; padding: 1.25rem 1.4rem;
+    border: 1px solid var(--line, #e5e7eb); border-radius: 14px; background: var(--surface, #fff); }
+  .ct-label { font-size: .85rem; font-weight: 600; color: var(--text-muted, #6b7280); }
+  .ct-email { font-size: 1.25rem; font-weight: 700; word-break: break-all; }
+  .ct-note { margin-top: 1.5rem; color: var(--text-muted, #6b7280); }
+</style>
+{{- end }}

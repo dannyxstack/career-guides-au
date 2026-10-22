@@ -153,6 +153,10 @@ FLAT = [
     # 页脚：资讯订阅 + 联系邮箱（订阅页本身只出英文，见 internal/web/subscribe.go）
     "Subscribe",
     "Contact us",
+    # 联系页 /contact（templates/contact.html）
+    "Questions, corrections or partnership enquiries? Email us and we'll get back to you.",
+    "Found an error in our data? Tell us which page and what looks wrong — it helps us fix it faster.",
+    "Email",
 ]
 
 
@@ -193,6 +197,32 @@ MANUAL = {
     "ja":    {"Subscribe": "購読する", "Contact us": "お問い合わせ"},
     "zh-CN": {"Subscribe": "订阅", "Contact us": "联系我们"},
 }
+
+# 联系页文案（人工译文，与 templates/contact.html 中的英文逐字对应）
+_CONTACT = {
+    "es": {
+        "Questions, corrections or partnership enquiries? Email us and we'll get back to you.": "¿Preguntas, correcciones o propuestas de colaboración? Escríbenos y te responderemos.",
+        "Found an error in our data? Tell us which page and what looks wrong — it helps us fix it faster.": "¿Has encontrado un error en nuestros datos? Indícanos la página y qué parece incorrecto; así podremos corregirlo antes.",
+        "Email": "Correo electrónico",
+    },
+    "fr": {
+        "Questions, corrections or partnership enquiries? Email us and we'll get back to you.": "Des questions, des corrections ou une proposition de partenariat ? Écrivez-nous et nous vous répondrons.",
+        "Found an error in our data? Tell us which page and what looks wrong — it helps us fix it faster.": "Vous avez repéré une erreur dans nos données ? Indiquez-nous la page et ce qui semble incorrect : cela nous aide à la corriger plus vite.",
+        "Email": "E-mail",
+    },
+    "ja": {
+        "Questions, corrections or partnership enquiries? Email us and we'll get back to you.": "ご質問、データの訂正、提携のご相談はメールでお寄せください。折り返しご連絡します。",
+        "Found an error in our data? Tell us which page and what looks wrong — it helps us fix it faster.": "データの誤りを見つけた場合は、該当ページと気になる点をお知らせください。修正が早くなります。",
+        "Email": "メール",
+    },
+    "zh-CN": {
+        "Questions, corrections or partnership enquiries? Email us and we'll get back to you.": "有问题、需要更正数据，或想洽谈合作？请给我们发邮件，我们会尽快回复。",
+        "Found an error in our data? Tell us which page and what looks wrong — it helps us fix it faster.": "发现数据有误？请告诉我们具体页面和哪里不对，这能帮助我们更快修正。",
+        "Email": "邮箱",
+    },
+}
+for _loc, _m in _CONTACT.items():
+    MANUAL.setdefault(_loc, {}).update(_m)
 
 
 def main():

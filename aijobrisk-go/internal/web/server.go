@@ -94,6 +94,11 @@ func Router(site string) http.Handler {
 				About(w, ctx)
 				return
 			}
+		case "contact":
+			if len(seg) == 1 {
+				Contact(w, ctx)
+				return
+			}
 		case "methodology":
 			if len(seg) == 1 {
 				Methodology(w, ctx)

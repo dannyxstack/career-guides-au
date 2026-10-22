@@ -82,6 +82,24 @@ func About(w http.ResponseWriter, ctx *Ctx) {
 	renderPage(w, "about.html", vm)
 }
 
+// ContactEmail 对外联系邮箱。收件在 Resend Inbox，新邮件推 Telegram（见 deployment.md §九）。
+const ContactEmail = "contact@aijobrisk.com"
+
+// ContactVM 联系页。
+type ContactVM struct {
+	*Ctx
+	Email string
+}
+
+// Contact /contact：只展示联系邮箱（mailto），不做表单。
+// 邮箱只出现在这一页而不是每页页脚，也减少被爬虫批量收集的暴露面——
+// 垃圾邮件会挤占 Resend 免费版收发共用的每日额度。
+func Contact(w http.ResponseWriter, ctx *Ctx) {
+	ctx.Title = ctx.Tr("Contact us") + " | " + SiteName
+	ctx.Description = ctx.Tr("Questions, corrections or partnership enquiries? Email us and we'll get back to you.")
+	renderPage(w, "contact.html", &ContactVM{Ctx: ctx, Email: ContactEmail})
+}
+
 // MethodologyVM 方法论页。
 type MethodologyVM struct {
 	*Ctx

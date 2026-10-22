@@ -16,7 +16,7 @@ var DataUpdated = "2026-07-16"
 var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "largest-workforce", "strongest-demand", "deepest-moat", "ai-proof-high-paying"}
 
 func pagePaths() []string {
-	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook", "/data"}
+	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook", "/data", "/contact"}
 	// /ai-job-loss-2030/{cc} 与 /career-outlook/{cc} 已并入各自 hub（客户端 #CC 切换），
 	// 旧 URL 301 到锚点，不再进 sitemap。
 	for _, cc := range data.COUNTRIES {
