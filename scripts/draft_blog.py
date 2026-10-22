@@ -100,8 +100,17 @@ def utc_today():
 GATE_MIN_WORDS = 600
 GATE_MAX_WORDS = 2500
 GATE_MAX_PERCENT_FIGURES = 8        # prompt 要求避免无法核实的精确统计
-GATE_BANNED = ("as an ai", "language model", "lorem ipsum", "[insert", "citation needed",
-               "todo:", "tbd", "i cannot", "i'm sorry")
+# 只匹配具体的拒答句式和占位符。不能放 "language model" / "as an ai" 这类词组——
+# 本站是 AI 主题，正文天然会写 "large language models"、"as an AI implementation lead"，
+# 曾因此把一个 prompt engineering 选题连拒 3 次（CI run 39775119267）。
+GATE_BANNED = (
+    # LLM 拒答 / 自我指涉
+    "as an ai language model", "as a language model", "as an ai assistant",
+    "i'm sorry, but i", "i am sorry, but i", "i cannot fulfill", "i can't fulfill",
+    "i cannot assist", "i can't assist", "i cannot help with that", "i can't help with that",
+    # 占位符
+    "lorem ipsum", "[insert", "citation needed", "todo:", "[tbd]", "(tbd)",
+)
 
 
 def quality_gate(d, typ, rel_slugs):
