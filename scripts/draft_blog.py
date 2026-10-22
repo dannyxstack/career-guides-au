@@ -218,7 +218,7 @@ def draft_one(topic, typ, notes, keys, authors, source_name="", source_url="",
     body = (d.get("body_markdown") or "").strip()
 
     os.makedirs(build_blog.CONTENT_DIR, exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
         f.write("---\n%s\n---\n\n%s%s\n" % (front, review_block, body))
 
     print("  draft: %s  publish_on=%s  (related slugs=%d sectors=%d cc=%d)"
@@ -292,7 +292,7 @@ EXIT_OK, EXIT_FAILED, EXIT_POOL_EXHAUSTED = 0, 1, 3
 
 
 def save_topic_state(state):
-    with open(TOPIC_STATE, "w", encoding="utf-8") as f:
+    with open(TOPIC_STATE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(state, f, ensure_ascii=False, indent=0, sort_keys=True)
 
 

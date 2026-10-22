@@ -108,7 +108,7 @@ def resolve_hero(meta):
         return  # 真实图存在，优先使用
     os.makedirs(STATIC_BLOG, exist_ok=True)
     tag = meta["tags"][0] if meta.get("tags") else "general"
-    with open(os.path.join(STATIC_BLOG, meta["slug"] + ".svg"), "w", encoding="utf-8") as f:
+    with open(os.path.join(STATIC_BLOG, meta["slug"] + ".svg"), "w", encoding="utf-8", newline="\n") as f:
         f.write(_hero_svg(meta["title"], tag))
     meta["hero_image"] = "/static/blog/" + meta["slug"] + ".svg"
     if not meta.get("hero_alt"):
@@ -144,7 +144,7 @@ def load_valid_keys():
     sect = ind.get("sectors", ind) if isinstance(ind, dict) else ind
     sectors = {s["id"] for s in sect if s.get("id")}
     os.makedirs(OUT_DIR, exist_ok=True)
-    with open(VALID_KEYS_SNAPSHOT, "w", encoding="utf-8") as f:   # 排序保证 diff 稳定
+    with open(VALID_KEYS_SNAPSHOT, "w", encoding="utf-8", newline="\n") as f:   # 排序保证 diff 稳定
         json.dump({"slugs": sorted(slugs), "countries": sorted(countries),
                    "sectors": sorted(sectors)}, f, ensure_ascii=False, indent=0)
     return slugs, countries, sectors
@@ -283,7 +283,7 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     if not os.path.isdir(CONTENT_DIR):
         print("No content dir (%s); writing empty index." % CONTENT_DIR)
-        with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as f:
+        with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8", newline="\n") as f:
             json.dump({"posts": []}, f, ensure_ascii=False, indent=2)
         return 0
 
@@ -304,14 +304,14 @@ def main():
             continue
         meta, body_html = r
         resolve_hero(meta)  # D：真实图优先，否则自动生成品牌 SVG 头图
-        with open(os.path.join(OUT_DIR, meta["slug"] + ".html"), "w", encoding="utf-8") as f:
+        with open(os.path.join(OUT_DIR, meta["slug"] + ".html"), "w", encoding="utf-8", newline="\n") as f:
             f.write(body_html)
         posts.append(meta)
         print("  ok: %s (%d words, %d min)" % (meta["slug"], meta["word_count"], meta["reading_min"]))
 
     # newest first
     posts.sort(key=lambda p: (p["published_at"], p["slug"]), reverse=True)
-    with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump({"posts": posts, "authors": authors}, f, ensure_ascii=False, indent=2)
 
     print("\nWrote %d published post(s) -> %s" % (len(posts), os.path.join(OUT_DIR, "index.json")))

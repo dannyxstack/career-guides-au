@@ -7,17 +7,19 @@
 # 队列满时这个 job 什么都不做、不产生 commit。
 #
 # 一次性配置（见 aijobrisk-go/deployment.md §八）：
-#   - Settings → Secrets → Actions：DEEPSEEK_API_KEY
+#   - Settings → Secrets and variables → Actions → **Secrets** 页签：DEEPSEEK_API_KEY
+#     （不是 Variables 页签，也不是某个 Environment 下的 secret——那两种这里都读不到）
 #   - main 若开了分支保护，需允许 github-actions[bot] 直接推送
 #
 # 失败即告警：起草失败（退出码 1）或选题池耗尽（退出码 3）时本 job 标红，
-# GitHub 会给仓库所有者发邮件。选题池耗尽时去 scripts/blog_topics.txt 补选题。
+# GitHub 会给仓库所有者发邮件。失败原因写进 annotation——公开仓库不登录也能看：
+#   GET https://api.github.com/repos/<owner>/<repo>/check-runs/<job_id>/annotations
 
 name: blog-autopublish
 
 on:
   schedule:
-    - cron: "17 2 * * *"   # 每天 02:17 UTC（避开整点的 Actions 拥堵）
+    - cron: "17 2 * * *"   # 每天 02:17 UTC（避开整点的 Actions 拥堵；实际可能延后数小时）
   workflow_dispatch:
     inputs:
       ensure_queue:
@@ -39,11 +41,22 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      # 先查 secret：拿不到就立刻失败，不再跑空烘焙、推空提交。
+      - name: Check DEEPSEEK_API_KEY secret
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          if [ -z "$DEEPSEEK_API_KEY" ]; then
+            echo "::error title=DEEPSEEK_API_KEY not available::Add it under Settings > Secrets and variables > Actions > Secrets tab (repository secret). A Variable, or a secret inside an Environment, is not visible to this job."
+            exit 1
+          fi
+          echo "secret present (${#DEEPSEEK_API_KEY} chars)"
+
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 1
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -61,10 +74,11 @@ jobs:
             --from-topics scripts/blog_topics.txt \
             --ensure-queue "${{ github.event.inputs.ensure_queue || '2' }}" \
             --cadence-days "${{ github.event.inputs.cadence_days || '7' }}" \
-            --model deepseek-chat
-          echo "rc=$?" >> "$GITHUB_OUTPUT"
+            --model deepseek-chat 2>&1 | tee "$RUNNER_TEMP/draft.log"
+          echo "rc=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
 
       # 即使部分失败也先把成功的稿子烘焙、提交，再在最后一步标红告警。
+      # 烘焙按 LF 写文件，与本地 Windows 烘焙逐字节一致：没有新稿时不会产生 diff。
       - name: Bake
         env:
           PYTHONIOENCODING: utf-8
@@ -76,7 +90,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add aijobrisk-go/content/blog aijobrisk-go/data/blog aijobrisk-go/static/blog scripts/.blog_topics_used.json
           if git diff --cached --quiet; then
-            echo "Nothing new -- queue already full."
+            echo "Nothing new -- queue already full or nothing drafted."
             exit 0
           fi
           git commit -m "content(blog): scheduled drafts $(date -u +%F) [bot]"
@@ -87,8 +101,11 @@ jobs:
       - name: Alert on failure
         if: steps.draft.outputs.rc != '0'
         run: |
-          case "${{ steps.draft.outputs.rc }}" in
-            3) echo "::error::Topic pool exhausted -- add topics to scripts/blog_topics.txt" ;;
-            *) echo "::error::draft_blog exited ${{ steps.draft.outputs.rc }} (generation failures; will retry tomorrow)" ;;
+          rc="${{ steps.draft.outputs.rc }}"
+          # 把最后几条失败原因放进 annotation（换行/百分号按 workflow 命令规则转义）。
+          reason="$(grep -E 'DeepSeek error|rejected by quality gate|FAILED|ERROR' "$RUNNER_TEMP/draft.log" | tail -4 | sed 's/%/%25/g' | tr '\n' ' ' | cut -c1-900)"
+          case "$rc" in
+            3) echo "::error title=Topic pool exhausted::Add topics to scripts/blog_topics.txt. $reason" ;;
+            *) echo "::error title=draft_blog exited $rc (will retry next run)::$reason" ;;
           esac
           exit 1
