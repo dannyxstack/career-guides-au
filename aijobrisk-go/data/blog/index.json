@@ -1,6 +1,130 @@
 {
   "posts": [
     {
+      "slug": "which-industries-are-hiring-more-because-of-ai-not-less",
+      "title": "Which Industries Are Hiring More Because of AI, Not Less",
+      "dek": "AI is reshaping demand for labour rather than simply erasing it, and some sectors are visibly adding roles as others restructure.",
+      "type": "post",
+      "published_at": "2026-11-05",
+      "updated_at": "2026-11-05",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/which-industries-are-hiring-more-because-of-ai-not-less.svg",
+      "hero_alt": "Which Industries Are Hiring More Because of AI, Not Less",
+      "hero_credit": "",
+      "tags": [
+        "hiring",
+        "augmentation",
+        "new-roles",
+        "research"
+      ],
+      "related_slugs": [
+        "data-scientist",
+        "software-developer",
+        "financial-analyst",
+        "registered-nurse",
+        "customer-service-representative"
+      ],
+      "related_sectors": [
+        "information",
+        "professional",
+        "finance",
+        "health",
+        "education"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "IN",
+        "AU"
+      ],
+      "reading_min": 5,
+      "word_count": 885,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-question-is-narrower-than-it-looks\">The question is narrower than it looks</a></li>\n<li><a href=\"#where-ai-is-visibly-adding-roles\">Where AI is visibly adding roles</a><ul>\n<li><a href=\"#technology-and-data-infrastructure\">Technology and data infrastructure</a></li>\n<li><a href=\"#professional-and-business-services\">Professional and business services</a></li>\n<li><a href=\"#healthcare-and-life-sciences\">Healthcare and life sciences</a></li>\n<li><a href=\"#financial-services\">Financial services</a></li>\n<li><a href=\"#education-and-training\">Education and training</a></li>\n</ul>\n</li>\n<li><a href=\"#the-other-side-industries-hiring-differently-or-less\">The other side: industries hiring differently or less</a></li>\n<li><a href=\"#mapping-this-onto-ai-task-exposure\">Mapping this onto AI task-exposure</a></li>\n<li><a href=\"#what-to-watch-rather-than-what-to-believe\">What to watch rather than what to believe</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "from-model-to-product-the-roles-bridging-ai-and-business",
+      "title": "From model to product: the roles bridging AI and business",
+      "dek": "As generative AI moves from demos into production, a cluster of translation roles is emerging to connect model capability with business reality.",
+      "type": "post",
+      "published_at": "2026-10-29",
+      "updated_at": "2026-10-29",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/from-model-to-product-the-roles-bridging-ai-and-business.svg",
+      "hero_alt": "From model to product: the roles bridging AI and business",
+      "hero_credit": "",
+      "tags": [
+        "new-roles",
+        "augmentation",
+        "hiring",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "business-analyst",
+        "compliance-officer",
+        "data-analyst"
+      ],
+      "related_sectors": [
+        "information",
+        "professional",
+        "management",
+        "finance"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "CA",
+        "AU"
+      ],
+      "reading_min": 5,
+      "word_count": 940,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-gap-between-a-working-model-and-a-working-product\">The gap between a working model and a working product</a></li>\n<li><a href=\"#what-these-bridging-roles-actually-do\">What these bridging roles actually do</a><ul>\n<li><a href=\"#ai-product-managers\">AI product managers</a></li>\n<li><a href=\"#applied-ai-and-solutions-engineers\">Applied AI and solutions engineers</a></li>\n<li><a href=\"#domain-translators-and-ai-literate-specialists\">Domain translators and AI-literate specialists</a></li>\n<li><a href=\"#governance-evaluation-and-assurance-roles\">Governance, evaluation and assurance roles</a></li>\n<li><a href=\"#enablement-and-change-roles\">Enablement and change roles</a></li>\n</ul>\n</li>\n<li><a href=\"#why-these-roles-are-appearing-now\">Why these roles are appearing now</a></li>\n<li><a href=\"#how-this-maps-onto-ai-task-exposure\">How this maps onto AI task exposure</a></li>\n<li><a href=\"#what-this-means-for-people-and-employers\">What this means for people and employers</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
+      "slug": "ai-auditing-and-safety-the-compliance-jobs-the-ai-boom-is-creating",
+      "title": "AI auditing and safety: the compliance jobs the AI boom is creating",
+      "dek": "As AI systems move into regulated workflows, a new layer of auditing, model-risk and safety work is emerging — and it maps unevenly onto existing occupations.",
+      "type": "post",
+      "published_at": "2026-10-22",
+      "updated_at": "2026-10-22",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/ai-auditing-and-safety-the-compliance-jobs-the-ai-boom-is-creating.svg",
+      "hero_alt": "AI auditing and safety: the compliance jobs the AI boom is creating",
+      "hero_credit": "",
+      "tags": [
+        "new-roles",
+        "research",
+        "augmentation",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "compliance-officer",
+        "accountant",
+        "software-developer"
+      ],
+      "related_sectors": [
+        "finance",
+        "professional",
+        "information",
+        "government"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "FR",
+        "SG"
+      ],
+      "reading_min": 5,
+      "word_count": 978,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#a-new-layer-of-work-around-the-model\">A new layer of work around the model</a></li>\n<li><a href=\"#why-the-demand-is-structural-not-a-fad\">Why the demand is structural, not a fad</a></li>\n<li><a href=\"#who-actually-does-this-work\">Who actually does this work</a><ul>\n<li><a href=\"#adjacent-occupations-moving-sideways\">Adjacent occupations moving sideways</a></li>\n<li><a href=\"#genuinely-new-titles\">Genuinely new titles</a></li>\n</ul>\n</li>\n<li><a href=\"#the-task-exposure-lens\">The task-exposure lens</a></li>\n<li><a href=\"#what-this-means-for-people-and-employers\">What this means for people and employers</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "what-an-ai-implementation-lead-does-and-how-to-become-one",
       "title": "What an AI Implementation Lead Does and How to Become One",
       "dek": "Discover the responsibilities, required skills, and career path to becoming an AI implementation lead, a role at the heart of AI adoption.",
