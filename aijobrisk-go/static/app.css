@@ -194,6 +194,10 @@ h1, h2, h3 { color: var(--text-strong); }
 .bl-source { font-size: 0.9rem; color: var(--text-muted); border-top: 1px solid var(--line); padding-top: 14px; margin-top: 24px; }
 .bl-related { border: 1px solid var(--line); border-radius: 16px; padding: 18px; background: var(--surface); position: sticky; top: 20px; }
 .bl-related h2 { font-size: 1rem; margin: 0 0 12px; }
+.bl-subscribe { margin: 32px 0 0; padding: 16px 18px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); line-height: 1.6; }
+.bl-subscribe a { font-weight: 600; white-space: nowrap; }
+.bl-subcta { margin: -8px 0 18px; }
+.bl-subcta a { font-weight: 600; }
 .bl-rgroup { margin: 0 0 14px; }
 .bl-rlab { font-size: 0.72rem; letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted); font-weight: 700; }
 .bl-rgroup ul { list-style: none; margin: 6px 0 0; padding: 0; }

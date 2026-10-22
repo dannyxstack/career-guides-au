@@ -76,6 +76,16 @@ rsync -avz --delete aijobrisk-go/data aijobrisk-go/templates aijobrisk-go/static
 | `AIJOBRISK_RELOAD_TOKEN` | — | 博客热重载接口 `POST /internal/reload-blog` 的 token（≥32 字符）；不设则接口整体 404。仅接受本机直连，经 nginx/CF 转发的请求一律拒绝。见 §八 |
 | `AIJOBRISK_BLOG_DIR` | `data/blog` | 博客数据目录。线上指向 `ops/blog-pull.sh` 维护的独立镜像，**不与代码目录共用** |
 | `AIJOBRISK_BLOG_STATIC_DIR` | `static/blog` | 博客头图目录（同上，指向镜像） |
+| **资讯订阅（可选）** | | 不配则订阅页显示「暂不可用」，见 §九 |
+| `RESEND_API_KEY` | — | 发验证码、写联系人 |
+| `NEWSLETTER_SECRET` | — | 验证码 HMAC 密钥（≥32 字符）；换密钥会让未用的码失效 |
+| `NEWSLETTER_FROM` | `AI Job Risk <noreply@aijobrisk.com>` | 验证码邮件发件人（域名须已在 Resend 验证） |
+| `NEWSLETTER_REPLY_TO` | `contact@aijobrisk.com` | 读者回信落到的收件箱 |
+| `RESEND_SEGMENT_ID` | — | 可选：订阅者同时加入的分组 |
+| `NEWSLETTER_DAILY_CAP` | `60` | 24 小时最多发出的验证码数（保护 Resend 免费版每天 100 封的共享额度） |
+| `TURNSTILE_SITE_KEY` / `TURNSTILE_SECRET` | — | 订阅页人机验证，**两个都设才启用**；`TURNSTILE_SECRET` 未设时回退 `POLLS_TURNSTILE_SECRET` |
+| `RESEND_WEBHOOK_SECRET` | — | Resend 收件 webhook 签名密钥（`whsec_` 开头） |
+| `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` | — | 新邮件 Telegram 提醒；与上一项缺一则 `/hooks/resend` 返回 404 |
 | `AIJOBRISK_ENV` | — | 指向 `.env` 文件路径（否则自动找 `.env`/`../.env`/`../../.env`） |
 
 `.env` 示例（放 `/opt/aijobrisk-go/.env`，`chmod 600`）：
@@ -288,6 +298,66 @@ Go（internal/data/blog.go）
 当前的缓解：选题由人工把关；低频（每周 1 篇，不是批量灌）；质量闸门拦截编造外链、过量统计数字、
 拒答文本和无内链的稿子；撤稿 10 分钟内生效。**闸门拦不住「看起来合理但错误」的论断**——
 这是去掉人工审稿换来的代价。
+
+## 九、资讯订阅与收件提醒（只用 Resend）
+
+> 精简版：订阅验证码、收信、查看与回复全部在 Resend；新邮件推送到 Telegram。
+> **不用数据库**：验证码由 HMAC 推导（无状态），订阅者只存在 Resend 联系人里。
+> 任一依赖未配置时对应功能关闭（订阅页显示「暂不可用」、webhook 404），其余页面不受影响。
+
+### 9.1 功能与入口
+
+| 功能 | 入口 | 实现 |
+|---|---|---|
+| 资讯订阅 | `/subscribe`（页脚、博客列表页与文章页有入口） | 填邮箱 → Resend 发 6 位码（10 分钟有效）→ 填码 → 写入 Resend 联系人 |
+| 联系 | 页脚 `mailto:contact@aijobrisk.com` | 不做表单 |
+| 收信与回复 | Resend 后台 → Inboxes → `contact@aijobrisk.com` | 回复从 contact@ 发出，对方那边按会话归类 |
+| 新邮件提醒 | Telegram | Resend webhook `inbox.email.received` → `POST /hooks/resend` → 校验签名 → Telegram（只推发件人、主题、附件名，不推正文；进垃圾箱的不推） |
+
+订阅页**只出英文、整页 noindex、不进 sitemap**（薄页面被收录只会拉低全站质量评分）。
+
+**防滥用**（发码接口等于「任何人都能触发发邮件」）：Turnstile 人机验证；同一邮箱 60 秒冷却、每天最多 5 封；
+同一 IP 每小时最多 5 次；全站 24 小时最多 `NEWSLETTER_DAILY_CAP` 封（默认 60，给 Resend 免费版每天 100 封的
+收件与回信留余量）；试码每个邮箱每 10 分钟最多 5 次。几个限流器「全过才记」，被拦下的请求不消耗其它额度。
+
+### 9.2 一次性配置
+
+1. **Resend → Domains**：添加 `aijobrisk.com`，把它给出的 DKIM、发信子域的 SPF/MX 等记录加到 Cloudflare，
+   **全部设为「仅 DNS」（灰色云）**。
+2. **Resend → 开启 Receiving**：根域名加 MX 指向 Resend。`aijobrisk.com` 目前没有任何 MX，不会影响现有邮件。
+3. **Resend → Inboxes**：新建 `contact@aijobrisk.com`。
+4. **Resend → API Keys**：新建 key（需能发信与写联系人）→ `RESEND_API_KEY`。
+5. （可选）**Resend → Audience / Segments**：建一个 Newsletter 分组 → `RESEND_SEGMENT_ID`，以后群发选它。
+6. **Resend → Webhooks**：端点 `https://aijobrisk.com/hooks/resend`，事件勾 `inbox.email.received`，
+   复制签名密钥（`whsec_` 开头）→ `RESEND_WEBHOOK_SECRET`。
+7. **Telegram**：找 @BotFather 发 `/newbot` 拿到 token → `TELEGRAM_BOT_TOKEN`；先给你的 bot 发一条消息，
+   再在自己的浏览器打开 `https://api.telegram.org/bot<TOKEN>/getUpdates`，取 `chat.id` → `TELEGRAM_CHAT_ID`。
+8. **Cloudflare → Turnstile**：添加站点 `aijobrisk.com`，拿到站点 key 与密钥 → `TURNSTILE_SITE_KEY` / `TURNSTILE_SECRET`。
+9. **DMARC**：TXT 记录 `_dmarc` = `v=DMARC1; p=none; rua=mailto:contact@aijobrisk.com`，观察几周再收紧到 `quarantine`。
+10. **验证码密钥**：服务器上生成后写入 `NEWSLETTER_SECRET`：
+    ```bash
+    head -c 32 /dev/urandom | od -An -tx1 | tr -d ' \n'; echo
+    ```
+11. 以上变量写进服务实际读取的 `.env`，部署新二进制并重启。启动日志应为
+    `[newsletter] signup=true turnstile=true telegram-alerts=true daily-cap=60`。
+12. **页脚译文**在 `data/translations-v2/`（「订阅 / 联系我们」等），需要 `upload-data.sh` 同步一次 `data/`。
+
+⚠️ **Cloudflare 可能拦截 Resend 的 webhook**：开了 Bot Fight Mode 或较严的 WAF 时，Resend 的服务器回调会被挑战，
+表现为收到邮件却没有 Telegram 提醒。此时在 WAF 加一条规则：路径等于 `/hooks/resend` 时跳过（Skip）。
+签名校验在应用层做，跳过 WAF 不降低安全性。
+
+### 9.3 上线验证
+
+1. 用自己的邮箱在 `/subscribe` 订阅一次 → 收到验证码 → 填码 → Resend 后台 Contacts 里出现该邮箱。
+2. 用另一个邮箱给 `contact@aijobrisk.com` 发信 → Telegram 收到提醒 → 在 Resend Inboxes 里回复 → 对方收到、发件人是 contact@。
+
+### 9.4 已知限制
+
+- **群发资讯目前要手动**：在 Resend 后台 Broadcasts 里选分组发送（Resend 会自动附退订链接）。
+  联系人 1,000 以内免费，超过后 Marketing 套餐 $40/月起。
+- **额度共用**：Resend 免费版每天 100 封 / 每月 3,000 封，由验证码、**所有收件（含垃圾邮件）**和回信共用。
+  根域名 MX 指向 Resend 后，发往 `@aijobrisk.com` 任意地址的邮件都会进来。额度紧张时升 Pro（$20/月，不限每日）。
+- 开通后需在 Resend 账号里确认：免费版能否用 Inboxes、Inbox 会话保留多久（数据保留期是 30 天）、能否拒收不存在的地址。
 
 ## 资源小结
 

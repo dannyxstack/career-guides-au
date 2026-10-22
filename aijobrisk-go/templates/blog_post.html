@@ -36,6 +36,11 @@
       {{ if eq .Post.Type "news" }}
       <p class="bl-source">Source: <a href="{{ .Post.SourceURL }}" rel="nofollow noopener" target="_blank">{{ .Post.SourceName }}</a></p>
       {{ end }}
+
+      <aside class="bl-subscribe" data-section="blog-subscribe">
+        <strong>Liked this?</strong> Get new analysis on AI and jobs by email &mdash; no spam, unsubscribe anytime.
+        <a href="/subscribe">Subscribe &rarr;</a>
+      </aside>
     </div>
 
     {{ if or .RelJobs .RelSectors .RelCountries }}

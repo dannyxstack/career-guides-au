@@ -150,6 +150,9 @@ FLAT = [
     "Jobs that AI will replace",
     "Jobs AI can't replace",
     "How many jobs will AI replace by 2030?",
+    # 页脚：资讯订阅 + 联系邮箱（订阅页本身只出英文，见 internal/web/subscribe.go）
+    "Subscribe",
+    "Contact us",
 ]
 
 
@@ -182,6 +185,16 @@ def az_translate(texts, loc):
     return az.translate(texts, loc, src_lang="en", )  # 见下方 monkeypatch 说明
 
 
+# 人工译文：界面短词机翻容易歧义（"Contact" 可能成「联系人」），直接给定，且不依赖 Azure。
+# 命中这里的条目不送 Azure；其余照旧机翻。
+MANUAL = {
+    "es":    {"Subscribe": "Suscribirse", "Contact us": "Contáctanos"},
+    "fr":    {"Subscribe": "S'abonner", "Contact us": "Nous contacter"},
+    "ja":    {"Subscribe": "購読する", "Contact us": "お問い合わせ"},
+    "zh-CN": {"Subscribe": "订阅", "Contact us": "联系我们"},
+}
+
+
 def main():
     cnames = load_country_names()
     # 给 azure 模块补 fr / zh-CN 目标映射
@@ -204,19 +217,26 @@ def main():
 
         # 已存在译文则跳过（幂等）
         todo = {k: v for k, v in pairs.items() if not tm.get(k)}
-        print(f"[{loc}] 待翻 {len(todo)}/{len(pairs)}")
-        if not todo:
+        manual = MANUAL.get(loc, {})
+        out = {k: manual[k] for k in todo if k in manual}
+        todo = {k: v for k, v in todo.items() if k not in manual}
+        print(f"[{loc}] 待翻 {len(todo)}/{len(pairs)}（人工译文 {len(out)} 条）")
+        if not todo and not out:
             continue
 
         keys = list(todo.keys())
         srcs = [todo[k] for k in keys]
-        out = {}
         B = 25
-        for i in range(0, len(srcs), B):
-            res = az.translate(srcs[i:i+B], loc, src_lang="en")
-            for k, t in zip(keys[i:i+B], res):
-                out[k] = t
-            print(f"  {min(i+B,len(srcs))}/{len(srcs)}")
+        try:
+            for i in range(0, len(srcs), B):
+                res = az.translate(srcs[i:i+B], loc, src_lang="en")
+                for k, t in zip(keys[i:i+B], res):
+                    out[k] = t
+                print(f"  {min(i+B,len(srcs))}/{len(srcs)}")
+        except Exception as e:  # 机翻失败不连累其它语种，也不丢已拿到的人工译文
+            print(f"  [{loc}] Azure 机翻失败，本语种跳过机翻：{str(e)[:120]}")
+        if not out:
+            continue
 
         # 合并写回分片
         shard_new = {}

@@ -1,0 +1,75 @@
+{{ define "content" -}}
+<div class="container sub-wrap" data-section="subscribe">
+  <header class="sub-head">
+    <h1>Get new analysis by email</h1>
+    <p class="sub-lead">Evidence-led pieces on AI and jobs &mdash; layoffs, automation and the occupations that hold up &mdash; when we publish them. No spam; unsubscribe anytime with one click.</p>
+  </header>
+
+  {{ if not .Enabled }}
+    <p class="sub-msg sub-warn" role="status">Subscriptions are temporarily unavailable. Please check back soon.</p>
+
+  {{ else if eq .Step "done" }}
+    <div class="sub-card sub-done" data-section="subscribe-done" role="status">
+      <h2>You're subscribed</h2>
+      <p>Thanks &mdash; <strong>{{ .Email }}</strong> is confirmed. Every email has a one-click unsubscribe link.</p>
+      <p><a href="/blog">Read the latest analysis &rarr;</a></p>
+    </div>
+
+  {{ else if eq .Step "code" }}
+    <form class="sub-card" method="post" action="/subscribe" data-section="subscribe-code">
+      <h2>Check your inbox</h2>
+      <p>We sent a 6-digit code to <strong>{{ .Email }}</strong>. It is valid for 10 minutes.</p>
+      {{ if .Error }}<p class="sub-msg sub-err" role="alert">{{ .Error }}</p>{{ end }}
+      <input type="hidden" name="step" value="verify" />
+      <input type="hidden" name="email" value="{{ .Email }}" />
+      <label for="sub-code">Verification code</label>
+      <input id="sub-code" class="sub-input sub-code" name="code" type="text" inputmode="numeric" pattern="[0-9]{6}"
+             maxlength="6" autocomplete="one-time-code" required autofocus />
+      <button class="sub-btn" type="submit">Confirm subscription</button>
+      <p class="sub-small">Didn't get it? Check spam, or <a href="/subscribe">start over</a> to request a new code.</p>
+    </form>
+
+  {{ else }}
+    <form class="sub-card" method="post" action="/subscribe" data-section="subscribe-form">
+      {{ if .Error }}<p class="sub-msg sub-err" role="alert">{{ .Error }}</p>{{ end }}
+      <input type="hidden" name="step" value="start" />
+      <label for="sub-email">Email address</label>
+      <input id="sub-email" class="sub-input" name="email" type="email" autocomplete="email" maxlength="254"
+             value="{{ .Email }}" required />
+      {{ if .SiteKey }}<div class="cf-turnstile" data-sitekey="{{ .SiteKey }}"></div>{{ end }}
+      <button class="sub-btn" type="submit">Send verification code</button>
+    </form>
+  {{ end }}
+
+  <section class="sub-privacy" data-section="subscribe-privacy">
+    <h2>Privacy</h2>
+    <p>We collect only your email address, to send you our updates. It is stored with our email provider,
+      <a href="https://resend.com/legal/privacy-policy" rel="noopener">Resend</a>, and is not sold or shared with anyone else.
+      You can unsubscribe from any email, or ask us to delete your address by writing to
+      <a href="mailto:contact@aijobrisk.com">contact@aijobrisk.com</a>.</p>
+  </section>
+</div>
+{{ if and .Enabled .SiteKey }}<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>{{ end }}
+<style>
+  .sub-wrap { max-width: 560px; padding-top: 2rem; padding-bottom: 3rem; }
+  .sub-head h1 { margin-bottom: .5rem; }
+  .sub-lead { color: var(--text-muted, #6b7280); margin-bottom: 1.5rem; }
+  .sub-card { border: 1px solid var(--border, #e5e7eb); border-radius: 12px; padding: 1.25rem 1.25rem 1rem;
+    background: var(--surface, #fff); display: flex; flex-direction: column; gap: .6rem; }
+  .sub-card h2 { margin: 0; font-size: 1.15rem; }
+  .sub-card p { margin: 0; }
+  .sub-card label { font-weight: 600; font-size: .9rem; }
+  .sub-input { padding: .6rem .75rem; border: 1px solid var(--border, #d1d5db); border-radius: 8px;
+    font: inherit; background: var(--bg, #fff); color: inherit; }
+  .sub-code { letter-spacing: .4em; font-size: 1.4rem; max-width: 12rem; }
+  .sub-btn { align-self: flex-start; padding: .6rem 1.1rem; border: 0; border-radius: 8px; cursor: pointer;
+    font: inherit; font-weight: 600; color: #fff; background: var(--brand, #6d28d9); }
+  .sub-btn:hover { filter: brightness(1.08); }
+  .sub-msg { padding: .55rem .75rem; border-radius: 8px; font-size: .92rem; }
+  .sub-err { background: #fef2f2; color: #991b1b; }
+  .sub-warn { background: #fffbeb; color: #92400e; }
+  .sub-small { font-size: .85rem; color: var(--text-muted, #6b7280); }
+  .sub-privacy { margin-top: 2rem; font-size: .88rem; color: var(--text-muted, #6b7280); }
+  .sub-privacy h2 { font-size: 1rem; margin-bottom: .3rem; }
+</style>
+{{- end }}

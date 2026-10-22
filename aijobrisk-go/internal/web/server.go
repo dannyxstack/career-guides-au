@@ -140,6 +140,16 @@ func Router(site string) http.Handler {
 				Insights(w, ctx)
 				return
 			}
+		case "subscribe":
+			// 订阅页与博客一样只出英文：带语言前缀 301 回 /subscribe。
+			if ctx.Loc != "en" {
+				http.Redirect(w, r, ctx.Bare+ctx.Query, http.StatusMovedPermanently)
+				return
+			}
+			if len(seg) == 1 {
+				Subscribe(w, r, ctx)
+				return
+			}
 		case "blog":
 			// blog 仅英文：带语言前缀（ctx.Loc != en）301 回英文对应页，避免半英文重复页。
 			if ctx.Loc != "en" {

@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"aijobrisk/internal/data"
+	"aijobrisk/internal/newsletter"
 	"aijobrisk/internal/polls"
 	"aijobrisk/internal/pollsapi"
 	"aijobrisk/internal/web"
@@ -43,6 +44,7 @@ func main() {
 	// 投票 API 与主站同端口同源（DB 懒连接：MySQL 挂了只影响投票，页面照常）。
 	pollsapi.LoadDotEnv()
 	pollsapi.ConfigureFromEnv()
+	newsletter.Configure()
 	// AIJOBRISK_BLOG_DIR 可能只写在 .env 里，而上面 data.Load 时 .env 还没读——这里补一次。
 	// 不把 LoadDotEnv 整体前移：线上 .env 里可能留着旧的 AIJOBRISK_DATA 等路径，
 	// 它们现在被静默忽略、靠默认值运行，前移会让它们突然生效。
@@ -74,6 +76,9 @@ func main() {
 	// 投票 API（同源 /api/*）
 	pollsapi.Register(mux)
 
+	// Resend 收件 webhook → Telegram 提醒（未配签名密钥或 Telegram 时 404）
+	mux.HandleFunc("/hooks/resend", newsletter.WebhookHandler)
+
 	// 博客热重载（仅本机 + token；未配 AIJOBRISK_RELOAD_TOKEN 时整个接口 404）
 	mux.HandleFunc("/internal/reload-blog", web.ReloadBlogHandler)
 
@@ -84,6 +89,7 @@ func main() {
 	bs := data.BlogStatsNow()
 	log.Printf("[blog] %d posts: %d visible, %d scheduled (next %q); dir=%s static=%s reload-endpoint=%v",
 		bs.Total, bs.Visible, bs.Scheduled, bs.Next, data.BlogDir(), blogStatic, web.ReloadEnabled())
+	log.Printf("[newsletter] %s", newsletter.Status())
 	log.Printf("[serve] aijobrisk-go on http://%s (site=%s)", addr, site)
 	srv := &http.Server{Addr: addr, Handler: mux, ReadHeaderTimeout: 10 * time.Second}
 	log.Fatal(srv.ListenAndServe())

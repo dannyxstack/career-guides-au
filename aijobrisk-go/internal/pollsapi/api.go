@@ -233,6 +233,9 @@ func clientIP(r *http.Request) string {
 	return r.RemoteAddr
 }
 
+// ClientIP 导出给其它模块（资讯订阅的限流）复用同一套真实 IP 解析，见 clientIP。
+func ClientIP(r *http.Request) string { return clientIP(r) }
+
 // parseIP 去空白并校验合法性，非 IP 返回空串。
 func parseIP(s string) string {
 	s = strings.TrimSpace(s)
