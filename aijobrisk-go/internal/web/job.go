@@ -139,14 +139,10 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	for i, o := range group.Countries {
 		countries[i] = data.OccFull(o)
 	}
-	active := countries[0]
-	if country != "" {
-		for _, o := range countries {
-			if o.Country == country {
-				active = o
-				break
-			}
-		}
+	active, ok := resolveJobCountry(countries, country)
+	if !ok {
+		notFound(w, ctx)
+		return
 	}
 	cc := active.Country
 	cur := active.Currency
@@ -454,14 +450,32 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	renderPage(w, "job.html", vm)
 }
 
+// resolveJobCountry 为全球页选择代表职业，为国家页要求 slug×country 必须真实存在。
+// 过去找不到国家时会静默使用第一个国家，却给任意尾段输出 200+self-canonical，
+// 形成无限重复 URL；无效组合现在由调用方返回真正的 404。
+func resolveJobCountry(countries []*model.Occ, country string) (*model.Occ, bool) {
+	if len(countries) == 0 {
+		return nil, false
+	}
+	if country == "" {
+		return countries[0], true
+	}
+	for _, o := range countries {
+		if o.Country == country {
+			return o, true
+		}
+	}
+	return nil, false
+}
+
 // outlookChartVM 从业人数预估折线图视图模型（历史实线 + 预测虚线，JS 端可切换绝对/指数）。
 type outlookChartVM struct {
-	SourceLabel string        // 数据来源（专有名词，不翻译）
-	IsGroup     bool          // ISCO 2位大组共享曲线（需注明非本职业单独测算）
-	GrowthLabel string        // 头条增长率，如 "+5.5%"
-	YearFrom    int           // 展示窗起始年
-	YearTo      int           // 展示窗结束年
-	DataJSON    template.JS   // {"pts":[[year,value,isProjected],...],"base":基准年}
+	SourceLabel string      // 数据来源（专有名词，不翻译）
+	IsGroup     bool        // ISCO 2位大组共享曲线（需注明非本职业单独测算）
+	GrowthLabel string      // 头条增长率，如 "+5.5%"
+	YearFrom    int         // 展示窗起始年
+	YearTo      int         // 展示窗结束年
+	DataJSON    template.JS // {"pts":[[year,value,isProjected],...],"base":基准年}
 }
 
 // buildOutlookChart 依"过去5+未来5"目标窗裁剪序列；窗内无未来点则前扩纳入最近的未来锚点。
@@ -535,13 +549,13 @@ func buildOutlookChart(o *model.Outlook, ctx *Ctx) *outlookChartVM {
 
 // salaryChartVM 历年薪资 + 5年预测折线图（历史实线 + 预测虚线；名义本币）。
 type salaryChartVM struct {
-	Currency    string      // ISO 币种码（用于前端 Intl 货币格式化）
-	Measure     string      // median / average（英文母本，模板 .Tr）
-	Period      string      // monthly
-	GrowthLabel string      // 预测名义年增速，如 "+2.7%/yr"
+	Currency    string // ISO 币种码（用于前端 Intl 货币格式化）
+	Measure     string // median / average（英文母本，模板 .Tr）
+	Period      string // monthly
+	GrowthLabel string // 预测名义年增速，如 "+2.7%/yr"
 	YearFrom    int
 	YearTo      int
-	DataJSON    template.JS  // {"pts":[[year,value,isProjected],...]}
+	DataJSON    template.JS // {"pts":[[year,value,isProjected],...]}
 }
 
 // buildSalaryChart 历史取最近 5 年 + 预测点全保留。

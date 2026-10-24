@@ -47,6 +47,9 @@ VALID_STATUS = {"draft", "published"}
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?(.*)$", re.S)
 WORDS_PER_MIN = 200
+PUBLISHED_BANNED = (
+    "lorem ipsum", "[insert", "[verify", "citation needed", "todo:", "[tbd]", "(tbd)",
+)
 
 STATIC_BLOG = os.path.join(GO, "static", "blog")
 # 自动头图配色（主标签 -> 渐变起止色），对齐全站风险色语义。
@@ -229,6 +232,12 @@ def process(path, keys, authors, seen, warns):
     if status != "published":
         print("  skip (draft): %s" % slug)
         return None
+
+    searchable = "\n".join((str(fm.get("title") or ""), str(fm.get("dek") or ""), body_md)).lower()
+    banned = [marker for marker in PUBLISHED_BANNED if marker in searchable]
+    if banned:
+        raise ValueError("[%s] published content contains placeholder text: %s"
+                         % (slug, ", ".join(banned)))
     if pub > datetime.now(timezone.utc).date():
         print("  scheduled %s: %s" % (pub.isoformat(), slug))
 

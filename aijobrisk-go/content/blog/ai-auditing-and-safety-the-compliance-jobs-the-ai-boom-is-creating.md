@@ -47,7 +47,7 @@ What makes this wave distinctive is that much of it is *about* AI rather than *d
 
 Three pressures keep this work in demand.
 
-First, **regulation is arriving**. The EU AI Act sets obligations for high-risk systems that include risk management, technical documentation, logging and human oversight. Other jurisdictions are moving at different speeds and with different instruments, but the direction is consistent: more documented expectations for systems that affect people. [VERIFY current implementation timelines and national variations]
+First, **regulation is arriving**. The EU AI Act establishes obligations for high-risk systems that include risk management, technical documentation, logging and human oversight. Implementation timing and national enforcement vary, so organisations need jurisdiction-specific legal advice rather than assuming one global timetable.
 
 Second, **procurement**. Enterprises buying AI tools increasingly ask vendors for evidence of testing, bias evaluation and incident handling. A supplier that cannot produce documentation becomes harder to buy from. Compliance becomes commercial.
 
@@ -94,5 +94,3 @@ For individuals in adjacent roles, the transferable assets are concrete: evidenc
 ## Takeaway
 
 The AI boom is creating compliance, auditing and safety work — but mostly by **extending existing assurance occupations into a new object of scrutiny**, not by inventing a profession from nothing. Task-level exposure suggests these roles will be reshaped by AI tools rather than replaced by them, because the core of the job is judgment under accountability. The people best placed to fill them are those who already know how to test a claim, document a control and stand behind a conclusion.
-
-[VERIFY] Specific figures on hiring volumes, salary premiums and the number of AI auditing roles are deliberately omitted here; attach sourced numbers before publication.

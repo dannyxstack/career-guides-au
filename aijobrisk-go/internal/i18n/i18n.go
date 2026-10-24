@@ -33,14 +33,14 @@ func IsDisplay(x string) bool { _, ok := codeSet[x]; return ok }
 
 // indexableDisplay 翻译已完整、允许被搜索引擎索引的显示语言；
 // 其余语言页整体 noindex（半英文兜底≈重复英文页），补齐后把该码加入即放开。
-// zh-Hans 覆盖 94.4% 于 2026-09-09 放开；ja 仍缺四成，见 hiddenDisplay。
-var indexableDisplay = map[string]bool{"en": true, "es": true, "fr": true, "zh-Hans": true}
+// es/fr 的静态长文仍有英文正文，2026-10-24 暂停索引；zh-Hans 保持开放。
+var indexableDisplay = map[string]bool{"en": true, "zh-Hans": true}
 
 // hiddenDisplay 暂时不对外暴露入口的显示语言：URL 仍可访问、译文照常渲染，
 // 但不进 nav 下拉、不发 hreflang、不进 sitemap alternate——避免把半英文页面
 // 推给用户和搜索引擎。翻译补齐后从这里移除即可，无需改动其它地方。
-// ja 覆盖仅 59.6%（缺 168,201 条 / 28.3M 字符）。
-var hiddenDisplay = map[string]bool{"ja": true}
+// ja 覆盖仅 59.6%（缺 168,201 条 / 28.3M 字符）；es/fr 需完成静态长文翻译审计。
+var hiddenDisplay = map[string]bool{"es": true, "fr": true, "ja": true}
 
 // IsHidden 该显示语言是否暂时隐藏入口。
 func IsHidden(code string) bool { return hiddenDisplay[code] }

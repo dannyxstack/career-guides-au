@@ -109,7 +109,7 @@ GATE_BANNED = (
     "i'm sorry, but i", "i am sorry, but i", "i cannot fulfill", "i can't fulfill",
     "i cannot assist", "i can't assist", "i cannot help with that", "i can't help with that",
     # 占位符
-    "lorem ipsum", "[insert", "citation needed", "todo:", "[tbd]", "(tbd)",
+    "lorem ipsum", "[insert", "[verify", "citation needed", "todo:", "[tbd]", "(tbd)",
 )
 
 

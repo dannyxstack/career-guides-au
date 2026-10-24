@@ -49,19 +49,26 @@ type IndustriesVM struct {
 	Adoption    *adoptionChartVM
 }
 
-func resolveCC(country string) string {
+func resolveCC(country string) (string, bool) {
+	if country == "" {
+		return "US", true
+	}
 	for _, c := range data.COUNTRIES {
 		if c == country {
-			return country
+			return country, true
 		}
 	}
-	return "US"
+	return "", false
 }
 
 // Industries /industries[/{cc}]。
 func Industries(w http.ResponseWriter, ctx *Ctx, country string) {
 	CL := ctx.CL
-	cc := resolveCC(country)
+	cc, ok := resolveCC(country)
+	if !ok {
+		notFound(w, ctx)
+		return
+	}
 
 	type sc struct {
 		s     *data.Sector

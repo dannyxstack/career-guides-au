@@ -58,7 +58,7 @@ Perhaps the least discussed and most important group: people from the business s
 
 ### Governance, evaluation and assurance roles
 
-Someone has to own the questions of accuracy, bias, auditability and regulatory fit. Titles vary — AI risk analyst, model assurance lead, responsible-AI programme manager — but the function is consistent: making the system defensible before and after launch. This work is growing partly because regulators and procurement teams are asking for it [VERIFY: current regulatory timelines by jurisdiction].
+Someone has to own the questions of accuracy, bias, auditability and regulatory fit. Titles vary — AI risk analyst, model assurance lead, responsible-AI programme manager — but the function is consistent: making the system defensible before and after launch. Procurement requirements and emerging regulation both make that function harder to treat as an optional afterthought.
 
 ### Enablement and change roles
 
@@ -84,7 +84,7 @@ The consistent finding: exposure concentrates on tasks that produce text, code a
 
 ## What this means for people and employers
 
-For individuals, the practical signal is that domain depth plus AI fluency is a stronger combination than either alone. A specialist who can write clear specifications and evaluate model output is more durable than one who only masters a tool. For employers, the risk is treating these roles as temporary project staff. The organisations getting value from AI appear to be the ones embedding translation and assurance permanently, not staffing them per pilot [VERIFY: comparative adoption evidence].
+For individuals, the practical signal is that domain depth plus AI fluency is a stronger combination than either alone. A specialist who can write clear specifications and evaluate model output is more durable than one who only masters a tool. For employers, translation and assurance need named owners, measurable responsibilities and continuity beyond a single pilot.
 
 ## Takeaway
 

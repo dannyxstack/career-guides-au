@@ -5,7 +5,6 @@ import (
 	"strings"
 
 	"aijobrisk/internal/data"
-	"aijobrisk/internal/i18n"
 )
 
 // DataUpdated sitemap lastmod 与页面「最后更新」展示用。
@@ -14,6 +13,8 @@ import (
 var DataUpdated = "2026-07-16"
 
 var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "largest-workforce", "strongest-demand", "deepest-moat", "ai-proof-high-paying"}
+
+const sitemapMinGlobalWorkforce = 10_000
 
 func pagePaths() []string {
 	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook", "/data", "/contact"}
@@ -50,23 +51,27 @@ func jobGlobalPaths() []string {
 		if data.IsNEC(s) { // C3：n.e.c. 不入 sitemap
 			continue
 		}
+		// 新站先提交有明确受众规模的职业页，避免一次把 4,400+ 模板页全量推给 Google。
+		// 未入 sitemap 的页面仍可由站内链接访问；数据/权重成熟后可分批放开。
+		if !sitemapPriorityJob(data.JobBySlug(s)) {
+			continue
+		}
 		out = append(out, "/jobs/"+s)
 	}
 	return out
 }
 
-func jobCountryPaths() []string {
-	set := map[string]bool{}
-	for _, cc := range data.COUNTRIES {
-		set[cc] = true
+func sitemapPriorityJob(g *data.JobGroup) bool {
+	if g == nil {
+		return false
 	}
-	var out []string
-	for _, o := range data.Occupations {
-		if set[o.Country] && !data.IsNEC(o.Slug) { // C3：n.e.c. 不入 sitemap
-			out = append(out, "/jobs/"+o.Slug+"/"+o.Country)
+	workforce := 0.0
+	for _, o := range g.Countries {
+		if o.WorkforceSize.Set {
+			workforce += o.WorkforceSize.V
 		}
 	}
-	return out
+	return workforce >= sitemapMinGlobalWorkforce
 }
 
 var xmlEsc = strings.NewReplacer("&", "&amp;", "<", "&lt;", ">", "&gt;", `"`, "&quot;")
@@ -76,15 +81,11 @@ func abs(site, p string) string { return xmlEsc.Replace(site + p) }
 func buildUrlset(paths []string, site string) string {
 	var b strings.Builder
 	b.WriteString(`<?xml version="1.0" encoding="UTF-8"?>` + "\n")
-	b.WriteString(`<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">`)
+	b.WriteString(`<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`)
 	for _, bare := range paths {
 		b.WriteString("<url><loc>")
 		b.WriteString(abs(site, bare))
 		b.WriteString("</loc>")
-		for _, d := range i18n.PublicDisplayLocales() {
-			b.WriteString(`<xhtml:link rel="alternate" hreflang="` + d.Hreflang + `" href="` + abs(site, i18n.WithL(d.Code, bare)) + `"/>`)
-		}
-		b.WriteString(`<xhtml:link rel="alternate" hreflang="x-default" href="` + abs(site, bare) + `"/>`)
 		b.WriteString("<lastmod>" + DataUpdated + "</lastmod></url>")
 	}
 	b.WriteString("</urlset>")
@@ -102,7 +103,7 @@ func buildIndex(children []string, site string) string {
 	return b.String()
 }
 
-var sitemapChildren = []string{"/sitemap-pages.xml", "/sitemap-jobs.xml", "/sitemap-jobs-country.xml", "/sitemap-blog.xml"}
+var sitemapChildren = []string{"/sitemap-pages.xml", "/sitemap-jobs.xml", "/sitemap-blog.xml"}
 
 // buildBlogSitemap blog 专属 sitemap：英文 only（无 hreflang），每篇用真实 updated_at 做 lastmod。
 func buildBlogSitemap(site string) string {
@@ -134,7 +135,6 @@ func RegisterSitemap(mux *http.ServeMux, site string) {
 	mux.HandleFunc("/sitemap.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildIndex(sitemapChildren, site)) })
 	mux.HandleFunc("/sitemap-pages.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(pagePaths(), site)) })
 	mux.HandleFunc("/sitemap-jobs.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(jobGlobalPaths(), site)) })
-	mux.HandleFunc("/sitemap-jobs-country.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(jobCountryPaths(), site)) })
 	mux.HandleFunc("/sitemap-blog.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildBlogSitemap(site)) })
 	mux.HandleFunc("/robots.txt", func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "text/plain; charset=utf-8")

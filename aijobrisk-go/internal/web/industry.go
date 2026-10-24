@@ -47,7 +47,11 @@ func Industry(w http.ResponseWriter, ctx *Ctx, sector, country string) {
 		notFound(w, ctx)
 		return
 	}
-	cc := resolveCC(country)
+	cc, ok := resolveCC(country)
+	if !ok {
+		notFound(w, ctx)
+		return
+	}
 	occs := data.OccupationsInSector(cc, sec.ID, CL)
 	// 该国无此行业数据 -> 空页，noindex（不浪费抓取预算；补数据后自动恢复）。
 	if !data.HasSectorData(cc, sec.ID) {

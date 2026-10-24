@@ -35,7 +35,7 @@ related_countries:
 
 Nurses didn't sign up to be data entry clerks. Yet for many, a large share of the shift disappears into documentation: charting vitals, updating care plans, writing handover notes, chasing insurance approvals, and responding to patient messages. Ask any nurse what they'd cut first, and paperwork usually tops the list. It's not just tedious—it's a major source of burnout and a distraction from patient care.
 
-The exact proportion of time spent on admin varies by setting, specialty, and country. But the direction is consistent: administrative work is a substantial and growing burden. [VERIFY: specific percentage of nurses' time on documentation]
+The proportion of time spent on administration varies by setting, specialty, and country. What matters here is the task split: documentation, handoffs and routine correspondence are more exposed to generative AI than hands-on care and clinical accountability.
 
 ## Where generative AI fits
 
@@ -81,7 +81,7 @@ Then there's the question of liability and regulation. Who is responsible if an 
 
 ## What to watch
 
-The real test is whether AI actually reduces administrative burden for nurses—or just shifts it. Early evidence suggests mixed results: some clinicians report time savings, others say the tools add steps. We need more rigorous, independent studies, not vendor claims. [VERIFY: independent studies on time savings]
+The real test is whether AI actually reduces administrative burden for nurses—or merely shifts it into reviewing, correcting and supervising generated work. Health systems should measure total clinician time, error rates and added review steps rather than relying on vendor claims alone.
 
 For nurses, the core of the job remains low exposure. But the profession should be involved in designing and governing these tools, not just receiving them. The parts nobody became a nurse to do are the parts AI is best at. Automating them well could be a genuine win—if we get the details right.
 
