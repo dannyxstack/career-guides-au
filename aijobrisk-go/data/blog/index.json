@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "slug": "why-demand-for-data-and-ai-adjacent-roles-keeps-outrunning-supply",
+      "title": "Why demand for data and AI-adjacent roles keeps outrunning supply",
+      "dek": "The bottleneck isn't just headcount but a mismatch between what employers want and how quickly skills and job designs can adapt.",
+      "type": "post",
+      "published_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/why-demand-for-data-and-ai-adjacent-roles-keeps-outrunning-supply.svg",
+      "hero_alt": "Why demand for data and AI-adjacent roles keeps outrunning supply",
+      "hero_credit": "",
+      "tags": [
+        "hiring",
+        "reskilling",
+        "augmentation",
+        "new-roles"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "financial-analyst",
+        "data-scientist",
+        "statistician",
+        "data-entry-clerk"
+      ],
+      "related_sectors": [
+        "professional",
+        "information",
+        "finance",
+        "education"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "IN",
+        "SG"
+      ],
+      "reading_min": 5,
+      "word_count": 870,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-gap-is-real-but-it-isnt-only-about-headcount\">The gap is real, but it isn't only about headcount</a></li>\n<li><a href=\"#work-changes-faster-than-job-descriptions\">Work changes faster than job descriptions</a><ul>\n<li><a href=\"#the-junior-rung-is-being-squeezed\">The junior rung is being squeezed</a></li>\n</ul>\n</li>\n<li><a href=\"#what-ai-task-exposure-tells-us-about-the-bottleneck\">What AI task-exposure tells us about the bottleneck</a></li>\n<li><a href=\"#the-supply-side-moves-on-slow-clocks\">The supply side moves on slow clocks</a></li>\n<li><a href=\"#why-the-gap-may-persist-rather-than-close\">Why the gap may persist rather than close</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "which-industries-are-hiring-more-because-of-ai-not-less",
       "title": "Which Industries Are Hiring More Because of AI, Not Less",
       "dek": "AI is reshaping demand for labour rather than simply erasing it, and some sectors are visibly adding roles as others restructure.",
