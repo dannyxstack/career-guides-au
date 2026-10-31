@@ -59,7 +59,26 @@ a:hover { color: var(--brand-hover); }
 .site-main { min-height: 60vh; }
 
 /* ===== 导航 ===== */
-.site-header { background: var(--surface); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 20; }
+/* 标题栏：品牌主色的深色版「石墨紫」，与浅色正文拉开色差（原来两者都是近白色，对比度仅 1.03:1）。
+   颜色全部收在 .site-header 内的局部变量里，正文与其余组件不受影响。
+   深色模式单独取更亮的紫：同一个石墨紫放在深色正文上只有 1.19:1，几乎看不出分界。 */
+.site-header {
+  --hdr-bg: #221d42; --hdr-fg: #ffffff; --hdr-muted: #c7c2e6; --hdr-accent: #3fd3da;
+  --hdr-line: rgba(255,255,255,.10); --hdr-chip: rgba(255,255,255,.08); --hdr-chip-line: rgba(255,255,255,.20);
+  --brand: #b3a4f5; /* 仅在标题栏内生效：logo 图标描边在深底上换成浅紫 */
+  background: var(--hdr-bg); border-bottom: 1px solid var(--hdr-line); position: sticky; top: 0; z-index: 20;
+}
+:root[data-theme="dark"] .site-header { --hdr-bg: #332a66; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .site-header { --hdr-bg: #332a66; } }
+.site-header .logo-area { color: var(--hdr-fg); }
+.site-header .nav-links a { color: var(--hdr-muted); }
+.site-header .nav-links a:hover { color: var(--hdr-fg); }
+.site-header .nav-links a.on { color: var(--hdr-fg); text-decoration: underline; text-decoration-color: var(--hdr-accent);
+  text-decoration-thickness: 2px; text-underline-offset: 7px; }
+.site-header .lang-select, .site-header .theme-toggle { background: var(--hdr-chip); border-color: var(--hdr-chip-line); color: var(--hdr-muted); }
+.site-header .lang-select select { color: var(--hdr-fg); }
+.site-header .lang-select select option { color: #171d26; background: #fff; } /* 下拉列表由系统渲染成白底，不能继承白字 */
+.site-header .theme-toggle:hover { border-color: var(--hdr-accent); }
 .nav-row { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 16px; }
 .logo-area { display: flex; align-items: center; gap: 10px; color: var(--text-strong); font-weight: 700; font-size: 1.15rem; letter-spacing: -0.01em; }
 .logo-area svg { display: block; flex: none; }

@@ -1,7 +1,11 @@
 package web
 
 import (
+	"crypto/sha256"
+	"encoding/hex"
 	"html/template"
+	"os"
+	"path/filepath"
 
 	"aijobrisk/internal/data"
 	"aijobrisk/internal/i18n"
@@ -115,6 +119,24 @@ func (c *Ctx) Alternates() []LocaleURL {
 	}
 	return out
 }
+
+// assetVersion app.css 内容的短哈希，启动时由 SetAssetVersion 设置。
+var assetVersion string
+
+// SetAssetVersion 按 app.css 内容计算版本号，拼进样式表地址。
+// 线上 Cloudflare 给 /static/* 设了 4 小时浏览器缓存：地址不变时，改了 CSS 访客最多要等 4 小时才看得到；
+// 地址带内容哈希后，内容一变地址就变，缓存自然失效，内容不变则照常命中缓存。
+func SetAssetVersion(staticDir string) {
+	b, err := os.ReadFile(filepath.Join(staticDir, "app.css"))
+	if err != nil {
+		return
+	}
+	sum := sha256.Sum256(b)
+	assetVersion = hex.EncodeToString(sum[:])[:10]
+}
+
+// AssetVer 模板用：/static/app.css?v={{ .AssetVer }}
+func (c *Ctx) AssetVer() string { return assetVersion }
 
 // XDefault hreflang x-default（英文裸 URL）。
 func (c *Ctx) XDefault() string { return c.Site + c.Bare }

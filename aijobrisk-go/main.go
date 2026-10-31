@@ -26,6 +26,7 @@ func main() {
 	dataDir := env("AIJOBRISK_DATA", "data")
 	tmplDir := env("AIJOBRISK_TEMPLATES", "templates")
 	staticDir := env("AIJOBRISK_STATIC", "static")
+	web.SetAssetVersion(staticDir)
 	site := env("AIJOBRISK_SITE", "https://aijobrisk.com")
 	host := env("HOST", "127.0.0.1")
 	port := env("PORT", "4332")

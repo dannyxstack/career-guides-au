@@ -26,7 +26,7 @@
     {{ if .Description }}<meta property="og:description" content="{{ .Description }}" />{{ end }}
     {{ if .OGImage }}<meta property="og:image" content="{{ .OGImage }}" />{{ end }}
     <meta name="twitter:card" content="summary_large_image" />
-    <link rel="stylesheet" href="/static/app.css" />
+    <link rel="stylesheet" href="/static/app.css?v={{ .AssetVer }}" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     {{ if .JSONLD }}<script type="application/ld+json">{{ .JSONLD }}</script>{{ end }}
     <script>
