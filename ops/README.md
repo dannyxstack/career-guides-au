@@ -135,3 +135,25 @@ bash ops/blog-pull.sh                                        # cron：每 10 分
 
 安全措施：只对带 `.git/aijobrisk-blog-mirror` 标记的目录执行 `reset --hard`（防止误指到线上仓库抹掉改动）；
 调用重载接口时 `--noproxy '*'`（服务器设了 `http_proxy` 时 curl 会把 127.0.0.1 也送去代理）。
+
+---
+
+## pull.sh（本地用）
+
+GitHub Actions 的博客 bot 每天可能往 `main` 推提交，本地同步时用它代替 `git pull`。在 Git Bash 里运行：
+
+```bash
+bash ops/pull.sh            # 拉取并 rebase
+bash ops/pull.sh --dry-run  # 只看远端有哪些新提交
+```
+
+和直接 `git pull` 的区别：用 rebase 不产生 merge 提交（本地未推送的提交接到最新 main 后面，之后直接 push）；
+工作区有改动时自动暂存再放回；出冲突自动回滚到拉取前；远端新文件和本地未跟踪文件同名时先停下，不覆盖。
+
+| 退出码 | 含义 |
+|---|---|
+| 0 | 成功，或已是最新 |
+| 1 | 环境问题：不在仓库 / 不在 main / 有进行中的 rebase 或 merge / fetch 失败 |
+| 2 | 有冲突，已自动回滚，本地和拉取前完全一样 |
+| 3 | 远端新增文件会覆盖本地未跟踪的同名文件，未拉取 |
+| 4 | 已拉取，但本地未提交的改动放回时冲突，改动在 stash 里（`git stash pop` 取回） |
