@@ -25,3 +25,21 @@ func TestOnlyAuditedLocalesArePublicAndIndexable(t *testing.T) {
 		}
 	}
 }
+
+func TestDefaultUSLinksUseCanonicalBareRoute(t *testing.T) {
+	tests := map[string]string{
+		HrefIndustries("en", "US"):            "/industries",
+		HrefIndustry("en", "health", "US"):    "/industry/health",
+		HrefRankings("en", "US"):              "/rankings",
+		HrefBoard("en", "most-exposed", "US"): "/rankings/most-exposed",
+		HrefRankings("zh-Hans", "US"):         "/zh-Hans/rankings",
+	}
+	for got, want := range tests {
+		if got != want {
+			t.Errorf("canonical default-country link = %q, want %q", got, want)
+		}
+	}
+	if got := HrefRankings("en", "AU"); got != "/rankings/AU" {
+		t.Fatalf("non-default country link = %q, want /rankings/AU", got)
+	}
+}

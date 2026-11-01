@@ -1,8 +1,8 @@
 {{ define "content" -}}
 <div class="container">
   <header class="ind-head">
-    <h1>{{ .Tr "Industries" }}</h1>
-    <p class="subhead">{{ .Tr "Explore AI exposure across 20 industry sectors. An occupation can belong to several industries (a many-to-many relationship). Use the country selector to view other national datasets." }}</p>
+    <h1>{{ .Tr "Industries" }} — {{ .CountryName }}</h1>
+    <p class="subhead">{{ .Tr "Compare AI exposure, workforce and salary across 20 industry sectors in" }} {{ .CountryName }}. {{ .Tr "Use the country selector to view other national datasets." }}</p>
     <label class="country-select">
       <i class="fas fa-globe"></i>
       <select onchange="if(this.value)window.location.href=this.value;">

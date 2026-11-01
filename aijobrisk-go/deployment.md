@@ -169,37 +169,13 @@ journalctl -u aijobrisk-go -f          # 看启动日志：loaded N occupations 
 
 ## 六、nginx 反代 + TLS
 
-```nginx
-server {
-    listen 443 ssl http2;
-    server_name aijobrisk.com www.aijobrisk.com;
+使用仓库内的 [`nginx-aijobrisk.conf.example`](./nginx-aijobrisk.conf.example)。它把
+`http://aijobrisk.com`、`http://www.aijobrisk.com`、`https://www.aijobrisk.com`
+全部一次 301 到最终的 `https://aijobrisk.com`，避免 HTTP www 先跳 HTTPS www、再跳主域的两跳链。
 
-    ssl_certificate     /etc/letsencrypt/live/aijobrisk.com/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/aijobrisk.com/privkey.pem;
-
-    # 静态资源交给 Go（已内置 /static 与 /logo.svg），也可在此加长缓存头
-    location /static/ {
-        proxy_pass http://127.0.0.1:4332;
-        proxy_cache_valid 200 7d;
-        add_header Cache-Control "public, max-age=604800";
-    }
-
-    location / {
-        proxy_pass http://127.0.0.1:4332;
-        proxy_set_header Host              $host;
-        proxy_set_header X-Real-IP         $remote_addr;
-        proxy_set_header X-Forwarded-For   $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_read_timeout 30s;
-    }
-}
-
-server {
-    listen 80;
-    server_name aijobrisk.com www.aijobrisk.com;
-    return 301 https://$host$request_uri;
-}
-```
+Go 服务现在直接返回缓存头：HTML 允许边缘缓存 5 分钟、sitemap/robots 1 小时、静态资源 7 天；
+nginx 不再重复覆盖 `Cache-Control`。如果使用 Cloudflare 缓存 HTML，需要另建 Cache Rule，且必须排除
+`/api/*`、`/hooks/*`、`/internal/*` 和 `/subscribe*`；这些动态/敏感路径不应被缓存。
 
 TLS 证书用 certbot：`sudo certbot --nginx -d aijobrisk.com -d www.aijobrisk.com`。
 

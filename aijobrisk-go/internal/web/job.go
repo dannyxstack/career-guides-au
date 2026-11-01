@@ -45,18 +45,20 @@ type listCard struct {
 // JobVM 职业详情视图模型。
 type JobVM struct {
 	*Ctx
-	DispName, Nm string
-	ShowLatin    bool
-	DataUpdated  string
-	CatName      string
-	CatURL       string
-	CodeLabel    string
-	OccCodeType  string
-	CountriesLen int
-	HasHeadline  bool
-	HeadlinePct  int
-	BandCls      string
-	BandLabelTr  string
+	DispName, Nm    string
+	ShowLatin       bool
+	CountrySpecific bool
+	CountryName     string
+	DataUpdated     string
+	CatName         string
+	CatURL          string
+	CodeLabel       string
+	OccCodeType     string
+	CountriesLen    int
+	HasHeadline     bool
+	HeadlinePct     int
+	BandCls         string
+	BandLabelTr     string
 	// meter
 	HasAioe                                  bool
 	MeterUnit                                string
@@ -186,6 +188,7 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 
 	vm := &JobVM{
 		Ctx: ctx, DispName: dispName, Nm: nm, ShowLatin: dispName != nm,
+		CountrySpecific: country != "", CountryName: data.CountryName(cc, CL),
 		DataUpdated: DataUpdated, CatName: data.Tr(rep.Category, CL), CatURL: i18n.HrefIndustries(ctx.Loc, ""),
 		OccCodeType: active.OccCodeType, CountriesLen: len(countries),
 		HasHeadline: hasHeadline, HeadlinePct: headlinePct, BandCls: band.Cls, BandLabelTr: data.Tr(band.Label, CL),
@@ -428,12 +431,26 @@ func Job(w http.ResponseWriter, ctx *Ctx, slug, country string) {
 	ctx.Active = "occupations"
 	// 答案优先（GEO）：标题/描述前置结论 + 风险分，便于被 AI 搜索直接引用。
 	descCore := data.Tr("AI replacement risk, task exposure and the human moat for this occupation, plus local salary, licensing and outlook.", CL)
+	where := ""
+	if country != "" {
+		where = " " + data.Tr("in", CL) + " " + vm.CountryName
+		descCore = data.Tr("See local salary, licensing, career outlook and the human moat.", CL)
+	}
 	if hasHeadline {
-		ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? " + fmt.Sprintf("%d%% ", headlinePct) + data.Tr("AI risk score", CL) + " (2030) | AI Job Risk"
-		ctx.Description = fmt.Sprintf("%s — %s AI exposure (%d%%). ", dispName, data.Tr(band.Label, CL), headlinePct) + descCore
+		if country != "" {
+			ctx.Title = dispName + " " + data.Tr("AI risk in", CL) + " " + vm.CountryName + ": " + fmt.Sprintf("%d%%", headlinePct) + " (2030) | AI Job Risk"
+		} else {
+			ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? " + fmt.Sprintf("%d%% ", headlinePct) + data.Tr("AI risk score", CL) + " (2030) | AI Job Risk"
+		}
+		ctx.Description = fmt.Sprintf("%s%s — %s AI exposure (%d%%). ", dispName, where, data.Tr(band.Label, CL), headlinePct) + descCore
 	} else {
-		ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? — " + data.Tr("AI risk, salary & outlook", CL) + " | AI Job Risk"
-		ctx.Description = descCore + " — " + dispName
+		if country != "" {
+			ctx.Title = dispName + where + " — " + data.Tr("AI risk, salary & outlook", CL) + " | AI Job Risk"
+			ctx.Description = dispName + where + ". " + descCore
+		} else {
+			ctx.Title = data.Tr("Will AI replace", CL) + " " + dispName + "? — " + data.Tr("AI risk, salary & outlook", CL) + " | AI Job Risk"
+			ctx.Description = descCore + " — " + dispName
+		}
 	}
 	// 结构化数据：Occupation + FAQPage + BreadcrumbList（合成一个 JSON-LD 数组，单 <script> 内合法）。
 	var salLD *float64

@@ -55,23 +55,26 @@ func qaToFAQ(qs []qaVM) []faqRow {
 	return out
 }
 
-type rkHubItem struct{ N int; Name, Href, Primary, Secondary string }
+type rkHubItem struct {
+	N                              int
+	Name, Href, Primary, Secondary string
+}
 type rkBoardCard struct {
 	ID, Icon, Tone, Title, Desc, ViewHref string
 	Items                                 []rkHubItem
 }
 type rkRow struct {
-	Rank                        int
-	Top1, Top2, Top3            bool
-	Name, Href, Cat, CatIcon    string
-	TagCls, TagLabel            string
-	HasAioe                     bool
-	AioeStr                     string
-	AioeVal                     int
-	BarColor, PctColor          string
-	MoatCls, MoatLabel          string
-	Metric                      string
-	DataBand, DataName          string
+	Rank                     int
+	Top1, Top2, Top3         bool
+	Name, Href, Cat, CatIcon string
+	TagCls, TagLabel         string
+	HasAioe                  bool
+	AioeStr                  string
+	AioeVal                  int
+	BarColor, PctColor       string
+	MoatCls, MoatLabel       string
+	Metric                   string
+	DataBand, DataName       string
 }
 
 // RankingsVM 榜单页（hub + board 双模式）。
@@ -94,11 +97,11 @@ type RankingsVM struct {
 	HrefRankingsCC                   string
 	DataUpdated                      string
 	// 分页
-	Page, TotalPages         int
-	HasPrev, HasNext         bool
-	PrevHref, NextHref       string
-	RangeFrom, RangeTo       int
-	PageLinks                []rkPageLink
+	Page, TotalPages   int
+	HasPrev, HasNext   bool
+	PrevHref, NextHref string
+	RangeFrom, RangeTo int
+	PageLinks          []rkPageLink
 }
 
 type rkPageLink struct {
@@ -187,6 +190,15 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 		return
 	}
 	isBoard := board != ""
+	// /rankings[/board] 是默认 US 视图；显式 /US 永久合并到无后缀 URL。
+	if cc == "US" && ((len(segs) == 1 && !isBoard) || (len(segs) == 2 && isBoard)) {
+		if isBoard {
+			permanentRedirect(w, i18n.HrefBoard(ctx.Loc, board, "")+ctx.Query)
+		} else {
+			permanentRedirect(w, i18n.HrefRankings(ctx.Loc, "")+ctx.Query)
+		}
+		return
+	}
 
 	vm := &RankingsVM{Ctx: ctx, IsBoard: isBoard, CC: cc, CountryName: data.CountryName(cc, CL),
 		HrefRankingsCC: i18n.HrefRankings(ctx.Loc, cc), DataUpdated: DataUpdated}
@@ -209,14 +221,14 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 				Title: b.Title, Desc: b.Desc, ViewHref: i18n.HrefBoard(ctx.Loc, b.ID, cc)}
 			for j, it := range b.Items {
 				card.Items = append(card.Items, rkHubItem{
-					N: j + 1, Name: it.Name, Href: ctx.HrefJob(it.Slug),
+					N: j + 1, Name: it.Name, Href: ctx.HrefJobC(it.Slug, cc),
 					Primary: rkPrimary(b, it, cc), Secondary: rkSecondary(b, it, cc, CL),
 				})
 			}
 			vm.Boards = append(vm.Boards, card)
 		}
-		ctx.Title = data.Tr("Job risk & opportunity rankings", CL) + " | AI Job Risk"
-		ctx.Description = data.Tr("How exposed is your job to generative AI? Compare salary, workforce, demand and human resilience across occupations.", CL) + " · " + vm.CountryName
+		ctx.Title = data.Tr("AI job risk rankings", CL) + " — " + vm.CountryName + " (2026) | AI Job Risk"
+		ctx.Description = data.Tr("Compare AI exposure, salary, workforce, demand and human resilience across occupations in", CL) + " " + vm.CountryName + "."
 		renderPage(w, "rankings.html", vm)
 		return
 	}
@@ -309,7 +321,7 @@ func Rankings(w http.ResponseWriter, ctx *Ctx, segs []string) {
 		}
 		row := rkRow{
 			Rank: rank, Top1: rank == 1, Top2: rank == 2, Top3: rank == 3,
-			Name: it.Name, Href: ctx.HrefJob(it.Slug), Cat: data.Tr(it.Cat, CL), CatIcon: data.CategoryIcon(it.Cat),
+			Name: it.Name, Href: ctx.HrefJobC(it.Slug, cc), Cat: data.Tr(it.Cat, CL), CatIcon: data.CategoryIcon(it.Cat),
 			TagCls: tagCls, TagLabel: tagLabel, BarColor: rkBarColor(it.Aioe), PctColor: rkPctColor(it.Aioe),
 			MoatCls: moatCls, MoatLabel: moatLabel, Metric: metric, DataBand: tagCls,
 		}

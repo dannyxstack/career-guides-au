@@ -16,37 +16,60 @@ var boardIDs = []string{"most-exposed", "least-exposed", "highest-paying", "larg
 
 const sitemapMinGlobalWorkforce = 10_000
 
-func pagePaths() []string {
-	p := []string{"/", "/about", "/methodology", "/search", "/compare", "/industries", "/rankings", "/job-risk-map", "/insights", "/ai-job-loss-2030", "/career-outlook", "/data", "/contact"}
+// countrySEOUpdated 仅在国家维度页面的可见正文或 SEO 元数据实质更新时修改。
+// 它与 DataUpdated（底层数据包日期）分开，避免模板更新仍谎报旧数据日期。
+const countrySEOUpdated = "2026-11-01"
+
+type sitemapURL struct {
+	Path    string
+	LastMod string
+}
+
+func pageURLs() []sitemapURL {
+	// 只有页面主体会随数据包变化时才发 lastmod。联系页、Insights 导航页没有
+	// 可验证的修改日期，宁可省略，也不拿数据日期冒充页面更新时间。
+	p := []sitemapURL{
+		{"/", DataUpdated}, {"/about", DataUpdated}, {"/methodology", DataUpdated},
+		{"/search", DataUpdated}, {"/compare", DataUpdated}, {"/industries", countrySEOUpdated},
+		{"/rankings", countrySEOUpdated}, {"/job-risk-map", DataUpdated},
+		{"/insights", ""}, {"/ai-job-loss-2030", DataUpdated},
+		{"/career-outlook", DataUpdated}, {"/data", DataUpdated}, {"/contact", ""},
+	}
 	// /ai-job-loss-2030/{cc} 与 /career-outlook/{cc} 已并入各自 hub（客户端 #CC 切换），
 	// 旧 URL 301 到锚点，不再进 sitemap。
 	for _, cc := range data.COUNTRIES {
-		p = append(p, "/rankings/"+cc, "/job-risk-map/"+cc)
+		// /rankings 与 /industries 的无后缀路由就是 US；显式 /US 会 301，不进 sitemap。
+		if cc != "US" {
+			p = append(p, sitemapURL{"/rankings/" + cc, countrySEOUpdated})
+		}
+		p = append(p, sitemapURL{"/job-risk-map/" + cc, DataUpdated})
 		// 无行业映射的国家渲染出来是空页，不进 sitemap（见 data.HasIndustryData）。
-		if data.HasIndustryData(cc) {
-			p = append(p, "/industries/"+cc)
+		if cc != "US" && data.HasIndustryData(cc) {
+			p = append(p, sitemapURL{"/industries/" + cc, countrySEOUpdated})
 		}
 	}
 	for _, s := range data.Sectors {
-		p = append(p, "/industry/"+s.ID)
+		p = append(p, sitemapURL{"/industry/" + s.ID, countrySEOUpdated})
 		for _, cc := range data.COUNTRIES {
-			if !data.HasSectorData(cc, s.ID) {
+			if cc == "US" || !data.HasSectorData(cc, s.ID) {
 				continue
 			}
-			p = append(p, "/industry/"+s.ID+"/"+cc)
+			p = append(p, sitemapURL{"/industry/" + s.ID + "/" + cc, countrySEOUpdated})
 		}
 	}
 	for _, b := range boardIDs {
-		p = append(p, "/rankings/"+b)
+		p = append(p, sitemapURL{"/rankings/" + b, countrySEOUpdated})
 		for _, cc := range data.COUNTRIES {
-			p = append(p, "/rankings/"+b+"/"+cc)
+			if cc != "US" {
+				p = append(p, sitemapURL{"/rankings/" + b + "/" + cc, countrySEOUpdated})
+			}
 		}
 	}
 	return p
 }
 
-func jobGlobalPaths() []string {
-	out := make([]string, 0, len(data.JobSlugs))
+func jobGlobalURLs() []sitemapURL {
+	out := make([]sitemapURL, 0, len(data.JobSlugs))
 	for _, s := range data.JobSlugs {
 		if data.IsNEC(s) { // C3：n.e.c. 不入 sitemap
 			continue
@@ -56,7 +79,7 @@ func jobGlobalPaths() []string {
 		if !sitemapPriorityJob(data.JobBySlug(s)) {
 			continue
 		}
-		out = append(out, "/jobs/"+s)
+		out = append(out, sitemapURL{"/jobs/" + s, DataUpdated})
 	}
 	return out
 }
@@ -78,45 +101,79 @@ var xmlEsc = strings.NewReplacer("&", "&amp;", "<", "&lt;", ">", "&gt;", `"`, "&
 
 func abs(site, p string) string { return xmlEsc.Replace(site + p) }
 
-func buildUrlset(paths []string, site string) string {
+func buildURLSet(urls []sitemapURL, site string) string {
 	var b strings.Builder
 	b.WriteString(`<?xml version="1.0" encoding="UTF-8"?>` + "\n")
 	b.WriteString(`<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`)
-	for _, bare := range paths {
+	for _, u := range urls {
 		b.WriteString("<url><loc>")
-		b.WriteString(abs(site, bare))
+		b.WriteString(abs(site, u.Path))
 		b.WriteString("</loc>")
-		b.WriteString("<lastmod>" + DataUpdated + "</lastmod></url>")
+		if u.LastMod != "" {
+			b.WriteString("<lastmod>" + u.LastMod + "</lastmod>")
+		}
+		b.WriteString("</url>")
 	}
 	b.WriteString("</urlset>")
 	return b.String()
 }
 
-func buildIndex(children []string, site string) string {
+func buildIndex(children []sitemapURL, site string) string {
 	var b strings.Builder
 	b.WriteString(`<?xml version="1.0" encoding="UTF-8"?>` + "\n")
 	b.WriteString(`<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`)
 	for _, c := range children {
-		b.WriteString("<sitemap><loc>" + abs(site, c) + "</loc><lastmod>" + DataUpdated + "</lastmod></sitemap>")
+		b.WriteString("<sitemap><loc>" + abs(site, c.Path) + "</loc>")
+		if c.LastMod != "" {
+			b.WriteString("<lastmod>" + c.LastMod + "</lastmod>")
+		}
+		b.WriteString("</sitemap>")
 	}
 	b.WriteString("</sitemapindex>")
 	return b.String()
 }
 
-var sitemapChildren = []string{"/sitemap-pages.xml", "/sitemap-jobs.xml", "/sitemap-blog.xml"}
+func latestBlogUpdate(posts []*data.BlogPost) string {
+	latest := ""
+	for _, p := range posts {
+		if p.UpdatedAt > latest {
+			latest = p.UpdatedAt
+		}
+	}
+	return latest
+}
+
+func latestURLUpdate(urls []sitemapURL) string {
+	latest := ""
+	for _, u := range urls {
+		if u.LastMod > latest {
+			latest = u.LastMod
+		}
+	}
+	return latest
+}
+
+func sitemapChildren() []sitemapURL {
+	return []sitemapURL{
+		{"/sitemap-pages.xml", latestURLUpdate(pageURLs())},
+		{"/sitemap-jobs.xml", DataUpdated},
+		{"/sitemap-blog.xml", latestBlogUpdate(data.BlogPosts())},
+	}
+}
 
 // buildBlogSitemap blog 专属 sitemap：英文 only（无 hreflang），每篇用真实 updated_at 做 lastmod。
 func buildBlogSitemap(site string) string {
 	var b strings.Builder
 	b.WriteString(`<?xml version="1.0" encoding="UTF-8"?>` + "\n")
 	b.WriteString(`<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`)
-	last := DataUpdated
-	if posts := data.BlogPosts(); len(posts) > 0 {
-		last = posts[0].UpdatedAt // newest-first
+	last := latestBlogUpdate(data.BlogPosts())
+	if last == "" {
+		last = DataUpdated
 	}
 	b.WriteString("<url><loc>" + abs(site, "/blog") + "</loc><lastmod>" + last + "</lastmod></url>")
 	for _, t := range data.BlogTags() {
-		b.WriteString("<url><loc>" + abs(site, "/blog/tag/"+t) + "</loc><lastmod>" + last + "</lastmod></url>")
+		tagLast := latestBlogUpdate(data.BlogByTag(t))
+		b.WriteString("<url><loc>" + abs(site, "/blog/tag/"+t) + "</loc><lastmod>" + tagLast + "</lastmod></url>")
 	}
 	for _, p := range data.BlogPosts() {
 		b.WriteString("<url><loc>" + abs(site, "/blog/"+p.Slug) + "</loc><lastmod>" + p.UpdatedAt + "</lastmod></url>")
@@ -127,17 +184,19 @@ func buildBlogSitemap(site string) string {
 
 func writeXML(w http.ResponseWriter, s string) {
 	w.Header().Set("Content-Type", "application/xml; charset=utf-8")
+	w.Header().Set("Cache-Control", DiscoveryCacheControl)
 	w.Write([]byte(s))
 }
 
 // RegisterSitemap 注册 sitemap / robots 端点。
 func RegisterSitemap(mux *http.ServeMux, site string) {
-	mux.HandleFunc("/sitemap.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildIndex(sitemapChildren, site)) })
-	mux.HandleFunc("/sitemap-pages.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(pagePaths(), site)) })
-	mux.HandleFunc("/sitemap-jobs.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildUrlset(jobGlobalPaths(), site)) })
+	mux.HandleFunc("/sitemap.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildIndex(sitemapChildren(), site)) })
+	mux.HandleFunc("/sitemap-pages.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildURLSet(pageURLs(), site)) })
+	mux.HandleFunc("/sitemap-jobs.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildURLSet(jobGlobalURLs(), site)) })
 	mux.HandleFunc("/sitemap-blog.xml", func(w http.ResponseWriter, r *http.Request) { writeXML(w, buildBlogSitemap(site)) })
 	mux.HandleFunc("/robots.txt", func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "text/plain; charset=utf-8")
+		w.Header().Set("Cache-Control", DiscoveryCacheControl)
 		w.Write([]byte("User-agent: *\nAllow: /\n\nSitemap: " + strings.TrimRight(site, "/") + "/sitemap.xml\n"))
 	})
 }

@@ -7,7 +7,7 @@
   <section class="detail-section">
     <div class="detail-header">
       <div class="title-group">
-        <h1>{{ .DispName }}{{ if .ShowLatin }}<span class="latin">{{ .Nm }}</span>{{ end }}</h1>
+        <h1>{{ .DispName }}{{ if .CountrySpecific }} — {{ .CountryName }}{{ end }}{{ if .ShowLatin }}<span class="latin">{{ .Nm }}</span>{{ end }}</h1>
         <span class="country-pill"><i class="fas fa-clock-rotate-left"></i> {{ .Tr "Occupation baseline · updated" }} {{ .DataUpdated }}</span>
         <div class="meta-pills">
           <span class="pill"><i class="fas fa-industry"></i> {{ .CatName }}</span>

@@ -36,6 +36,8 @@ func NewCtx(r *http.Request, site string) *Ctx {
 // Router 页面路由：剥语言前缀后按裸路径分发（对齐 Astro middleware + 文件路由）。
 func Router(site string) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		// SSR 页面允许浏览器每次验证、边缘短缓存；敏感页面可在处理器内覆写为 no-store。
+		w.Header().Set("Cache-Control", PageCacheControl)
 		ctx := NewCtx(r, site)
 		if ctx.Bare == "/" {
 			Home(w, ctx)
@@ -189,7 +191,16 @@ func Router(site string) http.Handler {
 	})
 }
 
+// permanentRedirect 用于处理器内部的规范 URL 合并。只写 Location/状态，避免生成
+// 带请求 Host 的目标地址；调用方必须传站内绝对路径。
+func permanentRedirect(w http.ResponseWriter, location string) {
+	w.Header().Set("Location", location)
+	w.WriteHeader(http.StatusMovedPermanently)
+}
+
 func notFound(w http.ResponseWriter, ctx *Ctx) {
+	w.Header().Set("Content-Type", "text/html; charset=utf-8")
+	w.Header().Set("Cache-Control", "no-store")
 	w.WriteHeader(http.StatusNotFound)
 	ctx.Active = ""
 	ctx.Title = ctx.Tr("Page not found") + " | AI Job Risk"

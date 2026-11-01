@@ -118,25 +118,26 @@ func HrefJob(d, slug, country string) string {
 	return WithL(d, "/jobs/"+slug)
 }
 func HrefIndustries(d, country string) string {
-	if country != "" {
+	// 无后缀路由就是默认 US 视图；显式 /US 会制造完全相同的第二个 URL。
+	if country != "" && country != "US" {
 		return WithL(d, "/industries/"+country)
 	}
 	return WithL(d, "/industries")
 }
 func HrefIndustry(d, sector, country string) string {
-	if country != "" {
+	if country != "" && country != "US" {
 		return WithL(d, "/industry/"+sector+"/"+country)
 	}
 	return WithL(d, "/industry/"+sector)
 }
 func HrefRankings(d, country string) string {
-	if country != "" {
+	if country != "" && country != "US" {
 		return WithL(d, "/rankings/"+country)
 	}
 	return WithL(d, "/rankings")
 }
 func HrefBoard(d, board, country string) string {
-	if country != "" {
+	if country != "" && country != "US" {
 		return WithL(d, "/rankings/"+board+"/"+country)
 	}
 	return WithL(d, "/rankings/"+board)

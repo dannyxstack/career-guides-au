@@ -63,11 +63,14 @@ func main() {
 	mux := http.NewServeMux()
 
 	// 静态资源
-	mux.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir(staticDir))))
+	mux.Handle("/static/", web.WithCacheControl(
+		http.StripPrefix("/static/", http.FileServer(http.Dir(staticDir))), web.StaticCacheControl))
 	// 博客头图单独挂：可指向独立镜像（AIJOBRISK_BLOG_STATIC_DIR），且禁止列目录以免暴露定时文章。
 	blogStatic := env("AIJOBRISK_BLOG_STATIC_DIR", staticDir+"/blog")
-	mux.Handle("/static/blog/", http.StripPrefix("/static/blog/", web.NoListing(http.FileServer(http.Dir(blogStatic)))))
+	mux.Handle("/static/blog/", web.WithCacheControl(
+		http.StripPrefix("/static/blog/", web.NoListing(http.FileServer(http.Dir(blogStatic)))), web.StaticCacheControl))
 	mux.HandleFunc("/logo.svg", func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Cache-Control", web.StaticCacheControl)
 		http.ServeFile(w, r, staticDir+"/logo.svg")
 	})
 

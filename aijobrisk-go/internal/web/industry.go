@@ -47,6 +47,10 @@ func Industry(w http.ResponseWriter, ctx *Ctx, sector, country string) {
 		notFound(w, ctx)
 		return
 	}
+	if country == "US" {
+		permanentRedirect(w, i18n.HrefIndustry(ctx.Loc, sector, "")+ctx.Query)
+		return
+	}
 	cc, ok := resolveCC(country)
 	if !ok {
 		notFound(w, ctx)
@@ -102,8 +106,8 @@ func Industry(w http.ResponseWriter, ctx *Ctx, sector, country string) {
 	ctx.JSONLD = jsonLD(faqPageLD(vm.FAQ), industryBreadcrumbLD(ctx, cc, secName))
 
 	ctx.Active = "industries"
-	ctx.Title = secName + " — " + data.Tr("AI exposure by occupation", CL) + " | AI Job Risk"
-	ctx.Description = data.Tr("AI exposure, salary and workforce for occupations in this industry.", CL) + " " + secName + " · " + data.CountryName(cc, CL)
+	ctx.Title = secName + " " + data.Tr("jobs in", CL) + " " + vm.CountryName + " — " + data.Tr("AI exposure & salary", CL) + " | AI Job Risk"
+	ctx.Description = data.Tr("Compare AI exposure, salary and workforce for", CL) + " " + secName + " " + data.Tr("occupations in", CL) + " " + vm.CountryName + "."
 	vm.RelatedNews = topNews(data.BlogForSector(sec.ID), 4)
 	renderPage(w, "industry.html", vm)
 }

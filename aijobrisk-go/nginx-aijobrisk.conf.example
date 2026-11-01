@@ -1,0 +1,42 @@
+# aijobrisk.com canonical-host reverse proxy.
+# Install as /etc/nginx/sites-available/aijobrisk.com and symlink into sites-enabled.
+
+# Every plaintext variant goes directly to the final HTTPS apex URL in one hop.
+server {
+    listen 80;
+    listen [::]:80;
+    server_name aijobrisk.com www.aijobrisk.com;
+    return 301 https://aijobrisk.com$request_uri;
+}
+
+# The HTTPS www variant also collapses directly to the apex host.
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name www.aijobrisk.com;
+
+    ssl_certificate     /etc/letsencrypt/live/aijobrisk.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/aijobrisk.com/privkey.pem;
+
+    return 301 https://aijobrisk.com$request_uri;
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name aijobrisk.com;
+
+    ssl_certificate     /etc/letsencrypt/live/aijobrisk.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/aijobrisk.com/privkey.pem;
+
+    add_header Strict-Transport-Security "max-age=31536000" always;
+
+    location / {
+        proxy_pass http://127.0.0.1:4332;
+        proxy_set_header Host              aijobrisk.com;
+        proxy_set_header X-Real-IP         $remote_addr;
+        proxy_set_header X-Forwarded-For   $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_read_timeout 30s;
+    }
+}

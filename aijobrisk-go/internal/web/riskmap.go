@@ -62,7 +62,7 @@ func pctColors(vals []*float64) []string {
 }
 
 // riskMeta 由缓存几何 + 当前语言生成 tooltip meta（方案 B：每请求只本地化这一层）。
-func riskMeta(layout *data.RiskLayout, cl, loc string) []RiskMeta {
+func riskMeta(layout *data.RiskLayout, cl, loc, country string) []RiskMeta {
 	avg := make([]*float64, len(layout.Occs))
 	med := make([]*float64, len(layout.Occs))
 	grw := make([]*float64, len(layout.Occs))
@@ -75,7 +75,7 @@ func riskMeta(layout *data.RiskLayout, cl, loc string) []RiskMeta {
 		out[i] = RiskMeta{
 			N: data.Tr(o.Name, cl), C: data.Tr(o.Cat, cl), W: o.Workforce,
 			R: float64(int(o.Risk*10+0.5)) / 10, A: o.AvgSalary, Med: o.MedSalary, Out: o.Growth,
-			Cur: o.Currency, U: i18n.HrefJob(loc, o.Slug, ""), Col: data.RiskColor(o.Risk),
+			Cur: o.Currency, U: i18n.HrefJob(loc, o.Slug, country), Col: data.RiskColor(o.Risk),
 			ColS: colS[i], ColM: colM[i], ColO: colO[i],
 		}
 	}
@@ -224,7 +224,7 @@ func RiskMap(w http.ResponseWriter, ctx *Ctx, country string) {
 	}
 
 	layout := data.RiskLayoutFor(key)
-	meta := riskMeta(layout, cl, ctx.Loc)
+	meta := riskMeta(layout, cl, ctx.Loc, country)
 	svg := riskMapSVG(layout, meta, key, cl)
 
 	totalWorkers := 0.0

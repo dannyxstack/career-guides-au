@@ -64,6 +64,10 @@ func resolveCC(country string) (string, bool) {
 // Industries /industries[/{cc}]。
 func Industries(w http.ResponseWriter, ctx *Ctx, country string) {
 	CL := ctx.CL
+	if country == "US" {
+		permanentRedirect(w, i18n.HrefIndustries(ctx.Loc, "")+ctx.Query)
+		return
+	}
 	cc, ok := resolveCC(country)
 	if !ok {
 		notFound(w, ctx)
@@ -162,7 +166,7 @@ func Industries(w http.ResponseWriter, ctx *Ctx, country string) {
 	}
 
 	ctx.Active = "industries"
-	ctx.Title = data.Tr("Industries — AI exposure across 20 sectors", CL) + " | AI Job Risk"
-	ctx.Description = data.Tr("Explore AI exposure across 20 industry sectors. An occupation can belong to several industries (many-to-many).", CL)
+	ctx.Title = data.Tr("Industries and AI exposure in", CL) + " " + vm.CountryName + " | AI Job Risk"
+	ctx.Description = data.Tr("Compare generative-AI exposure, workforce and salary across 20 industry sectors in", CL) + " " + vm.CountryName + "."
 	renderPage(w, "industries.html", vm)
 }
