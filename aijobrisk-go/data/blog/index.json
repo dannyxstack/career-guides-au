@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "slug": "prompt-engineering-grew-up-the-durable-roles-around-ai",
+      "title": "Prompt Engineering Grew Up: The Durable Roles Around AI",
+      "dek": "As prompt engineering matures from a trick into a discipline, the lasting jobs are the ones that wrap governance, evaluation and integration around AI systems.",
+      "type": "post",
+      "published_at": "2026-11-19",
+      "updated_at": "2026-11-19",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/prompt-engineering-grew-up-the-durable-roles-around-ai.svg",
+      "hero_alt": "Prompt Engineering Grew Up: The Durable Roles Around AI",
+      "hero_credit": "",
+      "tags": [
+        "new-roles",
+        "augmentation",
+        "reskilling",
+        "research"
+      ],
+      "related_slugs": [
+        "software-developer",
+        "technical-writer",
+        "compliance-officer",
+        "risk-manager",
+        "data-analyst"
+      ],
+      "related_sectors": [
+        "information",
+        "professional",
+        "management"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "IN"
+      ],
+      "reading_min": 5,
+      "word_count": 868,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#from-tricks-to-discipline\">From tricks to discipline</a><ul>\n<li><a href=\"#what-changed\">What changed</a></li>\n</ul>\n</li>\n<li><a href=\"#the-durable-roles\">The durable roles</a><ul>\n<li><a href=\"#evaluation-and-quality\">Evaluation and quality</a></li>\n<li><a href=\"#ai-governance-and-risk\">AI governance and risk</a></li>\n<li><a href=\"#data-curation-and-annotation\">Data curation and annotation</a></li>\n<li><a href=\"#integration-and-product-work\">Integration and product work</a></li>\n</ul>\n</li>\n<li><a href=\"#where-the-task-exposure-actually-lands\">Where the task exposure actually lands</a><ul>\n<li><a href=\"#why-this-matters-for-workers\">Why this matters for workers</a></li>\n</ul>\n</li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "why-demand-for-data-and-ai-adjacent-roles-keeps-outrunning-supply",
       "title": "Why demand for data and AI-adjacent roles keeps outrunning supply",
       "dek": "The bottleneck isn't just headcount but a mismatch between what employers want and how quickly skills and job designs can adapt.",
