@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "slug": "small-businesses-and-ai-the-quiet-hiring-countercurrent",
+      "title": "Small businesses and AI: the quiet hiring countercurrent",
+      "dek": "While headlines warn of AI-driven job cuts at large firms, many small businesses are quietly adding roles to help them adopt the technology and redesign how work gets done.",
+      "type": "post",
+      "published_at": "2026-11-26",
+      "updated_at": "2026-11-26",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/small-businesses-and-ai-the-quiet-hiring-countercurrent.svg",
+      "hero_alt": "Small businesses and AI: the quiet hiring countercurrent",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "hiring",
+        "reskilling",
+        "small-business"
+      ],
+      "related_slugs": [
+        "bookkeeper",
+        "administrative-assistant",
+        "customer-service-representative",
+        "marketing-manager"
+      ],
+      "related_sectors": [
+        "admin-support",
+        "professional",
+        "retail",
+        "finance"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "CA",
+        "AU"
+      ],
+      "reading_min": 5,
+      "word_count": 934,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-story-the-layoff-headlines-miss\">The story the layoff headlines miss</a><ul>\n<li><a href=\"#why-small-firms-move-differently\">Why small firms move differently</a></li>\n</ul>\n</li>\n<li><a href=\"#the-augmentation-view-not-the-automation-view\">The augmentation view, not the automation view</a></li>\n<li><a href=\"#what-the-countercurrent-looks-like-on-the-ground\">What the countercurrent looks like on the ground</a><ul>\n<li><a href=\"#new-hybrid-roles\">New hybrid roles</a></li>\n<li><a href=\"#upskilling-over-redundancies\">Upskilling over redundancies</a></li>\n<li><a href=\"#the-bottleneck-is-time-and-confidence-not-demand-for-workers\">The bottleneck is time and confidence, not demand for workers</a></li>\n</ul>\n</li>\n<li><a href=\"#a-realistic-takeaway\">A realistic takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "prompt-engineering-grew-up-the-durable-roles-around-ai",
       "title": "Prompt Engineering Grew Up: The Durable Roles Around AI",
       "dek": "As prompt engineering matures from a trick into a discipline, the lasting jobs are the ones that wrap governance, evaluation and integration around AI systems.",
