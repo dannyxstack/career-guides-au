@@ -1,6 +1,44 @@
 {
   "posts": [
     {
+      "slug": "healthcare-and-the-trades-where-ai-is-fuelling-hiring-not-cutting-it",
+      "title": "Healthcare and the trades: where AI is fuelling hiring, not cutting it",
+      "dek": "AI is automating paperwork faster than patient care or pipework, and that gap is quietly driving demand for hands-on roles in hospitals and on job sites.",
+      "type": "post",
+      "published_at": "2026-12-03",
+      "updated_at": "2026-12-03",
+      "featured": false,
+      "author": "editorial",
+      "hero_image": "/static/blog/healthcare-and-the-trades-where-ai-is-fuelling-hiring-not-cutting-it.svg",
+      "hero_alt": "Healthcare and the trades: where AI is fuelling hiring, not cutting it",
+      "hero_credit": "",
+      "tags": [
+        "augmentation",
+        "hiring",
+        "research",
+        "reskilling"
+      ],
+      "related_slugs": [
+        "registered-nurse",
+        "electrician",
+        "plumber",
+        "construction-estimator"
+      ],
+      "related_sectors": [
+        "health",
+        "construction"
+      ],
+      "related_countries": [
+        "US",
+        "UK",
+        "DE",
+        "AU"
+      ],
+      "reading_min": 5,
+      "word_count": 892,
+      "toc": "<div class=\"toc\">\n<ul>\n<li><a href=\"#the-counterintuitive-hiring-story\">The counterintuitive hiring story</a></li>\n<li><a href=\"#what-ai-is-actually-doing-in-healthcare\">What AI is actually doing in healthcare</a></li>\n<li><a href=\"#why-the-trades-are-holding-firm\">Why the trades are holding firm</a></li>\n<li><a href=\"#the-exposure-map-where-the-line-falls\">The exposure map: where the line falls</a><ul>\n<li><a href=\"#roles-with-high-exposure-in-their-administrative-share\">Roles with high exposure in their administrative share</a></li>\n<li><a href=\"#roles-with-low-exposure-overall\">Roles with low exposure overall</a></li>\n</ul>\n</li>\n<li><a href=\"#the-reskilling-signal-not-the-redundancy-signal\">The reskilling signal, not the redundancy signal</a></li>\n<li><a href=\"#takeaway\">Takeaway</a></li>\n</ul>\n</div>\n"
+    },
+    {
       "slug": "small-businesses-and-ai-the-quiet-hiring-countercurrent",
       "title": "Small businesses and AI: the quiet hiring countercurrent",
       "dek": "While headlines warn of AI-driven job cuts at large firms, many small businesses are quietly adding roles to help them adopt the technology and redesign how work gets done.",
